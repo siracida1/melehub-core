@@ -33,16 +33,16 @@
     <string name="setup_display_size_description">حدّد حجم الواجهة ونصّها. يمكنك تغيير كليهما لاحقًا من الإعدادات.</string>
     <string name="setup_display_size_preview">إذا كنت تقرأ هذا بسهولة من مكان جلوسك، فالحجم مناسب.</string>
     <string name="setup_before_you_start">قبل البدء</string>
-    <string name="setup_disclaimer">OwnTV هو مشغّل وسائط فقط. ولا يتضمن أي قنوات أو قوائم تشغيل أو محتوى. أنت مسؤول عن إضافة مصادر Xtream أو M3U أو Stalker الخاصة بك التي يحق لك الوصول إليها قانونيًا.</string>
+    <string name="setup_disclaimer">MeleHub هو مشغّل وسائط فقط. ولا يتضمن أي قنوات أو قوائم تشغيل أو محتوى. أنت مسؤول عن إضافة مصادر Xtream أو M3U أو Stalker الخاصة بك التي يحق لك الوصول إليها قانونيًا.</string>
     <string name="setup_i_understand">فهمت</string>
-    <string name="setup_set_up_owntv">إعداد OwnTV</string>
+    <string name="setup_set_up_owntv">إعداد MeleHub</string>
     <string name="setup_setup_choice_description">ابدأ من جديد، أو استعد ملفاتك الشخصية وقوائم التشغيل والمفضّلة من ملف نسخة احتياطية أو من جهاز آخر.</string>
     <string name="setup_new_profile">ملف شخصي جديد</string>
     <string name="setup_create_profile_add_sources">أنشئ ملفًا شخصيًا وأضف مصادر</string>
     <string name="setup_restore_backup">استعادة نسخة احتياطية</string>
     <string name="setup_import_profiles_playlists">استيراد الملفات الشخصية وقوائم التشغيل من ملف</string>
     <string name="setup_sync_device">من جهاز آخر</string>
-    <string name="setup_sync_device_description">انسخ كل شيء من جهاز OwnTV الآخر عبر الواي فاي</string>
+    <string name="setup_sync_device_description">انسخ كل شيء من جهاز MeleHub الآخر عبر الواي فاي</string>
     <string name="setup_add_playlist">إضافة قائمة تشغيل</string>
     <string name="setup_add_playlist_description">أضف مصدرًا لهذا الملف الشخصي، أو أعدّه لاحقًا.</string>
     <string name="setup_new">جديد</string>
@@ -119,7 +119,7 @@
     <string name="setup_edit_source">تعديل المصدر</string>
     <string name="setup_add_your_source">إضافة مصدرك</string>
     <string name="setup_edit_source_description">حدّث تفاصيل هذا المصدر، أو غيّر إعداد التحديث التلقائي الخاص به.</string>
-    <string name="setup_byo_source_description">OwnTV هو مشغّل — أضف مصدر Xtream أو M3U أو Stalker الخاص بك.</string>
+    <string name="setup_byo_source_description">MeleHub هو مشغّل — أضف مصدر Xtream أو M3U أو Stalker الخاص بك.</string>
     <string name="setup_xtream">Xtream</string>
     <string name="setup_m3u">M3U / M3U8</string>
     <string name="setup_stalker_mac">Stalker (MAC)</string>
@@ -179,7 +179,7 @@
     <string name="setup_mag254">MAG254</string>
     <string name="setup_mag270">MAG270</string>
     <string name="setup_mag420">MAG420</string>
-    <string name="companion_pin_page_title">OwnTV — إدخال PIN</string>
+    <string name="companion_pin_page_title">MeleHub — إدخال PIN</string>
     <string name="companion_pin_heading">أدخل PIN</string>
     <string name="companion_pin_description">اكتب PIN المكوّن من 6 أرقام والظاهر على تلفازك للمتابعة.</string>
     <string name="companion_pin_placeholder">••••••</string>
@@ -201,14 +201,14 @@
     <string name="companion_open_subtitles_description">سجّل الدخول إلى OpenSubtitles من أجل تلفزيونك. أضف بيانات API الخاصة بك أدناه فقط إن كانت لديك.</string>
     <string name="companion_service_config_sent">بيانات الاتصال في انتظارك على التلفزيون الآن. راجعها واحفظها هناك.</string>
     <string name="companion_service_config_again">إرسال بيانات اتصال مختلفة</string>
-    <string name="companion_add_page_title">OwnTV — إضافة مصدر</string>
+    <string name="companion_add_page_title">MeleHub — إضافة مصدر</string>
     <string name="companion_add_heading">إضافة مصدر</string>
     <string name="companion_add_description">أدخل بيانات مصدر واحد واضغط على «إرسال». سيظهر على التلفاز — وعندما تصبح جاهزًا، أمسك جهاز التحكم عن بُعد واضغط هناك على «بدء الاستيراد».</string>
     <string name="companion_default_playlist">قائمة التشغيل الافتراضية</string>
     <string name="companion_send_to_tv">إرسال إلى التلفاز</string>
     <string name="companion_sync_xtream_hint">ما المطلوب مزامنته — «الآن» يستورد أولًا، و«لاحقًا» يزامن في الخلفية، أما «إيقاف» فلا يجلب المحتوى مطلقًا.</string>
     <string name="companion_sync_stalker_hint">ما المطلوب مزامنته — الإعداد الافتراضي للبث المباشر هو «الآن»، وللأفلام والمسلسلات «لاحقًا» (VOD في Stalker بطيء).</string>
-    <string name="companion_saved_page_title">OwnTV — تم الإرسال</string>
+    <string name="companion_saved_page_title">MeleHub — تم الإرسال</string>
     <string name="companion_saved_heading">تم الإرسال إلى تلفازك ✓</string>
     <string name="companion_saved_source_body">أصبح <xliff:g id="name">%1$s</xliff:g> الآن على شاشة إضافة مصدر في التلفاز. تحقّق من التفاصيل هناك واضغط على «بدء الاستيراد» باستخدام جهاز التحكم عن بُعد.</string>
     <string name="companion_saved_send_another">إرسال مصدر آخر</string>
@@ -216,9 +216,9 @@
     <string name="companion_saved_backup_link">إرسال ملف مختلف</string>
     <string name="companion_saved_image_body">أصبحت صورتك الآن خلفية التلفاز.</string>
     <string name="companion_saved_image_link">إرسال صورة مختلفة</string>
-    <string name="companion_backup_page_title">OwnTV — استعادة نسخة احتياطية</string>
+    <string name="companion_backup_page_title">MeleHub — استعادة نسخة احتياطية</string>
     <string name="companion_backup_heading">استعادة نسخة احتياطية</string>
-    <string name="companion_backup_description">اختر ملف نسخة احتياطية من OwnTV (بامتداد .own أو ملف .json أقدم) واضغط على «إرسال». سيُنقل إلى التلفاز — أمسك جهاز التحكم عن بُعد واختر هناك ما تريد استعادته.</string>
+    <string name="companion_backup_description">اختر ملف نسخة احتياطية من MeleHub (بامتداد .own أو ملف .json أقدم) واضغط على «إرسال». سيُنقل إلى التلفاز — أمسك جهاز التحكم عن بُعد واختر هناك ما تريد استعادته.</string>
     <string name="companion_backup_file">ملف النسخة الاحتياطية</string>
     <string name="companion_choose_backup">يُرجى اختيار ملف نسخة احتياطية أولًا.</string>
     <string name="companion_playlist_file">أو حمِّل ملف قائمة تشغيل</string>
@@ -227,15 +227,15 @@
     <string name="companion_upload_failed">فشل التحميل (HTTP <xliff:g id="status">%1$d</xliff:g>). تحقّق من PIN وحاول مجددًا.</string>
     <string name="companion_could_not_reach">تعذّر الوصول إلى التلفاز. ابقَ متصلًا بشبكة Wi-Fi نفسها وحاول مجددًا.</string>
     <string name="companion_could_not_read">تعذّرت قراءة هذا الملف.</string>
-    <string name="companion_image_page_title">OwnTV — صورة الخلفية</string>
+    <string name="companion_image_page_title">MeleHub — صورة الخلفية</string>
     <string name="companion_image_heading">إرسال صورة خلفية</string>
     <string name="companion_image_description">اختر صورة (JPG أو PNG أو WebP) واضغط على «إرسال». ستصبح صورة الخلفية خلف واجهة التلفاز.</string>
     <string name="companion_image_file">ملف الصورة</string>
     <string name="companion_choose_image">يُرجى اختيار صورة أولًا.</string>
     <string name="companion_image_too_large">هذه الصورة كبيرة جدًا (الحد الأقصى 25 MB).</string>
-    <string name="companion_download_page_title">OwnTV — تنزيل نسخة احتياطية</string>
+    <string name="companion_download_page_title">MeleHub — تنزيل نسخة احتياطية</string>
     <string name="companion_download_heading">تنزيل نسختك الاحتياطية</string>
-    <string name="companion_download_description">أعدّ تلفزيونك ملف نسخة احتياطية من OwnTV. اضغط على الزر لحفظه على هذا الجهاز (owntv-backup.own). احتفظ به في مكان آمن — يمكنك الاستعادة منه لاحقًا.</string>
+    <string name="companion_download_description">أعدّ تلفزيونك ملف نسخة احتياطية من MeleHub. اضغط على الزر لحفظه على هذا الجهاز (owntv-backup.own). احتفظ به في مكان آمن — يمكنك الاستعادة منه لاحقًا.</string>
     <string name="companion_download_backup">تنزيل النسخة الاحتياطية</string>
     <string name="companion_error_bad_request">طلب غير صالح</string>
     <string name="companion_error_body_too_large">محتوى الطلب كبير جدًا.</string>
@@ -277,6 +277,6 @@
     <string name="setup_stalker_device_id2_optional">معرّف الجهاز 2 (اختياري)</string>
     <string name="setup_stalker_signature_optional">التوقيع (اختياري)</string>
     <string name="companion_error_pair_failed">تعذّر الاقتران بهذا الجهاز.</string>
-    <string name="local_sync_browser_title">المزامنة المحلية في OwnTV</string>
-    <string name="local_sync_browser_body">هذا العنوان مخصص لتطبيق OwnTV على جهازك الآخر. افتح المزامنة المحلية هناك واختر هذا الجهاز من القائمة.</string>
+    <string name="local_sync_browser_title">المزامنة المحلية في MeleHub</string>
+    <string name="local_sync_browser_body">هذا العنوان مخصص لتطبيق MeleHub على جهازك الآخر. افتح المزامنة المحلية هناك واختر هذا الجهاز من القائمة.</string>
 </resources>

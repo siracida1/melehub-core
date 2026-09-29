@@ -128,8 +128,8 @@
     <string name="update_not_enough_space">Güncelleme için yeterli depolama alanı yok. Yaklaşık <xliff:g id="size">%1$s</xliff:g> yer açıp tekrar deneyin.</string>
     <string name="update_damaged_download">Güncelleme tam olarak indirilmedi. Bağlantınızı kontrol edip tekrar deneyin.</string>
     <string name="update_install_rejected">Sistem yükleyicisi güncellemeyi reddetti: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> hazır (sizde v<xliff:g id="current">%2$s</xliff:g> yüklü).</string>
-    <string name="recovery_title">OwnTV veritabanını açamadı</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> hazır (sizde v<xliff:g id="current">%2$s</xliff:g> yüklü).</string>
+    <string name="recovery_title">MeleHub veritabanını açamadı</string>
     <string name="recovery_data_safe_full">Profilleriniz, oynatma listeleriniz, favorileriniz ve geçmişiniz SİLİNMEDİ — bu bir veritabanı yükseltme hatasıdır ve veriler hâlâ bu cihazdadır.\n\nLütfen düzeltilebilmesi için bu sorunu bildirin ve aşağıdaki mesajı ekleyin.</string>
     <string name="recovery_retry">Tekrar deneyin</string>
     <string name="recovery_backup_hint">Bir yedekleme dosyanız varsa uygulamayı sıfırlayıp ardından bu dosyadan geri yükleyebilirsiniz. Sıfırlama işlemi bu cihazda depolanan her şeyi siler.</string>
@@ -219,13 +219,13 @@
     <string name="settings_recording_pre_roll_description">Belirtilen başlangıç saatinden bu kadar önce başla; böylece biraz erken giden bir rehber açılışı kaçırmaz.</string>
     <string name="settings_recording_post_roll">Bitişten sonra devam et</string>
     <string name="settings_recording_post_roll_description">Belirtilen bitiş saatinden bu kadar sonra devam et; böylece uzayan bir program kesilmez.</string>
-    <string name="settings_recording_timers_inexact">Bu cihaz OwnTV’nin tam zamanlı alarm kurmasına izin vermiyor, bu yüzden bir kayıt birkaç dakika geç başlayabilir. Kayıtlar bunu telafi etmek için erken başlar.</string>
+    <string name="settings_recording_timers_inexact">Bu cihaz MeleHub’nin tam zamanlı alarm kurmasına izin vermiyor, bu yüzden bir kayıt birkaç dakika geç başlayabilir. Kayıtlar bunu telafi etmek için erken başlar.</string>
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> dakika</item>
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> dakika</item>
     </plurals>
     <string name="recording_failed_encrypted">Bu kanal şifreli olduğu için kaydedilemez</string>
-    <string name="recording_failed_drm">Bu kanal DRM korumalı olduğundan izlenebilir ancak kaydedilemez. Bu koruma OwnTV\'den değil, sağlayıcınızdan geliyor.</string>
+    <string name="recording_failed_drm">Bu kanal DRM korumalı olduğundan izlenebilir ancak kaydedilemez. Bu koruma MeleHub\'den değil, sağlayıcınızdan geliyor.</string>
     <string name="recording_failed_metered">Mobil veriyle kaydedilmedi</string>
     <string name="settings_recording_mobile_data">Mobil veriyle kaydet</string>
     <string name="settings_recording_mobile_data_description">Kapalı: Wi-Fi dışında denk gelen bir kayıt beklemek yerine atlanır — canlı bir yayın tekrar etmez.</string>

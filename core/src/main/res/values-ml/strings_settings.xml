@@ -49,7 +49,7 @@
     <string name="settings_dynamic">ചലനാത്മകം</string>
     <string name="settings_http_proxy">HTTP പ്രോക്സി</string>
     <string name="settings_use_proxy">പ്രോക്സി ഉപയോഗിക്കുക</string>
-    <string name="settings_proxy_description">OwnTV-യുടെ എല്ലാ ട്രാഫിക്കും പ്ലേബാക്കും ഒരു HTTP പ്രോക്സിയിലൂടെ അയയ്ക്കുക.</string>
+    <string name="settings_proxy_description">MeleHub-യുടെ എല്ലാ ട്രാഫിക്കും പ്ലേബാക്കും ഒരു HTTP പ്രോക്സിയിലൂടെ അയയ്ക്കുക.</string>
     <string name="settings_host">ഹോസ്റ്റ്</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">പോർട്ട്</string>
@@ -158,7 +158,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> ശേഷിക്കുന്നു</item>
     </plurals>
     <string name="settings_metadata_active_source">സജീവ ഉറവിടം</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · സജ്ജീകരണം വേണ്ട</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · സജ്ജീകരണം വേണ്ട</string>
     <string name="settings_metadata_connection">കണക്ഷൻ</string>
     <string name="settings_metadata_remote_advanced">വിപുലമായ TMDB വിവരങ്ങൾ നേടുക</string>
     <string name="settings_metadata_remote_advanced_description">പങ്കിട്ട ഡിഫോൾട്ടിനു പകരം നിങ്ങളുടെ സ്വന്തം TMDB API കീ അല്ലെങ്കിൽ സ്വയം ഹോസ്റ്റ് ചെയ്ത Worker ഉപയോഗിക്കുക.</string>
@@ -169,8 +169,8 @@
     <string name="settings_metadata_server_label">സെർവർ</string>
     <string name="settings_metadata_refills_label">വീണ്ടും നിറയും</string>
     <string name="settings_metadata_clear_advanced_title">സ്വന്തം കീ ഉപയോഗിക്കുന്നത് നിർത്തണോ?</string>
-    <string name="settings_metadata_clear_advanced_message">നിങ്ങളുടെ TMDB API കീയും സെർവർ വിലാസവും ഈ ഉപകരണത്തിൽ നിന്ന് ഇല്ലാതാക്കും, കൂടാതെ OwnTV ദൈനംദിന വിഹിതമുള്ള അന്തർനിർമ്മിത പങ്കിട്ട സേവനത്തിലേക്ക് മടങ്ങും.</string>
-    <string name="settings_metadata_fair_share">അന്തർനിർമ്മിത മെറ്റാഡാറ്റ സേവനം OwnTV ഉപയോഗിക്കുന്ന എല്ലാവരും പങ്കിടുന്നു, അതിനാൽ ഓരോ ഉപകരണത്തിനും ഓരോ ദിവസവും സ്വന്തം വിഹിതം ലഭിക്കും. വിഹിതം തീർന്നാൽ പോസ്റ്ററുകളും വിവരണങ്ങളും അത് വീണ്ടും നിറയുന്നതുവരെ താൽക്കാലികമായി നിർത്തും — നിങ്ങളുടെ പ്ലേലിസ്റ്റിലെ വിവരങ്ങൾ പതിവുപോലെ പ്രവർത്തിക്കും. സ്വന്തം TMDB API കീയോ സെർവറോ ചേർത്താൽ ഈ പരിധി ഇല്ലാതാകും: അത് സൗജന്യമാണ്, വ്യക്തിഗത കീയ്ക്ക് പ്രായോഗികമായി പരിധിയില്ല.</string>
+    <string name="settings_metadata_clear_advanced_message">നിങ്ങളുടെ TMDB API കീയും സെർവർ വിലാസവും ഈ ഉപകരണത്തിൽ നിന്ന് ഇല്ലാതാക്കും, കൂടാതെ MeleHub ദൈനംദിന വിഹിതമുള്ള അന്തർനിർമ്മിത പങ്കിട്ട സേവനത്തിലേക്ക് മടങ്ങും.</string>
+    <string name="settings_metadata_fair_share">അന്തർനിർമ്മിത മെറ്റാഡാറ്റ സേവനം MeleHub ഉപയോഗിക്കുന്ന എല്ലാവരും പങ്കിടുന്നു, അതിനാൽ ഓരോ ഉപകരണത്തിനും ഓരോ ദിവസവും സ്വന്തം വിഹിതം ലഭിക്കും. വിഹിതം തീർന്നാൽ പോസ്റ്ററുകളും വിവരണങ്ങളും അത് വീണ്ടും നിറയുന്നതുവരെ താൽക്കാലികമായി നിർത്തും — നിങ്ങളുടെ പ്ലേലിസ്റ്റിലെ വിവരങ്ങൾ പതിവുപോലെ പ്രവർത്തിക്കും. സ്വന്തം TMDB API കീയോ സെർവറോ ചേർത്താൽ ഈ പരിധി ഇല്ലാതാകും: അത് സൗജന്യമാണ്, വ്യക്തിഗത കീയ്ക്ക് പ്രായോഗികമായി പരിധിയില്ല.</string>
     <string name="settings_metadata_limit_reached">ഇന്നത്തെ മെറ്റാഡാറ്റ വിഹിതം തീർന്നു — ഈ പരിധി നീക്കാൻ ക്രമീകരണങ്ങൾ → മെറ്റാഡാറ്റയിൽ സ്വന്തം TMDB കീ ചേർക്കുക.</string>
     <string name="settings_metadata_language">മെറ്റാഡാറ്റ ഭാഷ</string>
     <string name="settings_metadata_language_description">TMDB-യിൽ നിന്നുള്ള കഥാസാരം, വിഭാഗം, ശീർഷകം എന്നിവയുടെ ഭാഷ. TMDB വിവർത്തനം ചെയ്യാത്ത ഫീൽഡുകൾ ഇംഗ്ലീഷിൽ തുടരും. വിശദാംശങ്ങൾ ഓരോ ഭാഷയ്ക്കും വെവ്വേറെ കാഷ് ചെയ്യുന്നു, അതിനാൽ തിരികെ മാറുന്നത് തൽക്ഷണമാണ്.</string>
@@ -315,7 +315,7 @@
     <string name="settings_network_group">നെറ്റ്‌വർക്ക്</string>
     <string name="settings_app_group">ആപ്പ്</string>
     <string name="settings_app_startup">ആപ്പ് ആരംഭിക്കൽ</string>
-    <string name="settings_app_startup_description">OwnTV ആരംഭിക്കുമ്പോൾ തുറക്കേണ്ടത്</string>
+    <string name="settings_app_startup_description">MeleHub ആരംഭിക്കുമ്പോൾ തുറക്കേണ്ടത്</string>
     <string name="settings_check_updates">അപ്‌ഡേറ്റുകൾക്കായി പരിശോധിക്കുക</string>
     <string name="settings_check_updates_description">GitHub Releases-ൽ നിന്ന് ഏറ്റവും പുതിയ പതിപ്പ് നേടുക</string>
     <string name="settings_update_startup">ആരംഭിക്കുമ്പോൾ അപ്‌ഡേറ്റുകൾ പരിശോധിക്കുക</string>
@@ -347,7 +347,7 @@
     <string name="settings_about_version">പതിപ്പ് <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">Android TV-യ്ക്കായുള്ള നിങ്ങളുടെ സ്വന്തം IPTV പ്ലെയർ — സൗജന്യവും ഓപ്പൺ സോഴ്‌സുമായ, പ്ലെയർ മാത്രമുള്ള ആപ്പ്. ഇത് ചാനലുകളോ ഉള്ളടക്കമോ നൽകുന്നില്ല; നിയമപരമായി ലഭ്യമായ നിങ്ങളുടെ സ്വന്തം ഉറവിടങ്ങൾ നിങ്ങൾ നൽകണം.</string>
     <string name="settings_about_description_full_mobile">Android-യ്ക്കായുള്ള നിങ്ങളുടെ സ്വന്തം IPTV പ്ലെയർ — സൗജന്യവും ഓപ്പൺ സോഴ്‌സുമായ, പ്ലെയർ മാത്രമുള്ള ആപ്പ്. ഇത് ചാനലുകളോ ഉള്ളടക്കമോ നൽകുന്നില്ല; നിയമപരമായി ലഭ്യമായ നിങ്ങളുടെ സ്വന്തം ഉറവിടങ്ങൾ നിങ്ങൾ നൽകണം.</string>
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3 ലൈസൻസ്</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3 ലൈസൻസ്</string>
     <string name="settings_join_telegram">Telegram-ൽ ഞങ്ങളോടൊപ്പം ചേരുക</string>
     <string name="settings_telegram_qr">Telegram ഗ്രൂപ്പിന്റെ QR കോഡ്</string>
     <string name="settings_telegram_scan">ഫോണിൽ നിന്ന് ചേരാൻ QR സ്കാൻ ചെയ്യുക, അല്ലെങ്കിൽ മുകളിലെ ലിങ്ക് തുറക്കുക.</string>
@@ -587,7 +587,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles ആപ്ലിക്കേഷൻ API കീ</string>
     <string name="settings_worker_server_url">Worker / സെർവർ URL</string>
     <string name="settings_shared">പങ്കിട്ടത്</string>
-    <string name="settings_open_subtitles_access_priority">OwnTV-യുടെ പങ്കിട്ട Worker ഉപയോഗിക്കാൻ രണ്ടും ശൂന്യമായി വിടുക. കസ്റ്റം Worker URL-ന് നേരിട്ടുള്ള API കീയേക്കാൾ മുൻഗണനയുണ്ട്. അക്കൗണ്ട് സെഷനുകൾ പ്രൊഫൈൽ പ്രത്യേകമായി തുടരും.</string>
+    <string name="settings_open_subtitles_access_priority">MeleHub-യുടെ പങ്കിട്ട Worker ഉപയോഗിക്കാൻ രണ്ടും ശൂന്യമായി വിടുക. കസ്റ്റം Worker URL-ന് നേരിട്ടുള്ള API കീയേക്കാൾ മുൻഗണനയുണ്ട്. അക്കൗണ്ട് സെഷനുകൾ പ്രൊഫൈൽ പ്രത്യേകമായി തുടരും.</string>
     <string name="settings_remove_custom_access">കസ്റ്റം ആക്‌സസ് നീക്കുക</string>
     <string name="settings_audio">ഓഡിയോ</string>
     <string name="settings_preferred_audio_language">മുൻഗണനയുള്ള ഓഡിയോ ഭാഷ</string>
@@ -674,7 +674,7 @@
     <string name="settings_guide_synced">ടിവി ഗൈഡ് സമന്വയിപ്പിച്ചു</string>
     <string name="settings_guide_sync_failed">ടിവി ഗൈഡ് സമന്വയിപ്പിക്കൽ പരാജയപ്പെട്ടു</string>
     <string name="settings_restore_remote_title">മറ്റൊരു ഉപകരണത്തിൽ നിന്ന് പുനഃസ്ഥാപിക്കുക</string>
-    <string name="settings_restore_remote_description">അതേ Wi-Fi-യിലുള്ള ഫോണിലോ ടാബ്‌ലെറ്റിലോ കമ്പ്യൂട്ടറിലോ QR സ്കാൻ ചെയ്യുക (അല്ലെങ്കിൽ URL തുറക്കുക), ഈ PIN നൽകുക, നിങ്ങളുടെ OwnTV ബാക്കപ്പ് ഫയൽ തിരഞ്ഞെടുത്ത് Send to TV ടാപ്പ് ചെയ്യുക. തുടർന്ന് ഇവിടെ എന്തൊക്കെ പുനഃസ്ഥാപിക്കണമെന്ന് തിരഞ്ഞെടുക്കാം.</string>
+    <string name="settings_restore_remote_description">അതേ Wi-Fi-യിലുള്ള ഫോണിലോ ടാബ്‌ലെറ്റിലോ കമ്പ്യൂട്ടറിലോ QR സ്കാൻ ചെയ്യുക (അല്ലെങ്കിൽ URL തുറക്കുക), ഈ PIN നൽകുക, നിങ്ങളുടെ MeleHub ബാക്കപ്പ് ഫയൽ തിരഞ്ഞെടുത്ത് Send to TV ടാപ്പ് ചെയ്യുക. തുടർന്ന് ഇവിടെ എന്തൊക്കെ പുനഃസ്ഥാപിക്കണമെന്ന് തിരഞ്ഞെടുക്കാം.</string>
     <string name="settings_opening_server">സെർവർ തുറക്കുന്നു…</string>
     <string name="settings_enter_pin_browser">ബ്രൗസറിൽ ഈ PIN നൽകുക</string>
     <string name="settings_companion_qr">സഹായി URL-നുള്ള QR കോഡ്</string>
@@ -701,7 +701,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">ഉപകരണം</string>
     <string name="settings_catchup_player_ask">എപ്പോഴും ചോദിക്കുക</string>
-    <string name="settings_catchup_player_internal">OwnTV പ്ലെയർ</string>
+    <string name="settings_catchup_player_internal">MeleHub പ്ലെയർ</string>
     <string name="settings_catchup_player_external">ബാഹ്യ പ്ലെയർ</string>
     <string name="settings_soon">ഉടൻ</string>
     <string name="settings_download_folder_title">ഡൗൺലോഡ് ഫോൾഡർ തിരഞ്ഞെടുക്കുക</string>
@@ -833,9 +833,9 @@
     <string name="settings_sources_info">വിവരം</string>
     <string name="settings_sources_retest">വീണ്ടും പരിശോധിക്കുക</string>
     <string name="settings_sources_probe_title">ഈ പ്ലേലിസ്റ്റ് പരിശോധിക്കണോ?</string>
-    <string name="settings_sources_probe_warning">ഒരേസമയം എത്ര ചാനലുകൾ കാണാമെന്ന് പല ദാതാക്കളും ഒരിക്കലും പറയാറില്ല. അതിനാൽ കുറച്ച് ചാനലുകൾ തുറന്ന് ഏതൊക്കെ തുടരുന്നു എന്ന് നോക്കിയാണ് OwnTV ഇത് കണ്ടെത്തുന്നത്. ഇപ്പോൾ പ്ലേ ചെയ്യുന്നതെല്ലാം നിലയ്ക്കും, ഇതിന് രണ്ട് മിനിറ്റ് വരെ എടുത്തേക്കാം.</string>
+    <string name="settings_sources_probe_warning">ഒരേസമയം എത്ര ചാനലുകൾ കാണാമെന്ന് പല ദാതാക്കളും ഒരിക്കലും പറയാറില്ല. അതിനാൽ കുറച്ച് ചാനലുകൾ തുറന്ന് ഏതൊക്കെ തുടരുന്നു എന്ന് നോക്കിയാണ് MeleHub ഇത് കണ്ടെത്തുന്നത്. ഇപ്പോൾ പ്ലേ ചെയ്യുന്നതെല്ലാം നിലയ്ക്കും, ഇതിന് രണ്ട് മിനിറ്റ് വരെ എടുത്തേക്കാം.</string>
     <string name="settings_sources_probe_running">ഈ ദാതാവ് എത്ര ചാനലുകൾ അനുവദിക്കുന്നു എന്ന് പരിശോധിക്കുന്നു… (<xliff:g id="total">%2$d</xliff:g>-ൽ <xliff:g id="current">%1$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">ഈ ദാതാവ് എത്ര ചാനലുകൾ അനുവദിക്കുന്നു എന്ന് OwnTV-യ്ക്ക് കണ്ടെത്താനായില്ല.</string>
+    <string name="settings_sources_probe_unknown">ഈ ദാതാവ് എത്ര ചാനലുകൾ അനുവദിക്കുന്നു എന്ന് MeleHub-യ്ക്ക് കണ്ടെത്താനായില്ല.</string>
     <string name="settings_sources_probe_skip">ഒഴിവാക്കുക</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">ഡിഫോൾട്ട്</string>
@@ -1086,7 +1086,7 @@
     <string name="settings_move_category_action">മാറ്റുക</string>
     <string name="settings_dns_description">ഡൊമെയ്ൻ ലുക്കപ്പുകൾക്കായി ഇഷ്ടാനുസൃത DNS സെർവർ ഉപയോഗിക്കുക</string>
     <string name="settings_dns_custom">ഇഷ്ടാനുസൃത DNS</string>
-    <string name="settings_dns_toggle_description">എല്ലാ OwnTV ഡൊമെയ്ൻ ലുക്കപ്പുകളും ഒരു ഇഷ്ടാനുസൃത DNS സെർവർ വഴി പരിഹരിക്കുക.</string>
+    <string name="settings_dns_toggle_description">എല്ലാ MeleHub ഡൊമെയ്ൻ ലുക്കപ്പുകളും ഒരു ഇഷ്ടാനുസൃത DNS സെർവർ വഴി പരിഹരിക്കുക.</string>
     <string name="settings_dns_use_custom">ഇഷ്ടാനുസൃത DNS ഉപയോഗിക്കുക</string>
     <string name="settings_dns_server_missing">ഇഷ്ടാനുസൃത DNS പ്രവർത്തനക്ഷമമാണ്, പക്ഷേ സെർവർ സജ്ജീകരിച്ചിട്ടില്ല. ഒരു സെർവർ വിലാസം നൽകി സംരക്ഷിക്കുക എന്നത് തിരഞ്ഞെടുക്കുക, അല്ലെങ്കിൽ ഇത് ഓഫാക്കുക.</string>
     <string name="settings_dns_server">DNS സെർവർ</string>
@@ -1133,7 +1133,7 @@
     <string name="settings_live_preroll">ലൈവ് സ്ട്രീമുകൾ പ്രീ-ബഫർ ചെയ്യുക</string>
     <string name="settings_live_preroll_description">ഒരു ലൈവ് ചാനൽ പ്ലേ ചെയ്യാൻ തുടങ്ങുന്നതിന് മുമ്പ് ഇത്രയും വീഡിയോ ബഫർ ചെയ്യുക, സ്റ്റട്ടറിന് ശേഷവും വീണ്ടും. ഇത് വീഡിയോയുടെ അളവാണ്, കൗണ്ട്ഡൗൺ അല്ല. ഓഫ് ആണെങ്കിൽ ഏറ്റവും വേഗത്തിൽ പ്ലേ ആരംഭിക്കും.</string>
     <string name="settings_live_tune_timeout">ചാനൽ ഉപേക്ഷിക്കാനുള്ള സമയം</string>
-    <string name="settings_live_tune_timeout_description">ഈ സമയത്തിനുള്ളിൽ ഒരു ലൈവ് ചാനലിൽ ചിത്രം വന്നില്ലെങ്കിൽ, തന്റെ എല്ലാ പ്ലേയറുകളും ഓരോന്നായി പരീക്ഷിച്ച് കറുത്ത സ്ക്രീൻ കാണിച്ചുനിൽക്കുന്നതിനു പകരം OwnTV ശ്രമം നിർത്തി നിങ്ങളോട് പറയും. “ഒരിക്കലും വേണ്ട” എന്നത് ശ്രമം തുടരും; നിങ്ങളുടെ ദാതാവ് നീക്കം ചെയ്ത ചാനലിൽ അതിന് ഒരു മിനിറ്റിലേറെ എടുക്കാം. ദാതാവ് തന്നെ ആവശ്യപ്പെടുന്ന കാത്തിരിപ്പ് ഇതിൽ കണക്കാക്കില്ല.</string>
+    <string name="settings_live_tune_timeout_description">ഈ സമയത്തിനുള്ളിൽ ഒരു ലൈവ് ചാനലിൽ ചിത്രം വന്നില്ലെങ്കിൽ, തന്റെ എല്ലാ പ്ലേയറുകളും ഓരോന്നായി പരീക്ഷിച്ച് കറുത്ത സ്ക്രീൻ കാണിച്ചുനിൽക്കുന്നതിനു പകരം MeleHub ശ്രമം നിർത്തി നിങ്ങളോട് പറയും. “ഒരിക്കലും വേണ്ട” എന്നത് ശ്രമം തുടരും; നിങ്ങളുടെ ദാതാവ് നീക്കം ചെയ്ത ചാനലിൽ അതിന് ഒരു മിനിറ്റിലേറെ എടുക്കാം. ദാതാവ് തന്നെ ആവശ്യപ്പെടുന്ന കാത്തിരിപ്പ് ഇതിൽ കണക്കാക്കില്ല.</string>
     <string name="settings_live_preroll_per_playlist">ഓരോ പ്ലേലിസ്റ്റിനും പ്രീ-ബഫർ</string>
     <string name="settings_live_preroll_per_playlist_description">മുകളിലെ ക്രമീകരണം ഒരു പ്ലേലിസ്റ്റിനായി ഓവർറൈഡ് ചെയ്യുക, മറ്റ് പ്ലേലിസ്റ്റുകൾ വേഗത്തിൽ തന്നെ നിലനിർത്തുക.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1159,7 +1159,7 @@
     <string name="settings_surround_auto_description_mobile">ഓട്ടോ — ഡോൾബി/DTS സറൗണ്ട് പരീക്ഷിക്കുക, സ്പീക്കറോ ഹെഡ്‌ഫോണുകളോ ബന്ധിപ്പിച്ച റിസീവറോ അത് പ്ലേ ചെയ്യുന്നില്ലെങ്കിൽ ഓട്ടോമാറ്റിക്കായി സ്റ്റീരിയോയിലേക്ക് തിരികെ മാറുക. ശുപാർശ ചെയ്യുന്നു.</string>
     <string name="settings_surround_stereo_description">സ്റ്റീരിയോ മാത്രം — എപ്പോഴും ആപ്പിനുള്ളിൽ ഡീകോഡ് ചെയ്ത് സാധാരണ 2.0 ശബ്ദം അയയ്ക്കുക. ടിവി സ്പീക്കറുകളിലോ സ്റ്റീരിയോ സൗണ്ട്ബാറിലോ, അല്ലെങ്കിൽ ഓഡിയോ ചിത്രത്തിന് പിന്നിൽ വൈകുന്നുവെങ്കിൽ ഇത് ഉപയോഗിക്കുക.</string>
     <string name="settings_surround_stereo_description_mobile">സ്റ്റീരിയോ മാത്രം — എപ്പോഴും ആപ്പിനുള്ളിൽ ഡീകോഡ് ചെയ്ത് സാധാരണ 2.0 ശബ്ദം അയയ്ക്കുക. ബിൽറ്റ്-ഇൻ സ്പീക്കറിലോ ഹെഡ്‌ഫോണുകളിലോ സ്റ്റീരിയോ സൗണ്ട്ബാറിലോ, അല്ലെങ്കിൽ ഓഡിയോ ചിത്രത്തിന് പിന്നിൽ വൈകുന്നുവെങ്കിൽ ഇത് ഉപയോഗിക്കുക.</string>
-    <string name="settings_surround_forced_description">സറൗണ്ട് — ഡോൾബി/DTS ഒരു യഥാർത്ഥ 5.1/7.1 റിസീവറിലേക്ക് അയയ്ക്കുക. അത് നിശ്ശബ്ദമാകുകയോ സ്റ്റട്ടർ ചെയ്യുകയോ ചെയ്താൽ, OwnTV ഇപ്പോഴും സ്റ്റീരിയോയിലേക്ക് മടങ്ങുകയും നിങ്ങളെ അറിയിക്കുകയും ചെയ്യും.</string>
+    <string name="settings_surround_forced_description">സറൗണ്ട് — ഡോൾബി/DTS ഒരു യഥാർത്ഥ 5.1/7.1 റിസീവറിലേക്ക് അയയ്ക്കുക. അത് നിശ്ശബ്ദമാകുകയോ സ്റ്റട്ടർ ചെയ്യുകയോ ചെയ്താൽ, MeleHub ഇപ്പോഴും സ്റ്റീരിയോയിലേക്ക് മടങ്ങുകയും നിങ്ങളെ അറിയിക്കുകയും ചെയ്യും.</string>
     <string name="settings_panel_width">പാനൽ വീതി ക്രമീകരണം</string>
     <string name="settings_panel_width_description">ലൈവ് ടിവി, സിനിമകൾ &amp; സീരീസുകൾ എന്നിവയിലെ വിഭാഗം, പട്ടിക, പ്രിവ്യൂ പാനലുകളുടെ വലിപ്പം മാറ്റുക.</string>
     <string name="settings_vod_layout">സിനിമകളുടെയും സീരീസുകളുടെയും വിന്യാസം</string>
@@ -1201,9 +1201,9 @@
     <string name="settings_panel_width_preview_panel"><xliff:g id="label">%1$s</xliff:g> പാനൽ</string>
     <string name="settings_panel_width_total">ആകെ വലിപ്പം</string>
     <string name="settings_panel_width_invalid_total">ആകെ വലിപ്പം <xliff:g id="total">%1$d</xliff:g>%% ആണ്. അത് 100%% ആകണം — ദയവായി ക്രമീകരിക്കുക.</string>
-    <string name="settings_language_help_translate">OwnTV നിങ്ങളുടെ ഭാഷയിലേക്ക് വിവർത്തനം ചെയ്യാൻ സഹായിക്കുക</string>
-    <string name="settings_language_contribution_description">QR കോഡ് സ്കാൻ ചെയ്യുക അല്ലെങ്കിൽ ലിങ്ക് തുറന്ന് ലഭ്യമായ ഏത് ഭാഷയും തിരഞ്ഞെടുത്ത് OwnTV-യുടെ ആറ് വിവർത്തന ഘടകങ്ങളിലും സംഭാവന നൽകുക.</string>
-    <string name="settings_language_contribution_qr_description">OwnTV വിവർത്തന പ്രോജക്റ്റ് അവലോകനത്തിനുള്ള QR കോഡ്</string>
+    <string name="settings_language_help_translate">MeleHub നിങ്ങളുടെ ഭാഷയിലേക്ക് വിവർത്തനം ചെയ്യാൻ സഹായിക്കുക</string>
+    <string name="settings_language_contribution_description">QR കോഡ് സ്കാൻ ചെയ്യുക അല്ലെങ്കിൽ ലിങ്ക് തുറന്ന് ലഭ്യമായ ഏത് ഭാഷയും തിരഞ്ഞെടുത്ത് MeleHub-യുടെ ആറ് വിവർത്തന ഘടകങ്ങളിലും സംഭാവന നൽകുക.</string>
+    <string name="settings_language_contribution_qr_description">MeleHub വിവർത്തന പ്രോജക്റ്റ് അവലോകനത്തിനുള്ള QR കോഡ്</string>
     <string name="settings_language_contribution_qr_failed">QR കോഡ് സൃഷ്ടിക്കാൻ കഴിഞ്ഞില്ല. പകരം താഴെ കാണിച്ചിരിക്കുന്ന ലിങ്ക് ഉപയോഗിക്കുക.</string>
     <string name="settings_language_contribution_copy">ലിങ്ക് പകർത്തുക</string>
     <string name="settings_language_contribution_copied">ലിങ്ക് പകർത്തി</string>
@@ -1212,8 +1212,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">ഈ ടിവിയിൽ ശുപാർശ ചെയ്യുന്നില്ല: Android 12-ന് താഴെ ഫ്രെയിം റേറ്റ് സുഗമമായി മാറ്റാനാകില്ല.</string>
     <string name="settings_auto_frame_rate_warning_title">ഈ ടിവിയിൽ ശുപാർശ ചെയ്യുന്നില്ല</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">ഈ ഉപകരണത്തിൽ ശുപാർശ ചെയ്യുന്നില്ല</string>
-    <string name="settings_auto_frame_rate_warning_description">ഈ ഉപകരണം Android <xliff:g id="android_version">%1$s</xliff:g> ആണ് പ്രവർത്തിപ്പിക്കുന്നത്. Android 12-ന് താഴെ, ഏത് റിഫ്രഷ് റേറ്റുകളിലേക്ക് സുഗമമായി മാറാനാകുമെന്ന് ടിവിക്ക് OwnTV-യോട് പറയാൻ കഴിയില്ല. അതിനാൽ ഫ്രെയിം റേറ്റ് മാറ്റുമ്പോൾ സ്ക്രീൻ ഒരു സെക്കൻഡോ രണ്ടോ ഇരുണ്ടുപോയേക്കാം — ചിലപ്പോൾ ഒരു പ്രോഗ്രാമിനിടെ ഒന്നിലധികം തവണ.\n\nഓട്ടോ ഫ്രെയിം റേറ്റ് ഇവിടെ ഓഫ് ആക്കി വയ്ക്കാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു. നിങ്ങളുടെ ടിവി വൃത്തിയായി മാറുന്നുണ്ടെങ്കിൽ, അത് ഓൺ ചെയ്ത് നോക്കൂ: എപ്പോൾ വേണമെങ്കിലും നിങ്ങൾക്ക് തിരികെ മാറ്റാം.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">ഈ ഉപകരണം Android <xliff:g id="android_version">%1$s</xliff:g> ആണ് പ്രവർത്തിപ്പിക്കുന്നത്. Android 12-ന് താഴെ, ഏത് റിഫ്രഷ് റേറ്റുകളിലേക്ക് സുഗമമായി മാറാനാകുമെന്ന് ഉപകരണത്തിന് OwnTV-യോട് പറയാൻ കഴിയില്ല. അതിനാൽ ഫ്രെയിം റേറ്റ് മാറ്റുമ്പോൾ സ്ക്രീൻ ഒരു സെക്കൻഡോ രണ്ടോ ഇരുണ്ടുപോയേക്കാം — ചിലപ്പോൾ ഒരു പ്രോഗ്രാമിനിടെ ഒന്നിലധികം തവണ.\n\nഓട്ടോ ഫ്രെയിം റേറ്റ് ഇവിടെ ഓഫ് ആക്കി വയ്ക്കാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു. നിങ്ങളുടെ സ്ക്രീൻ വൃത്തിയായി മാറുന്നുണ്ടെങ്കിൽ, അത് ഓൺ ചെയ്ത് നോക്കൂ: എപ്പോൾ വേണമെങ്കിലും നിങ്ങൾക്ക് തിരികെ മാറ്റാം.</string>
+    <string name="settings_auto_frame_rate_warning_description">ഈ ഉപകരണം Android <xliff:g id="android_version">%1$s</xliff:g> ആണ് പ്രവർത്തിപ്പിക്കുന്നത്. Android 12-ന് താഴെ, ഏത് റിഫ്രഷ് റേറ്റുകളിലേക്ക് സുഗമമായി മാറാനാകുമെന്ന് ടിവിക്ക് MeleHub-യോട് പറയാൻ കഴിയില്ല. അതിനാൽ ഫ്രെയിം റേറ്റ് മാറ്റുമ്പോൾ സ്ക്രീൻ ഒരു സെക്കൻഡോ രണ്ടോ ഇരുണ്ടുപോയേക്കാം — ചിലപ്പോൾ ഒരു പ്രോഗ്രാമിനിടെ ഒന്നിലധികം തവണ.\n\nഓട്ടോ ഫ്രെയിം റേറ്റ് ഇവിടെ ഓഫ് ആക്കി വയ്ക്കാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു. നിങ്ങളുടെ ടിവി വൃത്തിയായി മാറുന്നുണ്ടെങ്കിൽ, അത് ഓൺ ചെയ്ത് നോക്കൂ: എപ്പോൾ വേണമെങ്കിലും നിങ്ങൾക്ക് തിരികെ മാറ്റാം.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">ഈ ഉപകരണം Android <xliff:g id="android_version">%1$s</xliff:g> ആണ് പ്രവർത്തിപ്പിക്കുന്നത്. Android 12-ന് താഴെ, ഏത് റിഫ്രഷ് റേറ്റുകളിലേക്ക് സുഗമമായി മാറാനാകുമെന്ന് ഉപകരണത്തിന് MeleHub-യോട് പറയാൻ കഴിയില്ല. അതിനാൽ ഫ്രെയിം റേറ്റ് മാറ്റുമ്പോൾ സ്ക്രീൻ ഒരു സെക്കൻഡോ രണ്ടോ ഇരുണ്ടുപോയേക്കാം — ചിലപ്പോൾ ഒരു പ്രോഗ്രാമിനിടെ ഒന്നിലധികം തവണ.\n\nഓട്ടോ ഫ്രെയിം റേറ്റ് ഇവിടെ ഓഫ് ആക്കി വയ്ക്കാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു. നിങ്ങളുടെ സ്ക്രീൻ വൃത്തിയായി മാറുന്നുണ്ടെങ്കിൽ, അത് ഓൺ ചെയ്ത് നോക്കൂ: എപ്പോൾ വേണമെങ്കിലും നിങ്ങൾക്ക് തിരികെ മാറ്റാം.</string>
     <string name="settings_auto_frame_rate_keep_off">ഓഫ് ആക്കി വയ്ക്കുക</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">എന്തായാലും ഓൺ ചെയ്യുക</string>
     <string name="settings_language_request_workflow">ലിസ്റ്റ് ചെയ്തിട്ടില്ലാത്ത ഒരു ഭാഷ ചേർക്കണോ? ആദ്യം ഒരു ഭാഷാ അഭ്യർത്ഥന തുറക്കുക. ഒരു മെയിന്റെയ്നർ അത് രജിസ്റ്റർ ചെയ്ത് അടിസ്ഥാന വിവർത്തന ഫയലുകൾ തയ്യാറാക്കും; അത് Hosted Weblate-ൽ ദൃശ്യമായിക്കഴിഞ്ഞാൽ, നിങ്ങൾക്ക് സംഭാവന ചെയ്യാൻ തുടങ്ങാം.</string>
@@ -1412,7 +1412,7 @@
     <string name="local_sync_received_items">ലഭിച്ച ഇനങ്ങൾ: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">നിങ്ങളുടെ ഡാറ്റ അയച്ചു</string>
     <string name="local_sync_failed">സമന്വയം പരാജയപ്പെട്ടു</string>
-    <string name="local_sync_error_unreachable">ഈ ഉപകരണത്തിലേക്ക് എത്താനായില്ല. അതിൽ OwnTV → ക്രമീകരണങ്ങൾ → ഡാറ്റ → ലോക്കൽ സമന്വയം തുറന്ന് സമന്വയ മോഡ് ഓണാക്കുക. രണ്ട് ഉപകരണങ്ങളും ഒരേ വൈ-ഫൈയിൽ ആയിരിക്കണം.</string>
+    <string name="local_sync_error_unreachable">ഈ ഉപകരണത്തിലേക്ക് എത്താനായില്ല. അതിൽ MeleHub → ക്രമീകരണങ്ങൾ → ഡാറ്റ → ലോക്കൽ സമന്വയം തുറന്ന് സമന്വയ മോഡ് ഓണാക്കുക. രണ്ട് ഉപകരണങ്ങളും ഒരേ വൈ-ഫൈയിൽ ആയിരിക്കണം.</string>
     <string name="local_sync_error_unauthorized">മറ്റേ ഉപകരണം നിരസിച്ചു. പിൻ തെറ്റായിരിക്കാം, അല്ലെങ്കിൽ അത് ഈ ഉപകരണം മറന്നിരിക്കാം.</string>
     <string name="local_sync_error_bad_payload">വന്നത് വായിക്കാൻ കഴിഞ്ഞില്ല. പാസ്‌വേഡ് ഉപയോഗിച്ചെങ്കിൽ, രണ്ട് ഉപകരണങ്ങളിലും ഒന്നുതന്നെയാണോ എന്ന് പരിശോധിക്കുക.</string>
     <string name="local_sync_error_unknown">എന്തോ കുഴപ്പം സംഭവിച്ചു. വീണ്ടും ശ്രമിക്കുക.</string>
@@ -1453,7 +1453,7 @@
     <string name="settings_multiview_keep_two">2 തന്നെ മതി</string>
     <string name="settings_multiview_use_anyway">എന്നാലും ഉപയോഗിക്കുക</string>
     <string name="settings_app_icon">ആപ്പ് ഐക്കൺ</string>
-    <string name="settings_app_icon_summary">OwnTV ഐക്കണിന്റെയും ലോഗോയുടെയും നിറം</string>
+    <string name="settings_app_icon_summary">MeleHub ഐക്കണിന്റെയും ലോഗോയുടെയും നിറം</string>
     <string name="app_icon_petrol">പെട്രോൾ</string>
     <string name="app_icon_sunflower">സൂര്യകാന്തി</string>
     <string name="app_icon_cobalt">കോബാൾട്ട്</string>
@@ -1462,7 +1462,7 @@
     <string name="app_icon_eggshell">മുട്ടത്തോട്</string>
     <string name="app_icon_olive">ഒലിവ്</string>
     <string name="app_icon_olive_cream">ക്രീമിൽ ഒലിവ്</string>
-    <string name="app_icon_restart_title">OwnTV റീസ്റ്റാർട്ട് ചെയ്യണോ?</string>
-    <string name="app_icon_restart_message">നിങ്ങൾ പുതിയ ഐക്കണും ലോഗോയും തിരഞ്ഞെടുത്തു. OwnTV റീസ്റ്റാർട്ട് ചെയ്ത ശേഷം ഇവ പ്രാബല്യത്തിൽ വരും.</string>
+    <string name="app_icon_restart_title">MeleHub റീസ്റ്റാർട്ട് ചെയ്യണോ?</string>
+    <string name="app_icon_restart_message">നിങ്ങൾ പുതിയ ഐക്കണും ലോഗോയും തിരഞ്ഞെടുത്തു. MeleHub റീസ്റ്റാർട്ട് ചെയ്ത ശേഷം ഇവ പ്രാബല്യത്തിൽ വരും.</string>
     <string name="app_icon_restart_now">ഇപ്പോൾ റീസ്റ്റാർട്ട് ചെയ്യുക</string>
 </resources>

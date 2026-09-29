@@ -128,8 +128,8 @@
     <string name="update_not_enough_space">Onvoldoende vrije opslag voor de update. Maak ongeveer <xliff:g id="size">%1$s</xliff:g> vrij en probeer het opnieuw.</string>
     <string name="update_damaged_download">De update is niet volledig gedownload. Controleer je verbinding en probeer het opnieuw.</string>
     <string name="update_install_rejected">Het installatieprogramma van het systeem heeft de update geweigerd: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> staat klaar (je hebt v<xliff:g id="current">%2$s</xliff:g>).</string>
-    <string name="recovery_title">OwnTV kon de database niet openen</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> staat klaar (je hebt v<xliff:g id="current">%2$s</xliff:g>).</string>
+    <string name="recovery_title">MeleHub kon de database niet openen</string>
     <string name="recovery_data_safe_full">Je profielen, afspeellijsten, favorieten en kijkgeschiedenis zijn NIET verwijderd — dit is een mislukte database-upgrade en de gegevens staan nog steeds op dit apparaat.\n\nMeld dit zodat het kan worden opgelost en voeg het onderstaande bericht toe.</string>
     <string name="recovery_retry">Opnieuw proberen</string>
     <string name="recovery_backup_hint">Als je een back-upbestand hebt, kun je de app resetten en de back-up daarna herstellen. Bij het resetten wordt alles verwijderd wat op dit apparaat is opgeslagen.</string>
@@ -219,13 +219,13 @@
     <string name="settings_recording_pre_roll_description">Begin deze tijd vóór de vermelde starttijd, zodat een gids die iets voorloopt het begin toch meeneemt.</string>
     <string name="settings_recording_post_roll">Doorgaan na het einde</string>
     <string name="settings_recording_post_roll_description">Ga deze tijd door na de vermelde eindtijd, zodat een programma dat uitloopt niet wordt afgekapt.</string>
-    <string name="settings_recording_timers_inexact">Dit apparaat staat OwnTV geen exacte wekkers toe, dus een opname kan een paar minuten later beginnen. Opnames starten eerder om dat te compenseren.</string>
+    <string name="settings_recording_timers_inexact">Dit apparaat staat MeleHub geen exacte wekkers toe, dus een opname kan een paar minuten later beginnen. Opnames starten eerder om dat te compenseren.</string>
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> minuut</item>
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> minuten</item>
     </plurals>
     <string name="recording_failed_encrypted">Dit kanaal is versleuteld en kan niet worden opgenomen</string>
-    <string name="recording_failed_drm">Dit kanaal is DRM-beveiligd en kan daarom wel worden bekeken, maar niet opgenomen. De beveiliging komt van je provider, niet van OwnTV.</string>
+    <string name="recording_failed_drm">Dit kanaal is DRM-beveiligd en kan daarom wel worden bekeken, maar niet opgenomen. De beveiliging komt van je provider, niet va MeleHub.</string>
     <string name="recording_failed_metered">Niet opgenomen via mobiele data</string>
     <string name="settings_recording_mobile_data">Opnemen via mobiele data</string>
     <string name="settings_recording_mobile_data_description">Uit: een opname die valt terwijl je niet op wifi zit wordt overgeslagen in plaats van te wachten — een live programma komt niet terug.</string>

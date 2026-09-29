@@ -34,7 +34,7 @@
     <string name="content_genre_scifi">Science fiction</string>
     <string name="content_genre_series">Serier</string>
     <string name="content_genre_sport">Sport</string>
-    <string name="content_exit_owntv">Afslut OwnTV?</string>
+    <string name="content_exit_owntv">Afslut MeleHub?</string>
     <string name="content_exit_confirmation">Er du sikker på, at du vil lukke appen?</string>
     <string name="content_restore_incomplete_title">En gendannelse blev ikke færdig</string>
     <string name="content_restore_incomplete_message">Appen lukkede under gendannelsen af <xliff:g id="description">%1$s</xliff:g>, så noget af det mangler muligvis. Intet blev slettet — kør den samme gendannelse igen via Indstillinger → Sikkerhedskopi og gendannelse for at udfylde resten.</string>
@@ -222,7 +222,7 @@
     <string name="content_storage_choose_folder">Vælg en anden mappe…</string>
     <string name="content_storage_chosen_folder">Valgt mappe</string>
     <string name="content_storage_folder_lost">Den mappe er ikke længere tilgængelig. Vælg den igen, eller vælg en anden.</string>
-    <string name="content_storage_folder_fallback">Din downloadmappe er ikke tilgængelig lige nu, så downloads gemmes i OwnTV\'s egen mappe, indtil den er tilbage.</string>
+    <string name="content_storage_folder_fallback">Din downloadmappe er ikke tilgængelig lige nu, så downloads gemmes i MeleHub\'s egen mappe, indtil den er tilbage.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> downloadet</string>
     <string name="content_downloads_failure_message">Download mislykkedes — der kunne ikke oprettes forbindelse til kilden. Tryk på Prøv igen.</string>
     <string name="content_downloads_queued">I kø…</string>
@@ -326,7 +326,7 @@
     <string name="content_epg_favourite">Føj til favoritter</string>
     <string name="content_epg_unfavourite">Fjern fra favoritter</string>
     <string name="content_epg_player_choice_description">Angiv et permanent valg under Indstillinger › Arkiv.</string>
-    <string name="content_epg_own_player">OwnTV-afspiller</string>
+    <string name="content_epg_own_player">MeleHub-afspiller</string>
     <string name="content_epg_external_player">Ekstern afspiller</string>
     <string name="content_epg_time_offset">EPG-tidsforskydning</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g> min</string>

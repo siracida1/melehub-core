@@ -33,16 +33,16 @@
     <string name="setup_display_size_description">ഇന്റർഫേസിന്റെയും അതിലെ എഴുത്തിന്റെയും വലുപ്പം ക്രമീകരിക്കുക. രണ്ടും പിന്നീട് ക്രമീകരണങ്ങളിൽ മാറ്റാം.</string>
     <string name="setup_display_size_preview">ഇരിക്കുന്നിടത്തുനിന്ന് ഇത് എളുപ്പത്തിൽ വായിക്കാമെങ്കിൽ വലുപ്പം ശരിയാണ്.</string>
     <string name="setup_before_you_start">ആരംഭിക്കുന്നതിന് മുമ്പ്</string>
-    <string name="setup_disclaimer">OwnTV ഒരു മീഡിയ പ്ലെയർ മാത്രമാണ്. ഇതിൽ ചാനലുകളോ പ്ലേലിസ്റ്റുകളോ ഉള്ളടക്കമോ ഉൾപ്പെടുന്നില്ല. നിങ്ങൾക്ക് നിയമപരമായി ആക്‌സസ് ചെയ്യാനാകുന്ന സ്വന്തം Xtream, M3U, അല്ലെങ്കിൽ Stalker ഉറവിടങ്ങൾ ചേർക്കേണ്ട ഉത്തരവാദിത്തം നിങ്ങൾക്കാണ്.</string>
+    <string name="setup_disclaimer">MeleHub ഒരു മീഡിയ പ്ലെയർ മാത്രമാണ്. ഇതിൽ ചാനലുകളോ പ്ലേലിസ്റ്റുകളോ ഉള്ളടക്കമോ ഉൾപ്പെടുന്നില്ല. നിങ്ങൾക്ക് നിയമപരമായി ആക്‌സസ് ചെയ്യാനാകുന്ന സ്വന്തം Xtream, M3U, അല്ലെങ്കിൽ Stalker ഉറവിടങ്ങൾ ചേർക്കേണ്ട ഉത്തരവാദിത്തം നിങ്ങൾക്കാണ്.</string>
     <string name="setup_i_understand">ഞാൻ മനസ്സിലാക്കുന്നു</string>
-    <string name="setup_set_up_owntv">OwnTV സജ്ജമാക്കുക</string>
+    <string name="setup_set_up_owntv">MeleHub സജ്ജമാക്കുക</string>
     <string name="setup_setup_choice_description">പുതുതായി ആരംഭിക്കുക, അല്ലെങ്കിൽ ഒരു ബാക്കപ്പ് ഫയലിൽ നിന്നോ മറ്റൊരു ഉപകരണത്തിൽ നിന്നോ നിങ്ങളുടെ പ്രൊഫൈലുകളും പ്ലേലിസ്റ്റുകളും പ്രിയപ്പെട്ടവയും തിരികെ കൊണ്ടുവരുക.</string>
     <string name="setup_new_profile">പുതിയ പ്രൊഫൈൽ</string>
     <string name="setup_create_profile_add_sources">ഒരു പ്രൊഫൈൽ സൃഷ്ടിച്ച് ഉറവിടങ്ങൾ ചേർക്കുക</string>
     <string name="setup_restore_backup">ബാക്കപ്പ് പുനഃസ്ഥാപിക്കുക</string>
     <string name="setup_import_profiles_playlists">ഒരു ഫയലിൽ നിന്ന് പ്രൊഫൈലുകളും പ്ലേലിസ്റ്റുകളും ഇമ്പോർട്ട് ചെയ്യുക</string>
     <string name="setup_sync_device">മറ്റൊരു ഉപകരണത്തിൽ നിന്ന്</string>
-    <string name="setup_sync_device_description">വൈ-ഫൈ വഴി നിങ്ങളുടെ മറ്റ് OwnTV ഉപകരണത്തിൽ നിന്ന് എല്ലാം പകർത്തുക</string>
+    <string name="setup_sync_device_description">വൈ-ഫൈ വഴി നിങ്ങളുടെ മറ്റ് MeleHub ഉപകരണത്തിൽ നിന്ന് എല്ലാം പകർത്തുക</string>
     <string name="setup_add_playlist">ഒരു പ്ലേലിസ്റ്റ് ചേർക്കുക</string>
     <string name="setup_add_playlist_description">ഈ പ്രൊഫൈലിനായി ഒരു ഉറവിടം ചേർക്കുക, അല്ലെങ്കിൽ പിന്നീട് ഒന്ന് സജ്ജമാക്കുക.</string>
     <string name="setup_new">പുതിയത്</string>
@@ -107,7 +107,7 @@
     <string name="setup_edit_source">ഉറവിടം എഡിറ്റ് ചെയ്യുക</string>
     <string name="setup_add_your_source">നിങ്ങളുടെ ഉറവിടം ചേർക്കുക</string>
     <string name="setup_edit_source_description">ഈ ഉറവിടത്തിന്റെ വിവരങ്ങൾ അപ്‌ഡേറ്റ് ചെയ്യുക, അല്ലെങ്കിൽ അതിന്റെ യാന്ത്രിക പുതുക്കൽ ക്രമീകരണം മാറ്റുക.</string>
-    <string name="setup_byo_source_description">OwnTV ഒരു പ്ലെയറാണ് — നിങ്ങളുടെ സ്വന്തം Xtream, M3U, അല്ലെങ്കിൽ Stalker ഉറവിടം നൽകുക.</string>
+    <string name="setup_byo_source_description">MeleHub ഒരു പ്ലെയറാണ് — നിങ്ങളുടെ സ്വന്തം Xtream, M3U, അല്ലെങ്കിൽ Stalker ഉറവിടം നൽകുക.</string>
     <string name="setup_xtream">Xtream</string>
     <string name="setup_m3u">M3U / M3U8</string>
     <string name="setup_stalker_mac">Stalker (MAC)</string>
@@ -167,7 +167,7 @@
     <string name="setup_mag254">MAG254</string>
     <string name="setup_mag270">MAG270</string>
     <string name="setup_mag420">MAG420</string>
-    <string name="companion_pin_page_title">OwnTV — PIN നൽകുക</string>
+    <string name="companion_pin_page_title">MeleHub — PIN നൽകുക</string>
     <string name="companion_pin_heading">PIN നൽകുക</string>
     <string name="companion_pin_description">തുടരാൻ നിങ്ങളുടെ ടിവിയിൽ കാണിച്ചിരിക്കുന്ന 6 അക്ക PIN ടൈപ്പ് ചെയ്യുക.</string>
     <string name="companion_pin_placeholder">••••••</string>
@@ -189,14 +189,14 @@
     <string name="companion_open_subtitles_description">നിങ്ങളുടെ ടിവിക്കായി OpenSubtitles-ൽ സൈൻ ഇൻ ചെയ്യുക. സ്വന്തം API വിവരങ്ങൾ ഉണ്ടെങ്കിൽ മാത്രം താഴെ ചേർക്കുക.</string>
     <string name="companion_service_config_sent">കണക്ഷൻ വിവരങ്ങൾ ഇപ്പോൾ നിങ്ങളുടെ ടിവിയിൽ കാത്തിരിക്കുന്നു. അവിടെ പരിശോധിച്ച് സംരക്ഷിക്കുക.</string>
     <string name="companion_service_config_again">മറ്റ് കണക്ഷൻ വിവരങ്ങൾ അയയ്ക്കുക</string>
-    <string name="companion_add_page_title">OwnTV — ഉറവിടം ചേർക്കുക</string>
+    <string name="companion_add_page_title">MeleHub — ഉറവിടം ചേർക്കുക</string>
     <string name="companion_add_heading">ഒരു ഉറവിടം ചേർക്കുക</string>
     <string name="companion_add_description">ഒരു ഉറവിടത്തിന്റെ വിവരങ്ങൾ പൂരിപ്പിച്ച് അയയ്ക്കുക അമർത്തുക. അത് ടിവിയിൽ ദൃശ്യമാകും — തയ്യാറാകുമ്പോൾ റിമോട്ട് കൺട്രോൾ എടുത്ത് അവിടെ ഇമ്പോർട്ട് ആരംഭിക്കുക അമർത്തുക.</string>
     <string name="companion_default_playlist">ഡിഫോൾട്ട് പ്ലേലിസ്റ്റ്</string>
     <string name="companion_send_to_tv">ടിവിയിലേക്ക് അയയ്ക്കുക</string>
     <string name="companion_sync_xtream_hint">എന്തെല്ലാം സമന്വയിപ്പിക്കണം — ഇപ്പോൾ എന്നത് ആദ്യം ഇമ്പോർട്ട് ചെയ്യും, പിന്നീട് എന്നത് പശ്ചാത്തലത്തിൽ സമന്വയിപ്പിക്കും, ഓഫ് ചെയ്തവ ഒരിക്കലും ലഭ്യമാക്കില്ല.</string>
     <string name="companion_sync_stalker_hint">എന്തെല്ലാം സമന്വയിപ്പിക്കണം — തത്സമയ ടിവിയുടെ ഡിഫോൾട്ട് ഇപ്പോൾ ആണ്; സിനിമകൾ/സീരീസ് എന്നിവയുടെ ഡിഫോൾട്ട് പിന്നീട് ആണ് (Stalker VOD മന്ദഗതിയിലാണ്).</string>
-    <string name="companion_saved_page_title">OwnTV — അയച്ചു</string>
+    <string name="companion_saved_page_title">MeleHub — അയച്ചു</string>
     <string name="companion_saved_heading">നിങ്ങളുടെ ടിവിയിലേക്ക് അയച്ചു ✓</string>
     <string name="companion_saved_source_body"><xliff:g id="name">%1$s</xliff:g> ഇപ്പോൾ ടിവിയിലെ ഉറവിടം ചേർക്കുക സ്ക്രീനിലുണ്ട്. അവിടെ വിവരങ്ങൾ പരിശോധിച്ച് റിമോട്ട് കൺട്രോളിൽ ഇമ്പോർട്ട് ആരംഭിക്കുക അമർത്തുക.</string>
     <string name="companion_saved_send_another">മറ്റൊരു ഉറവിടം അയയ്ക്കുക</string>
@@ -204,9 +204,9 @@
     <string name="companion_saved_backup_link">മറ്റൊരു ഫയൽ അയയ്ക്കുക</string>
     <string name="companion_saved_image_body">നിങ്ങളുടെ ചിത്രം ഇപ്പോൾ ടിവിയുടെ പശ്ചാത്തലമാണ്.</string>
     <string name="companion_saved_image_link">മറ്റൊരു ചിത്രം അയയ്ക്കുക</string>
-    <string name="companion_backup_page_title">OwnTV — ബാക്കപ്പ് പുനഃസ്ഥാപിക്കുക</string>
+    <string name="companion_backup_page_title">MeleHub — ബാക്കപ്പ് പുനഃസ്ഥാപിക്കുക</string>
     <string name="companion_backup_heading">ഒരു ബാക്കപ്പ് പുനഃസ്ഥാപിക്കുക</string>
-    <string name="companion_backup_description">ഒരു OwnTV ബാക്കപ്പ് ഫയൽ (.own, അല്ലെങ്കിൽ പഴയ .json) തിരഞ്ഞെടുത്ത് അയയ്ക്കുക അമർത്തുക. അത് ടിവിയിലേക്ക് കൈമാറും — റിമോട്ട് കൺട്രോൾ എടുത്ത് അവിടെ എന്തെല്ലാം പുനഃസ്ഥാപിക്കണമെന്ന് തിരഞ്ഞെടുക്കുക.</string>
+    <string name="companion_backup_description">ഒരു MeleHub ബാക്കപ്പ് ഫയൽ (.own, അല്ലെങ്കിൽ പഴയ .json) തിരഞ്ഞെടുത്ത് അയയ്ക്കുക അമർത്തുക. അത് ടിവിയിലേക്ക് കൈമാറും — റിമോട്ട് കൺട്രോൾ എടുത്ത് അവിടെ എന്തെല്ലാം പുനഃസ്ഥാപിക്കണമെന്ന് തിരഞ്ഞെടുക്കുക.</string>
     <string name="companion_backup_file">ബാക്കപ്പ് ഫയൽ</string>
     <string name="companion_choose_backup">ആദ്യം ഒരു ബാക്കപ്പ് ഫയൽ തിരഞ്ഞെടുക്കുക.</string>
     <string name="companion_playlist_file">അല്ലെങ്കിൽ ഒരു പ്ലേലിസ്റ്റ് ഫയൽ അപ്‌ലോഡ് ചെയ്യുക</string>
@@ -215,15 +215,15 @@
     <string name="companion_upload_failed">അപ്‌ലോഡ് പരാജയപ്പെട്ടു (HTTP <xliff:g id="status">%1$d</xliff:g>). PIN പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.</string>
     <string name="companion_could_not_reach">ടിവിയുമായി ബന്ധപ്പെടാനായില്ല. അതേ Wi-Fi-യിൽ തുടരുകയും വീണ്ടും ശ്രമിക്കുകയും ചെയ്യുക.</string>
     <string name="companion_could_not_read">ആ ഫയൽ വായിക്കാനായില്ല.</string>
-    <string name="companion_image_page_title">OwnTV — പശ്ചാത്തല ചിത്രം</string>
+    <string name="companion_image_page_title">MeleHub — പശ്ചാത്തല ചിത്രം</string>
     <string name="companion_image_heading">ഒരു പശ്ചാത്തല ചിത്രം അയയ്ക്കുക</string>
     <string name="companion_image_description">ഒരു ചിത്രം (JPG, PNG അല്ലെങ്കിൽ WebP) തിരഞ്ഞെടുത്ത് അയയ്ക്കുക അമർത്തുക. അത് ടിവി ഇന്റർഫേസിന് പിന്നിലുള്ള പശ്ചാത്തല ചിത്രമാകും.</string>
     <string name="companion_image_file">ചിത്ര ഫയൽ</string>
     <string name="companion_choose_image">ആദ്യം ഒരു ചിത്രം തിരഞ്ഞെടുക്കുക.</string>
     <string name="companion_image_too_large">ആ ചിത്രം വളരെ വലുതാണ് (പരമാവധി 25 MB).</string>
-    <string name="companion_download_page_title">OwnTV — ബാക്കപ്പ് ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="companion_download_page_title">MeleHub — ബാക്കപ്പ് ഡൗൺലോഡ് ചെയ്യുക</string>
     <string name="companion_download_heading">നിങ്ങളുടെ ബാക്കപ്പ് ഡൗൺലോഡ് ചെയ്യുക</string>
-    <string name="companion_download_description">നിങ്ങളുടെ ടിവി ഒരു OwnTV ബാക്കപ്പ് ഫയൽ തയ്യാറാക്കിയിട്ടുണ്ട്. അത് ഈ ഉപകരണത്തിൽ സംരക്ഷിക്കാൻ ബട്ടൺ അമർത്തുക (owntv-ബാക്കപ്പ്.own). അത് സുരക്ഷിതമായ ഒരിടത്ത് സൂക്ഷിക്കുക — പിന്നീട് അതിൽ നിന്ന് പുനഃസ്ഥാപിക്കാം.</string>
+    <string name="companion_download_description">നിങ്ങളുടെ ടിവി ഒരു MeleHub ബാക്കപ്പ് ഫയൽ തയ്യാറാക്കിയിട്ടുണ്ട്. അത് ഈ ഉപകരണത്തിൽ സംരക്ഷിക്കാൻ ബട്ടൺ അമർത്തുക (owntv-ബാക്കപ്പ്.own). അത് സുരക്ഷിതമായ ഒരിടത്ത് സൂക്ഷിക്കുക — പിന്നീട് അതിൽ നിന്ന് പുനഃസ്ഥാപിക്കാം.</string>
     <string name="companion_download_backup">ബാക്കപ്പ് ഡൗൺലോഡ് ചെയ്യുക</string>
     <string name="companion_error_bad_request">അസാധുവായ അഭ്യർത്ഥന</string>
     <string name="companion_error_body_too_large">അഭ്യർത്ഥനയുടെ ഉള്ളടക്കം വളരെ വലുതാണ്.</string>
@@ -265,6 +265,6 @@
     <string name="setup_stalker_device_id2_optional">ഉപകരണ ID2 (ഐച്ഛികം)</string>
     <string name="setup_stalker_signature_optional">ഒപ്പ് (ഐച്ഛികം)</string>
     <string name="companion_error_pair_failed">ഈ ഉപകരണവുമായി ജോടിയാക്കാൻ കഴിഞ്ഞില്ല.</string>
-    <string name="local_sync_browser_title">OwnTV ലോക്കൽ സമന്വയം</string>
-    <string name="local_sync_browser_body">ഈ വിലാസം നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിലെ OwnTV ആപ്പിനുള്ളതാണ്. അവിടെ ലോക്കൽ സമന്വയം തുറന്ന് പട്ടികയിൽ നിന്ന് ഈ ഉപകരണം തിരഞ്ഞെടുക്കുക.</string>
+    <string name="local_sync_browser_title">MeleHub ലോക്കൽ സമന്വയം</string>
+    <string name="local_sync_browser_body">ഈ വിലാസം നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിലെ MeleHub ആപ്പിനുള്ളതാണ്. അവിടെ ലോക്കൽ സമന്വയം തുറന്ന് പട്ടികയിൽ നിന്ന് ഈ ഉപകരണം തിരഞ്ഞെടുക്കുക.</string>
 </resources>

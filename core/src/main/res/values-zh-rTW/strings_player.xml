@@ -313,7 +313,7 @@
         <item quantity="other">你的供應商每次允許 <xliff:g id="count">%1$d</xliff:g> 路串流，其中 <xliff:g id="recording">%2$d</xliff:g> 路正在錄影。</item>
     </plurals>
     <string name="multiview_refused_reserved">會保留一個連線，讓你可以繼續觀看。要在所有連線上錄影，請在設定中變更。</string>
-    <string name="multiview_unknown_connections">OwnTV 無法得知這份播放清單允許多少路串流。畫面失敗時，原因就在這裡。</string>
+    <string name="multiview_unknown_connections">MeleHub 無法得知這份播放清單允許多少路串流。畫面失敗時，原因就在這裡。</string>
     <string name="multiview_decoder_exhausted">這台電視無法同時再解碼一個頻道。</string>
     <string name="multiview_decoder_exhausted_mobile">這台裝置無法同時再解碼一個頻道。</string>
     <string name="multiview_tile_change_channel">更換頻道</string>

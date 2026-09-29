@@ -322,7 +322,7 @@
         <item quantity="other">आपका प्रोवाइडर एक बार में <xliff:g id="count">%1$d</xliff:g> स्ट्रीम देता है। इनमें से <xliff:g id="recording">%2$d</xliff:g> रिकॉर्ड हो रही हैं।</item>
     </plurals>
     <string name="multiview_refused_reserved">एक कनेक्शन खाली रखा जाता है ताकि आप देखते रह सकें। हर कनेक्शन पर रिकॉर्ड करने के लिए इसे सेटिंग में बदलें।</string>
-    <string name="multiview_unknown_connections">OwnTV यह पता नहीं कर सका कि यह प्लेलिस्ट कितनी स्ट्रीम देती है। कोई टाइल विफल हो तो वजह यही है।</string>
+    <string name="multiview_unknown_connections">MeleHub यह पता नहीं कर सका कि यह प्लेलिस्ट कितनी स्ट्रीम देती है। कोई टाइल विफल हो तो वजह यही है।</string>
     <string name="multiview_decoder_exhausted">यह टीवी एक और चैनल एक साथ डिकोड नहीं कर सकता।</string>
     <string name="multiview_decoder_exhausted_mobile">यह डिवाइस एक और चैनल एक साथ डिकोड नहीं कर सकता।</string>
     <string name="multiview_tile_change_channel">चैनल बदलें</string>

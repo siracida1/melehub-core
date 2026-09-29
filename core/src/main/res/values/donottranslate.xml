@@ -6,8 +6,8 @@
 -->
 <resources>
     <string name="app_name" translatable="false">MeleHub</string>
-    <string name="brand_own" translatable="false">Own</string>
-    <string name="brand_tv" translatable="false">TV</string>
+    <string name="brand_own" translatable="false">Mele</string>
+    <string name="brand_tv" translatable="false">Hub</string>
     <string name="settings_player_exoplayer" translatable="false">ExoPlayer</string>
     <string name="settings_player_mpv" translatable="false">mpv</string>
     <string name="settings_degree_celsius" translatable="false">°C</string>

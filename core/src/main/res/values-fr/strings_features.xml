@@ -132,8 +132,8 @@
     <string name="update_not_enough_space">Espace de stockage insuffisant pour la mise à jour. Libérez environ <xliff:g id="size">%1$s</xliff:g>, puis réessayez.</string>
     <string name="update_damaged_download">La mise à jour n’a pas été téléchargée entièrement. Vérifiez votre connexion, puis réessayez.</string>
     <string name="update_install_rejected">Le programme d’installation du système a refusé la mise à jour : <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> est prêt (vous utilisez la v<xliff:g id="current">%2$s</xliff:g>).</string>
-    <string name="recovery_title">OwnTV n’a pas pu ouvrir sa base de données</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> est prêt (vous utilisez la v<xliff:g id="current">%2$s</xliff:g>).</string>
+    <string name="recovery_title">MeleHub n’a pas pu ouvrir sa base de données</string>
     <string name="recovery_data_safe_full">Vos profils, vos listes de lecture, vos favoris et votre historique N’ONT PAS été supprimés — il s’agit de l’échec d’une mise à niveau de la base de données et les données se trouvent toujours sur cet appareil.\n\nVeuillez signaler ce problème afin qu’il puisse être corrigé et incluez le message ci-dessous.</string>
     <string name="recovery_retry">Réessayer</string>
     <string name="recovery_backup_hint">Si vous avez un fichier de sauvegarde, vous pouvez réinitialiser l’application, puis restaurer vos données à partir de ce fichier. La réinitialisation supprime tout ce qui est stocké sur cet appareil.</string>
@@ -227,14 +227,14 @@
     <string name="settings_recording_pre_roll_description">Commencer ce temps avant l’heure annoncée, pour qu’un guide un peu en avance ne rate pas le début.</string>
     <string name="settings_recording_post_roll">Continuer après la fin</string>
     <string name="settings_recording_post_roll_description">Continuer ce temps après l’heure de fin annoncée, pour qu’un programme qui déborde ne soit pas coupé.</string>
-    <string name="settings_recording_timers_inexact">Cet appareil n’autorise pas OwnTV à programmer des alarmes exactes, donc un enregistrement peut démarrer avec quelques minutes de retard. Les enregistrements commencent plus tôt pour compenser.</string>
+    <string name="settings_recording_timers_inexact">Cet appareil n’autorise pas MeleHub à programmer des alarmes exactes, donc un enregistrement peut démarrer avec quelques minutes de retard. Les enregistrements commencent plus tôt pour compenser.</string>
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> minute</item>
         <item quantity="many"><xliff:g id="count">%1$d</xliff:g> minutes</item>
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> minutes</item>
     </plurals>
     <string name="recording_failed_encrypted">Cette chaîne est chiffrée et ne peut pas être enregistrée</string>
-    <string name="recording_failed_drm">Cette chaîne est protégée par DRM : elle peut être regardée mais pas enregistrée. La protection vient de votre fournisseur, pas d\'OwnTV.</string>
+    <string name="recording_failed_drm">Cette chaîne est protégée par DRM : elle peut être regardée mais pas enregistrée. La protection vient de votre fournisseur, pas d\'MeleHub.</string>
     <string name="recording_failed_metered">Non enregistré sur les données mobiles</string>
     <string name="settings_recording_mobile_data">Enregistrer sur les données mobiles</string>
     <string name="settings_recording_mobile_data_description">Désactivé : un enregistrement prévu hors Wi-Fi est ignoré au lieu d’attendre — une émission ne repasse pas.</string>

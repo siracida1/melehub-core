@@ -30,7 +30,7 @@
     <string name="content_genre_scifi">科幻</string>
     <string name="content_genre_series">影集</string>
     <string name="content_genre_sport">體育</string>
-    <string name="content_exit_owntv">要結束 OwnTV 嗎？</string>
+    <string name="content_exit_owntv">要結束 MeleHub 嗎？</string>
     <string name="content_exit_confirmation">確定要關閉應用程式嗎？</string>
     <string name="content_restore_incomplete_title">還原未完成</string>
     <string name="content_restore_incomplete_message">應用程式在還原 <xliff:g id="description">%1$s</xliff:g> 時關閉，因此部分內容可能遺失。沒有刪除任何內容——請前往「設定 → 備份與還原」再次執行相同的還原，以補齊其餘內容。</string>
@@ -215,7 +215,7 @@
     <string name="content_storage_choose_folder">選擇其他資料夾…</string>
     <string name="content_storage_chosen_folder">已選資料夾</string>
     <string name="content_storage_folder_lost">該資料夾已無法使用。請重新選擇該資料夾，或選擇其他資料夾。</string>
-    <string name="content_storage_folder_fallback">下載資料夾目前無法使用，因此在它恢復之前，下載內容會儲存到 OwnTV 自己的資料夾。</string>
+    <string name="content_storage_folder_fallback">下載資料夾目前無法使用，因此在它恢復之前，下載內容會儲存到 MeleHub 自己的資料夾。</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> 已下載</string>
     <string name="content_downloads_failure_message">下載失敗——無法連線至來源。請點選「重試」。</string>
     <string name="content_downloads_queued">已排入佇列…</string>
@@ -312,7 +312,7 @@
     <string name="content_epg_favourite">加入最愛</string>
     <string name="content_epg_unfavourite">從最愛中移除</string>
     <string name="content_epg_player_choice_description">前往「設定 › 回看」設定永久選項。</string>
-    <string name="content_epg_own_player">OwnTV 播放器</string>
+    <string name="content_epg_own_player">MeleHub 播放器</string>
     <string name="content_epg_external_player">外部播放器</string>
     <string name="content_epg_time_offset">電子節目表時間偏移</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>分</string>

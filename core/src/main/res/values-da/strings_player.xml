@@ -322,7 +322,7 @@
         <item quantity="other">Din udbyder tillader <xliff:g id="count">%1$d</xliff:g> streams ad gangen. <xliff:g id="recording">%2$d</xliff:g> af dem optager.</item>
     </plurals>
     <string name="multiview_refused_reserved">Én forbindelse holdes fri, så du kan blive ved med at se. Lav det om i indstillingerne for at optage på alle forbindelser.</string>
-    <string name="multiview_unknown_connections">OwnTV kunne ikke finde ud af, hvor mange streams denne playliste tillader. Hvis en flade fejler, er det derfor.</string>
+    <string name="multiview_unknown_connections">MeleHub kunne ikke finde ud af, hvor mange streams denne playliste tillader. Hvis en flade fejler, er det derfor.</string>
     <string name="multiview_decoder_exhausted">Dette tv kan ikke afkode endnu en kanal samtidig.</string>
     <string name="multiview_decoder_exhausted_mobile">Denne enhed kan ikke afkode endnu en kanal samtidig.</string>
     <string name="multiview_tile_change_channel">Skift kanal</string>

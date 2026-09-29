@@ -33,16 +33,16 @@
     <string name="setup_display_size_description">Arayüzün ve yazısının boyutunu ayarlayın. İkisini de sonradan Ayarlar\'dan değiştirebilirsiniz.</string>
     <string name="setup_display_size_preview">Bunu oturduğunuz yerden rahatça okuyabiliyorsanız boyut doğrudur.</string>
     <string name="setup_before_you_start">Başlamadan önce</string>
-    <string name="setup_disclaimer">OwnTV yalnızca bir medya oynatıcısıdır. Hiçbir kanal, oynatma listesi veya içerik içermez. Yasal olarak erişebildiğiniz kendi Xtream, M3U veya Stalker kaynaklarınızı eklemek sizin sorumluluğunuzdadır.</string>
+    <string name="setup_disclaimer">MeleHub yalnızca bir medya oynatıcısıdır. Hiçbir kanal, oynatma listesi veya içerik içermez. Yasal olarak erişebildiğiniz kendi Xtream, M3U veya Stalker kaynaklarınızı eklemek sizin sorumluluğunuzdadır.</string>
     <string name="setup_i_understand">Anladım</string>
-    <string name="setup_set_up_owntv">OwnTV\'yi kurun</string>
+    <string name="setup_set_up_owntv">MeleHub\'yi kurun</string>
     <string name="setup_setup_choice_description">Sıfırdan başlayın veya profillerinizi, oynatma listelerinizi ve favorilerinizi bir yedekleme dosyasından ya da başka bir cihazdan geri getirin.</string>
     <string name="setup_new_profile">Yeni profil</string>
     <string name="setup_create_profile_add_sources">Bir profil oluşturun ve kaynak ekleyin</string>
     <string name="setup_restore_backup">Yedeklemeyi geri yükle</string>
     <string name="setup_import_profiles_playlists">Profilleri ve oynatma listelerini bir dosyadan içe aktarın</string>
     <string name="setup_sync_device">Başka bir cihazdan</string>
-    <string name="setup_sync_device_description">Diğer OwnTV cihazınızdaki her şeyi Wi-Fi üzerinden kopyalayın</string>
+    <string name="setup_sync_device_description">Diğer MeleHub cihazınızdaki her şeyi Wi-Fi üzerinden kopyalayın</string>
     <string name="setup_add_playlist">Oynatma listesi ekle</string>
     <string name="setup_add_playlist_description">Bu profil için bir kaynak ekleyin veya daha sonra kurun.</string>
     <string name="setup_new">Yeni</string>
@@ -107,7 +107,7 @@
     <string name="setup_edit_source">Kaynağı düzenle</string>
     <string name="setup_add_your_source">Kaynağınızı ekleyin</string>
     <string name="setup_edit_source_description">Bu kaynağın bilgilerini güncelleyin veya otomatik yenileme ayarını değiştirin.</string>
-    <string name="setup_byo_source_description">OwnTV bir oynatıcıdır — kendi Xtream, M3U veya Stalker kaynağınızı ekleyin.</string>
+    <string name="setup_byo_source_description">MeleHub bir oynatıcıdır — kendi Xtream, M3U veya Stalker kaynağınızı ekleyin.</string>
     <string name="setup_xtream">Xtream</string>
     <string name="setup_m3u">M3U / M3U8</string>
     <string name="setup_stalker_mac">Stalker (MAC)</string>
@@ -167,7 +167,7 @@
     <string name="setup_mag254">MAG254</string>
     <string name="setup_mag270">MAG270</string>
     <string name="setup_mag420">MAG420</string>
-    <string name="companion_pin_page_title">OwnTV — PIN Girin</string>
+    <string name="companion_pin_page_title">MeleHub — PIN Girin</string>
     <string name="companion_pin_heading">PIN\'i girin</string>
     <string name="companion_pin_description">Devam etmek için TV\'nizde gösterilen 6 haneli PIN\'i girin.</string>
     <string name="companion_pin_placeholder">••••••</string>
@@ -189,14 +189,14 @@
     <string name="companion_open_subtitles_description">TV’niz için OpenSubtitles’a giriş yapın. Kendi API bilgilerinizi yalnızca varsa aşağıya ekleyin.</string>
     <string name="companion_service_config_sent">Bağlantı bilgileri şimdi TV’nizde bekliyor. Orada gözden geçirip kaydedin.</string>
     <string name="companion_service_config_again">Farklı bağlantı bilgileri gönder</string>
-    <string name="companion_add_page_title">OwnTV — Kaynak ekle</string>
+    <string name="companion_add_page_title">MeleHub — Kaynak ekle</string>
     <string name="companion_add_heading">Kaynak ekle</string>
     <string name="companion_add_description">Bir kaynağın bilgilerini doldurup Gönder düğmesine basın. Kaynak TV\'de görünür — hazır olduğunuzda uzaktan kumandayı alın ve TV\'deki İçe Aktarmayı Başlat düğmesine basın.</string>
     <string name="companion_default_playlist">Varsayılan oynatma listesi</string>
     <string name="companion_send_to_tv">TV\'ye Gönder</string>
     <string name="companion_sync_xtream_hint">Neler eşitlensin — Şimdi önce içe aktarır, Daha sonra arka planda eşitler, Kapalı hiçbir zaman alınmaz.</string>
     <string name="companion_sync_stalker_hint">Neler eşitlensin — Canlı için varsayılan Şimdi, Filmler/Diziler için Daha sonra seçeneğidir (Stalker VOD yavaştır).</string>
-    <string name="companion_saved_page_title">OwnTV — Gönderildi</string>
+    <string name="companion_saved_page_title">MeleHub — Gönderildi</string>
     <string name="companion_saved_heading">TV\'nize gönderildi ✓</string>
     <string name="companion_saved_source_body"><xliff:g id="name">%1$s</xliff:g> artık TV\'deki Kaynak ekle ekranında. Bilgileri orada kontrol edin ve uzaktan kumandayla İçe Aktarmayı Başlat düğmesine basın.</string>
     <string name="companion_saved_send_another">Başka bir kaynak gönder</string>
@@ -204,9 +204,9 @@
     <string name="companion_saved_backup_link">Farklı bir dosya gönder</string>
     <string name="companion_saved_image_body">Görseliniz artık TV\'nin arka planı.</string>
     <string name="companion_saved_image_link">Farklı bir görsel gönder</string>
-    <string name="companion_backup_page_title">OwnTV — Yedeklemeyi geri yükle</string>
+    <string name="companion_backup_page_title">MeleHub — Yedeklemeyi geri yükle</string>
     <string name="companion_backup_heading">Bir yedeklemeyi geri yükleyin</string>
-    <string name="companion_backup_description">Bir OwnTV yedekleme dosyası (.own veya eski bir .json dosyası) seçip Gönder düğmesine basın. Dosya TV\'ye aktarılır — uzaktan kumandayı alın ve orada nelerin geri yükleneceğini seçin.</string>
+    <string name="companion_backup_description">Bir MeleHub yedekleme dosyası (.own veya eski bir .json dosyası) seçip Gönder düğmesine basın. Dosya TV\'ye aktarılır — uzaktan kumandayı alın ve orada nelerin geri yükleneceğini seçin.</string>
     <string name="companion_backup_file">Yedekleme dosyası</string>
     <string name="companion_choose_backup">Lütfen önce bir yedekleme dosyası seçin.</string>
     <string name="companion_playlist_file">Ya da bir oynatma listesi dosyası yükleyin</string>
@@ -215,15 +215,15 @@
     <string name="companion_upload_failed">Yükleme başarısız oldu (HTTP <xliff:g id="status">%1$d</xliff:g>). PIN\'i kontrol edip tekrar deneyin.</string>
     <string name="companion_could_not_reach">TV\'ye ulaşılamadı. Aynı Wi-Fi ağında kalıp tekrar deneyin.</string>
     <string name="companion_could_not_read">Bu dosya okunamadı.</string>
-    <string name="companion_image_page_title">OwnTV — Arka plan görseli</string>
+    <string name="companion_image_page_title">MeleHub — Arka plan görseli</string>
     <string name="companion_image_heading">Bir arka plan görseli gönderin</string>
     <string name="companion_image_description">Bir fotoğraf (JPG, PNG veya WebP) seçip Gönder düğmesine basın. Fotoğraf, TV arayüzünün arkasındaki arka plan görseli olur.</string>
     <string name="companion_image_file">Görsel dosyası</string>
     <string name="companion_choose_image">Lütfen önce bir görsel seçin.</string>
     <string name="companion_image_too_large">Bu görsel çok büyük (en fazla 25 MB).</string>
-    <string name="companion_download_page_title">OwnTV — Yedeklemeyi indir</string>
+    <string name="companion_download_page_title">MeleHub — Yedeklemeyi indir</string>
     <string name="companion_download_heading">Yedeklemenizi indirin</string>
-    <string name="companion_download_description">TV\'niz bir OwnTV yedekleme dosyası hazırladı. Bu cihaza (owntv-backup.own) kaydetmek için düğmeye dokunun. Dosyayı güvenli bir yerde saklayın — daha sonra bu dosyadan geri yükleme yapabilirsiniz.</string>
+    <string name="companion_download_description">TV\'niz bir MeleHub yedekleme dosyası hazırladı. Bu cihaza (owntv-backup.own) kaydetmek için düğmeye dokunun. Dosyayı güvenli bir yerde saklayın — daha sonra bu dosyadan geri yükleme yapabilirsiniz.</string>
     <string name="companion_download_backup">Yedeklemeyi indir</string>
     <string name="companion_error_bad_request">Hatalı istek</string>
     <string name="companion_error_body_too_large">İstek gövdesi çok büyük.</string>
@@ -265,6 +265,6 @@
     <string name="setup_stalker_device_id2_optional">Cihaz Kimliği 2 (isteğe bağlı)</string>
     <string name="setup_stalker_signature_optional">İmza (isteğe bağlı)</string>
     <string name="companion_error_pair_failed">Bu cihazla eşleştirilemedi.</string>
-    <string name="local_sync_browser_title">OwnTV yerel eşitleme</string>
-    <string name="local_sync_browser_body">Bu adres, diğer cihazınızdaki OwnTV uygulaması içindir. Orada Yerel eşitlemeyi açın ve listeden bu cihazı seçin.</string>
+    <string name="local_sync_browser_title">MeleHub yerel eşitleme</string>
+    <string name="local_sync_browser_body">Bu adres, diğer cihazınızdaki MeleHub uygulaması içindir. Orada Yerel eşitlemeyi açın ve listeden bu cihazı seçin.</string>
 </resources>

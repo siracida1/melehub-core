@@ -307,10 +307,10 @@
     <!-- Translators: Error when the system installer refuses the update. "reason" is the installer's own message, which is usually in English. -->
     <string name="update_install_rejected">The system installer refused the update: <xliff:g id="reason">%1$s</xliff:g></string>
     <!-- Translators: Status text when an update has been downloaded and is ready to install. "available" is the new version, "current" is the installed version. -->
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> is ready (you have v<xliff:g id="current">%2$s</xliff:g>).</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> is ready (you have v<xliff:g id="current">%2$s</xliff:g>).</string>
 
-    <!-- Translators: Dialog title for the database recovery screen. "OwnTV" is a brand name. -->
-    <string name="recovery_title">OwnTV could not open its database</string>
+    <!-- Translators: Dialog title for the database recovery screen. "MeleHub" is a brand name. -->
+    <string name="recovery_title">MeleHub could not open its database</string>
     <!-- Translators: Body text on the recovery screen explaining that data is safe and requesting a bug report. -->
     <string name="recovery_data_safe_full">Your profiles, playlists, favorites and history have NOT been deleted \u2014 this is a database upgrade failure, and the data is still on this device.\n\nPlease report this so it can be fixed, and include the message below.</string>
     <!-- Translators: Button on the recovery screen to retry opening the database. -->
@@ -388,7 +388,7 @@
     <!-- Translators: Description under the "keep going after the end" setting. -->
     <string name="settings_recording_post_roll_description">Carry on this long past the listed end time, so a programme that overruns is not cut off.</string>
     <!-- Translators: Warning on the recording settings screen when Android will not let the app set exact alarms, so recordings may begin late. -->
-    <string name="settings_recording_timers_inexact">This device does not allow OwnTV to set exact alarms, so a recording may begin a few minutes late. Recordings start earlier to make up for it.</string>
+    <string name="settings_recording_timers_inexact">This device does not allow MeleHub to set exact alarms, so a recording may begin a few minutes late. Recordings start earlier to make up for it.</string>
     <!-- Translators: A number of minutes, used as the value of the "start early" and "keep going after the end" settings. -->
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> minute</item>
@@ -397,7 +397,7 @@
     <!-- Translators: Shown on a recording that was refused because the channel is delivered as encrypted HLS, which the recorder cannot turn into a playable file. -->
     <string name="recording_failed_encrypted">This channel is scrambled and cannot be recorded</string>
     <!-- Translators: Shown on a recording that was refused because the channel declares DRM (Widevine/ClearKey). The second sentence exists so the user understands this is the provider's protection rather than a fault in the app, and does not report it as a bug. Keep both sentences. -->
-    <string name="recording_failed_drm">This channel is DRM-protected, so it can be watched but not recorded. The protection comes from your provider, not from OwnTV.</string>
+    <string name="recording_failed_drm">This channel is DRM-protected, so it can be watched but not recorded. The protection comes from your provider, not from MeleHub.</string>
     <!-- Translators: Shown on a recording that was skipped because the device was on a metered (mobile data) connection and the user has turned off recording over mobile data. -->
     <string name="recording_failed_metered">Not recorded on mobile data</string>
     <!-- Translators: Settings toggle on a phone: may a recording run when the device is on mobile data rather than Wi-Fi. -->

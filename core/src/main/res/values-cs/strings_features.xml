@@ -136,8 +136,8 @@
     <string name="update_not_enough_space">Pro aktualizaci není dost volného místa. Uvolněte přibližně <xliff:g id="size">%1$s</xliff:g> a zkuste to znovu.</string>
     <string name="update_damaged_download">Aktualizace se nestáhla celá. Zkontrolujte připojení a zkuste to znovu.</string>
     <string name="update_install_rejected">Instalátor systému aktualizaci odmítl: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> je připravena (máte v<xliff:g id="current">%2$s</xliff:g>).</string>
-    <string name="recovery_title">OwnTV nemohla otevřít svou databázi</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> je připravena (máte v<xliff:g id="current">%2$s</xliff:g>).</string>
+    <string name="recovery_title">MeleHub nemohla otevřít svou databázi</string>
     <string name="recovery_data_safe_full">Vaše profily, playlisty, oblíbené položky ani historie NEBYLY odstraněny — jde o selhání upgradu databáze a data jsou stále v tomto zařízení.\n\nNahlaste prosím tuto chybu, aby ji bylo možné opravit, a přiložte níže uvedenou zprávu.</string>
     <string name="recovery_retry">Zkusit znovu</string>
     <string name="recovery_backup_hint">Pokud máte soubor zálohy, můžete vymazat data aplikace a poté zálohu obnovit. Vymazáním dat se odstraní vše uložené v tomto zařízení.</string>
@@ -235,7 +235,7 @@
     <string name="settings_recording_pre_roll_description">Začít takto dlouho před uvedeným začátkem, aby průvodce, který jde trochu napřed, nezmeškal úvod.</string>
     <string name="settings_recording_post_roll">Pokračovat po konci</string>
     <string name="settings_recording_post_roll_description">Pokračovat takto dlouho po uvedeném konci, aby pořad, který se protáhne, nebyl uříznut.</string>
-    <string name="settings_recording_timers_inexact">Toto zařízení nedovoluje aplikaci OwnTV nastavovat přesné budíky, takže nahrávání může začít o pár minut později. Nahrávky proto začínají dříve.</string>
+    <string name="settings_recording_timers_inexact">Toto zařízení nedovoluje aplikaci MeleHub nastavovat přesné budíky, takže nahrávání může začít o pár minut později. Nahrávky proto začínají dříve.</string>
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> minuta</item>
         <item quantity="few"><xliff:g id="count">%1$d</xliff:g> minuty</item>
@@ -243,7 +243,7 @@
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> minut</item>
     </plurals>
     <string name="recording_failed_encrypted">Tento kanál je šifrovaný a nelze jej nahrát</string>
-    <string name="recording_failed_drm">Tento kanál je chráněný technologií DRM, takže jej lze sledovat, ale ne nahrávat. Ochranu uplatňuje váš poskytovatel, nikoli OwnTV.</string>
+    <string name="recording_failed_drm">Tento kanál je chráněný technologií DRM, takže jej lze sledovat, ale ne nahrávat. Ochranu uplatňuje váš poskytovatel, nikoli MeleHub.</string>
     <string name="recording_failed_metered">Nenahráno přes mobilní data</string>
     <string name="settings_recording_mobile_data">Nahrávat přes mobilní data</string>
     <string name="settings_recording_mobile_data_description">Vypnuto: nahrávání, které vyjde mimo Wi-Fi, se přeskočí místo čekání — živý pořad se neopakuje.</string>

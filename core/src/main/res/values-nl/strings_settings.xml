@@ -49,7 +49,7 @@
     <string name="settings_dynamic">Dynamisch</string>
     <string name="settings_http_proxy">HTTP-proxy</string>
     <string name="settings_use_proxy">Proxy gebruiken</string>
-    <string name="settings_proxy_description">Stuur al het verkeer en afspelen van OwnTV via een HTTP-proxy.</string>
+    <string name="settings_proxy_description">Stuur al het verkeer en afspelen va MeleHub via een HTTP-proxy.</string>
     <string name="settings_host">Host</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">Poort</string>
@@ -158,7 +158,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> over</item>
     </plurals>
     <string name="settings_metadata_active_source">Actieve bron</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · geen installatie</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · geen installatie</string>
     <string name="settings_metadata_connection">Verbinding</string>
     <string name="settings_metadata_remote_advanced">Geavanceerde TMDB-gegevens ophalen</string>
     <string name="settings_metadata_remote_advanced_description">Gebruik je eigen TMDB-API-sleutel of een zelfgehoste Worker in plaats van de gedeelde standaard.</string>
@@ -169,8 +169,8 @@
     <string name="settings_metadata_server_label">Server</string>
     <string name="settings_metadata_refills_label">Aangevuld om</string>
     <string name="settings_metadata_clear_advanced_title">Je eigen sleutel niet meer gebruiken?</string>
-    <string name="settings_metadata_clear_advanced_message">Je TMDB-API-sleutel en het adres van je eigen server worden van dit apparaat verwijderd, en OwnTV keert terug naar de ingebouwde gedeelde dienst met het dagelijkse deel.</string>
-    <string name="settings_metadata_fair_share">De ingebouwde metadatadienst wordt gedeeld door iedereen die OwnTV gebruikt, dus elk apparaat krijgt elke dag zijn eigen deel. Als je jouw deel opmaakt, pauzeren posters en beschrijvingen tot het weer wordt aangevuld — de informatie uit je eigen afspeellijst blijft gewoon werken. Je eigen TMDB-API-sleutel of server toevoegen heft de limiet op: het is gratis en een persoonlijke sleutel heeft praktisch geen limiet.</string>
+    <string name="settings_metadata_clear_advanced_message">Je TMDB-API-sleutel en het adres van je eigen server worden van dit apparaat verwijderd, en MeleHub keert terug naar de ingebouwde gedeelde dienst met het dagelijkse deel.</string>
+    <string name="settings_metadata_fair_share">De ingebouwde metadatadienst wordt gedeeld door iedereen die MeleHub gebruikt, dus elk apparaat krijgt elke dag zijn eigen deel. Als je jouw deel opmaakt, pauzeren posters en beschrijvingen tot het weer wordt aangevuld — de informatie uit je eigen afspeellijst blijft gewoon werken. Je eigen TMDB-API-sleutel of server toevoegen heft de limiet op: het is gratis en een persoonlijke sleutel heeft praktisch geen limiet.</string>
     <string name="settings_metadata_limit_reached">Dagelijks metadatadeel op — voeg je eigen TMDB-sleutel toe via Instellingen → Metadata om deze limiet op te heffen.</string>
     <string name="settings_metadata_language">Taal van metagegevens</string>
     <string name="settings_metadata_language_description">Taal voor plots, genres en titels van TMDB. Velden die TMDB niet heeft vertaald blijven in het Engels. Details worden per taal gecachet, dus terugschakelen gaat direct.</string>
@@ -315,7 +315,7 @@
     <string name="settings_network_group">Netwerk</string>
     <string name="settings_app_group">App</string>
     <string name="settings_app_startup">Opstartgedrag van app</string>
-    <string name="settings_app_startup_description">Wat OwnTV opent wanneer de app start</string>
+    <string name="settings_app_startup_description">Wat MeleHub opent wanneer de app start</string>
     <string name="settings_check_updates">Controleren op updates</string>
     <string name="settings_check_updates_description">Download de nieuwste versie via GitHub Releases</string>
     <string name="settings_update_startup">Bij opstarten controleren op updates</string>
@@ -347,7 +347,7 @@
     <string name="settings_about_version">Versie <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">Je eigen IPTV-speler voor Android TV — een gratis, opensource-app die uitsluitend als speler dient. De app biedt geen zenders of inhoud; je gebruikt je eigen legaal toegankelijke bronnen.</string>
     <string name="settings_about_description_full_mobile">Je eigen IPTV-speler voor Android — een gratis, opensource-app die uitsluitend als speler dient. De app biedt geen zenders of inhoud; je gebruikt je eigen legaal toegankelijke bronnen.</string>
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3-licentie</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3-licentie</string>
     <string name="settings_join_telegram">Word lid op Telegram</string>
     <string name="settings_telegram_qr">QR-code van Telegram-groep</string>
     <string name="settings_telegram_scan">Scan de QR-code om via je telefoon deel te nemen, of open de bovenstaande link.</string>
@@ -587,7 +587,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles applicatie-API-sleutel</string>
     <string name="settings_worker_server_url">Worker-/server-URL</string>
     <string name="settings_shared">Gedeeld</string>
-    <string name="settings_open_subtitles_access_priority">Laat beide leeg om de gedeelde Worker van OwnTV te gebruiken. Een eigen Worker-URL heeft voorrang op een directe API-sleutel. Accountsessies blijven profielspecifiek.</string>
+    <string name="settings_open_subtitles_access_priority">Laat beide leeg om de gedeelde Worker va MeleHub te gebruiken. Een eigen Worker-URL heeft voorrang op een directe API-sleutel. Accountsessies blijven profielspecifiek.</string>
     <string name="settings_remove_custom_access">Aangepaste toegang verwijderen</string>
     <string name="settings_audio">Audio</string>
     <string name="settings_preferred_audio_language">Voorkeurstaal voor audio</string>
@@ -674,7 +674,7 @@
     <string name="settings_guide_synced">Programmagids gesynchroniseerd</string>
     <string name="settings_guide_sync_failed">Synchroniseren van programmagids mislukt</string>
     <string name="settings_restore_remote_title">Herstellen vanaf een ander apparaat</string>
-    <string name="settings_restore_remote_description">Scan op een telefoon, tablet of computer die met dezelfde Wi-Fi is verbonden de QR-code (of open de URL), voer deze PIN in, kies uw OwnTV-back-upbestand en tik op Naar tv verzenden. Vervolgens kiest u hier wat u wilt herstellen.</string>
+    <string name="settings_restore_remote_description">Scan op een telefoon, tablet of computer die met dezelfde Wi-Fi is verbonden de QR-code (of open de URL), voer deze PIN in, kies uw MeleHub-back-upbestand en tik op Naar tv verzenden. Vervolgens kiest u hier wat u wilt herstellen.</string>
     <string name="settings_opening_server">Server openen…</string>
     <string name="settings_enter_pin_browser">Voer deze PIN in de browser in</string>
     <string name="settings_companion_qr">QR-code voor de companion-URL</string>
@@ -701,7 +701,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">Apparaat</string>
     <string name="settings_catchup_player_ask">Altijd vragen</string>
-    <string name="settings_catchup_player_internal">OwnTV-speler</string>
+    <string name="settings_catchup_player_internal">MeleHub-speler</string>
     <string name="settings_catchup_player_external">Externe speler</string>
     <string name="settings_soon">BINNENKORT</string>
     <string name="settings_download_folder_title">Downloadmap kiezen</string>
@@ -833,9 +833,9 @@
     <string name="settings_sources_info">Info</string>
     <string name="settings_sources_retest">Opnieuw testen</string>
     <string name="settings_sources_probe_title">Deze afspeellijst testen?</string>
-    <string name="settings_sources_probe_warning">Veel providers zeggen nooit hoeveel kanalen je tegelijk mag kijken, dus OwnTV zoekt het uit door er een paar te openen en te kijken welke blijven werken. Alles wat nu speelt, stopt en dit kan tot twee minuten duren.</string>
+    <string name="settings_sources_probe_warning">Veel providers zeggen nooit hoeveel kanalen je tegelijk mag kijken, dus MeleHub zoekt het uit door er een paar te openen en te kijken welke blijven werken. Alles wat nu speelt, stopt en dit kan tot twee minuten duren.</string>
     <string name="settings_sources_probe_running">Bezig met nagaan hoeveel kanalen deze provider toestaat… (<xliff:g id="current">%1$d</xliff:g> van <xliff:g id="total">%2$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">OwnTV kon niet achterhalen hoeveel kanalen deze provider toestaat.</string>
+    <string name="settings_sources_probe_unknown">MeleHub kon niet achterhalen hoeveel kanalen deze provider toestaat.</string>
     <string name="settings_sources_probe_skip">Overslaan</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">STANDAARD</string>
@@ -1086,7 +1086,7 @@
     <string name="settings_move_category_action">Verplaatsen</string>
     <string name="settings_dns_description">Een aangepaste DNS-server gebruiken om domeinnamen op te zoeken</string>
     <string name="settings_dns_custom">Aangepaste DNS</string>
-    <string name="settings_dns_toggle_description">Alle domeinnamen die OwnTV opzoekt via een aangepaste DNS-server laten omzetten.</string>
+    <string name="settings_dns_toggle_description">Alle domeinnamen die MeleHub opzoekt via een aangepaste DNS-server laten omzetten.</string>
     <string name="settings_dns_use_custom">Aangepaste DNS gebruiken</string>
     <string name="settings_dns_server_missing">Aangepaste DNS is ingeschakeld, maar er is geen server geconfigureerd. Voer een serveradres in en selecteer Opslaan, of schakel deze optie uit.</string>
     <string name="settings_dns_server">DNS-server</string>
@@ -1133,7 +1133,7 @@
     <string name="settings_live_preroll">Livestreams vooraf bufferen</string>
     <string name="settings_live_preroll_description">Buffer zoveel video voordat een live zender begint met afspelen, en opnieuw na een hapering. Dit is een hoeveelheid video, geen aftelling. Uit zorgt voor de snelst mogelijke start.</string>
     <string name="settings_live_tune_timeout">Kanaal opgeven na</string>
-    <string name="settings_live_tune_timeout_description">Als een livekanaal binnen deze tijd geen beeld heeft laten zien, stopt OwnTV met proberen en laat het je weten, in plaats van een zwart scherm te tonen terwijl het alle spelers een voor een afgaat. ‘Nooit’ blijft proberen, wat op een kanaal dat je provider heeft verwijderd ruim een minuut kan duren. Wachttijden waar je provider zelf om vraagt, tellen niet mee.</string>
+    <string name="settings_live_tune_timeout_description">Als een livekanaal binnen deze tijd geen beeld heeft laten zien, stopt MeleHub met proberen en laat het je weten, in plaats van een zwart scherm te tonen terwijl het alle spelers een voor een afgaat. ‘Nooit’ blijft proberen, wat op een kanaal dat je provider heeft verwijderd ruim een minuut kan duren. Wachttijden waar je provider zelf om vraagt, tellen niet mee.</string>
     <string name="settings_live_preroll_per_playlist">Vooraf bufferen per afspeellijst</string>
     <string name="settings_live_preroll_per_playlist_description">Overschrijf de bovenstaande instelling voor één afspeellijst terwijl je andere afspeellijsten snel blijven.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1159,7 +1159,7 @@
     <string name="settings_surround_auto_description_mobile">Auto — probeer Dolby/DTS-surround en schakel automatisch terug naar stereo als de luidspreker, koptelefoon of aangesloten ontvanger het niet afspeelt. Aanbevolen.</string>
     <string name="settings_surround_stereo_description">Alleen stereo — decodeer altijd in de app en stuur gewoon 2.0-geluid. Gebruik dit op tv-luidsprekers of een stereo-soundbar, of als audio achterloopt op het beeld.</string>
     <string name="settings_surround_stereo_description_mobile">Alleen stereo — decodeer altijd in de app en stuur gewoon 2.0-geluid. Gebruik dit voor de ingebouwde luidspreker, een koptelefoon of een stereo-soundbar, of als audio achterloopt op het beeld.</string>
-    <string name="settings_surround_forced_description">Surround — stuur Dolby/DTS naar een echte 5.1/7.1-receiver. Als het stil wordt of hapert, valt OwnTV alsnog terug op stereo en meldt je dat.</string>
+    <string name="settings_surround_forced_description">Surround — stuur Dolby/DTS naar een echte 5.1/7.1-receiver. Als het stil wordt of hapert, valt MeleHub alsnog terug op stereo en meldt je dat.</string>
     <string name="settings_panel_width">Paneelbreedte aanpassen</string>
     <string name="settings_panel_width_description">Pas de categorie-, lijst- en voorbeeldpanelen aan in Live-tv, films en series.</string>
     <string name="settings_vod_layout">Indeling van Films en Series</string>
@@ -1201,9 +1201,9 @@
     <string name="settings_panel_width_preview_panel"><xliff:g id="label">%1$s</xliff:g> paneel</string>
     <string name="settings_panel_width_total">Totale grootte</string>
     <string name="settings_panel_width_invalid_total">De totale grootte is <xliff:g id="total">%1$d</xliff:g>%%. Die moet 100%% zijn — pas het aan.</string>
-    <string name="settings_language_help_translate">Help OwnTV in jouw taal te vertalen</string>
-    <string name="settings_language_contribution_description">Scan de QR-code of open de link om elke beschikbare taal te kiezen en bij te dragen aan alle zes OwnTV-vertaalcomponenten.</string>
-    <string name="settings_language_contribution_qr_description">QR-code voor het overzicht van het OwnTV-vertaalproject.</string>
+    <string name="settings_language_help_translate">Help MeleHub in jouw taal te vertalen</string>
+    <string name="settings_language_contribution_description">Scan de QR-code of open de link om elke beschikbare taal te kiezen en bij te dragen aan alle zes MeleHub-vertaalcomponenten.</string>
+    <string name="settings_language_contribution_qr_description">QR-code voor het overzicht van het MeleHub-vertaalproject.</string>
     <string name="settings_language_contribution_qr_failed">De QR-code kon niet worden gegenereerd. Gebruik in plaats daarvan de onderstaande link.</string>
     <string name="settings_language_contribution_copy">Link kopiëren</string>
     <string name="settings_language_contribution_copied">Link gekopieerd</string>
@@ -1212,8 +1212,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">Niet aanbevolen op deze tv: onder Android 12 kan de framesnelheid niet soepel worden gewijzigd.</string>
     <string name="settings_auto_frame_rate_warning_title">Niet aanbevolen op deze tv</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">Niet aanbevolen op dit apparaat</string>
-    <string name="settings_auto_frame_rate_warning_description">Dit apparaat draait op Android <xliff:g id="android_version">%1$s</xliff:g>. Onder Android 12 kan de tv OwnTV niet vertellen naar welke verversingsfrequenties hij soepel kan overschakelen, dus het wijzigen van de frequentie kan het scherm een seconde of twee zwart maken — soms meerdere keren tijdens een programma.\n\nWe raden aan om Automatische framesnelheid hier uit te laten staan. Als je tv probleemloos overschakelt, zet je hem aan en kijk je: je kunt hem op elk moment weer uitzetten.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">Dit apparaat draait op Android <xliff:g id="android_version">%1$s</xliff:g>. Onder Android 12 kan het apparaat OwnTV niet vertellen naar welke verversingsfrequenties het soepel kan overschakelen, dus het wijzigen van de frequentie kan het scherm een seconde of twee zwart maken — soms meerdere keren tijdens een programma.\n\nWe raden aan om Automatische framesnelheid hier uit te laten staan. Als je scherm probleemloos overschakelt, zet je hem aan en kijk je: je kunt hem op elk moment weer uitzetten.</string>
+    <string name="settings_auto_frame_rate_warning_description">Dit apparaat draait op Android <xliff:g id="android_version">%1$s</xliff:g>. Onder Android 12 kan de tv MeleHub niet vertellen naar welke verversingsfrequenties hij soepel kan overschakelen, dus het wijzigen van de frequentie kan het scherm een seconde of twee zwart maken — soms meerdere keren tijdens een programma.\n\nWe raden aan om Automatische framesnelheid hier uit te laten staan. Als je tv probleemloos overschakelt, zet je hem aan en kijk je: je kunt hem op elk moment weer uitzetten.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">Dit apparaat draait op Android <xliff:g id="android_version">%1$s</xliff:g>. Onder Android 12 kan het apparaat MeleHub niet vertellen naar welke verversingsfrequenties het soepel kan overschakelen, dus het wijzigen van de frequentie kan het scherm een seconde of twee zwart maken — soms meerdere keren tijdens een programma.\n\nWe raden aan om Automatische framesnelheid hier uit te laten staan. Als je scherm probleemloos overschakelt, zet je hem aan en kijk je: je kunt hem op elk moment weer uitzetten.</string>
     <string name="settings_auto_frame_rate_keep_off">Uit laten staan</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">Toch inschakelen</string>
     <string name="settings_language_request_workflow">Wil je een taal toevoegen die niet in de lijst staat? Dien dan eerst een taalverzoek in. Een beheerder registreert de taal en bereidt de basisvertalingsbestanden voor; zodra deze op Hosted Weblate verschijnt, kun je beginnen met bijdragen.</string>
@@ -1412,7 +1412,7 @@
     <string name="local_sync_received_items">Ontvangen items: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">Je gegevens zijn verstuurd</string>
     <string name="local_sync_failed">Synchroniseren mislukt</string>
-    <string name="local_sync_error_unreachable">Dit apparaat was niet bereikbaar. Open daarop OwnTV → Instellingen → Gegevens → Lokaal synchroniseren en zet Synchronisatiemodus aan. Beide apparaten moeten op hetzelfde wifinetwerk zitten.</string>
+    <string name="local_sync_error_unreachable">Dit apparaat was niet bereikbaar. Open daarop MeleHub → Instellingen → Gegevens → Lokaal synchroniseren en zet Synchronisatiemodus aan. Beide apparaten moeten op hetzelfde wifinetwerk zitten.</string>
     <string name="local_sync_error_unauthorized">Het andere apparaat weigerde. De pincode klopt mogelijk niet, of het is dit apparaat vergeten.</string>
     <string name="local_sync_error_bad_payload">Wat binnenkwam kon niet worden gelezen. Als je een wachtwoord gebruikte, controleer of het op beide apparaten hetzelfde is.</string>
     <string name="local_sync_error_unknown">Er is iets misgegaan. Probeer het opnieuw.</string>
@@ -1453,7 +1453,7 @@
     <string name="settings_multiview_keep_two">Hou 2</string>
     <string name="settings_multiview_use_anyway">Toch gebruiken</string>
     <string name="settings_app_icon">App-pictogram</string>
-    <string name="settings_app_icon_summary">Kleur van het OwnTV-pictogram en -logo</string>
+    <string name="settings_app_icon_summary">Kleur van het MeleHub-pictogram en -logo</string>
     <string name="app_icon_petrol">Petrol</string>
     <string name="app_icon_sunflower">Zonnebloem</string>
     <string name="app_icon_cobalt">Kobalt</string>
@@ -1462,7 +1462,7 @@
     <string name="app_icon_eggshell">Eierschaal</string>
     <string name="app_icon_olive">Olijf</string>
     <string name="app_icon_olive_cream">Olijf op crème</string>
-    <string name="app_icon_restart_title">OwnTV opnieuw starten?</string>
-    <string name="app_icon_restart_message">Je hebt een nieuw pictogram en logo gekozen. Ze worden actief nadat OwnTV opnieuw is gestart.</string>
+    <string name="app_icon_restart_title">MeleHub opnieuw starten?</string>
+    <string name="app_icon_restart_message">Je hebt een nieuw pictogram en logo gekozen. Ze worden actief nadat MeleHub opnieuw is gestart.</string>
     <string name="app_icon_restart_now">Nu opnieuw starten</string>
 </resources>

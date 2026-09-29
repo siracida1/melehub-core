@@ -33,16 +33,16 @@
     <string name="setup_display_size_description">设置界面和文字的大小。两者之后都可以在设置中更改。</string>
     <string name="setup_display_size_preview">如果坐在座位上能轻松读出这句话，大小就合适了。</string>
     <string name="setup_before_you_start">开始之前</string>
-    <string name="setup_disclaimer">OwnTV 仅是一款媒体播放器。其中不包含任何频道、播放列表或内容。你有责任自行添加具有合法访问权限的 Xtream、M3U 或 Stalker 源。</string>
+    <string name="setup_disclaimer">MeleHub 仅是一款媒体播放器。其中不包含任何频道、播放列表或内容。你有责任自行添加具有合法访问权限的 Xtream、M3U 或 Stalker 源。</string>
     <string name="setup_i_understand">我明白了</string>
-    <string name="setup_set_up_owntv">设置 OwnTV</string>
+    <string name="setup_set_up_owntv">设置 MeleHub</string>
     <string name="setup_setup_choice_description">你可以从头开始，也可以从备份文件或另一台设备恢复用户档案、播放列表和收藏夹。</string>
     <string name="setup_new_profile">新建用户档案</string>
     <string name="setup_create_profile_add_sources">创建用户档案并添加源</string>
     <string name="setup_restore_backup">恢复备份</string>
     <string name="setup_import_profiles_playlists">从文件导入用户档案和播放列表</string>
     <string name="setup_sync_device">从另一台设备</string>
-    <string name="setup_sync_device_description">通过 Wi-Fi 从你的另一台 OwnTV 设备复制全部内容</string>
+    <string name="setup_sync_device_description">通过 Wi-Fi 从你的另一台 MeleHub 设备复制全部内容</string>
     <string name="setup_add_playlist">添加播放列表</string>
     <string name="setup_add_playlist_description">为此用户档案添加源，也可以稍后再设置。</string>
     <string name="setup_new">新建</string>
@@ -104,7 +104,7 @@
     <string name="setup_edit_source">编辑源</string>
     <string name="setup_add_your_source">添加你的源</string>
     <string name="setup_edit_source_description">更新此源的详细信息，或更改其自动刷新设置。</string>
-    <string name="setup_byo_source_description">OwnTV 是一款播放器——请自行添加 Xtream、M3U 或 Stalker 源。</string>
+    <string name="setup_byo_source_description">MeleHub 是一款播放器——请自行添加 Xtream、M3U 或 Stalker 源。</string>
     <string name="setup_xtream">Xtream</string>
     <string name="setup_m3u">M3U / M3U8</string>
     <string name="setup_stalker_mac">Stalker (MAC)</string>
@@ -164,7 +164,7 @@
     <string name="setup_mag254">MAG254</string>
     <string name="setup_mag270">MAG270</string>
     <string name="setup_mag420">MAG420</string>
-    <string name="companion_pin_page_title">OwnTV — 输入 PIN</string>
+    <string name="companion_pin_page_title">MeleHub — 输入 PIN</string>
     <string name="companion_pin_heading">输入 PIN</string>
     <string name="companion_pin_description">请输入电视上显示的 6 位 PIN 以继续。</string>
     <string name="companion_pin_placeholder">••••••</string>
@@ -186,14 +186,14 @@
     <string name="companion_open_subtitles_description">为你的电视登录 OpenSubtitles。只有当你拥有自己的 API 信息时，才需在下方填写。</string>
     <string name="companion_service_config_sent">连接信息已在你的电视上等待。请在电视上确认并保存。</string>
     <string name="companion_service_config_again">发送其他连接信息</string>
-    <string name="companion_add_page_title">OwnTV — 添加源</string>
+    <string name="companion_add_page_title">MeleHub — 添加源</string>
     <string name="companion_add_heading">添加源</string>
     <string name="companion_add_description">填写一个源并按下“发送”。源会显示在电视上——准备就绪后，拿起遥控器并在电视上按下“开始导入”。</string>
     <string name="companion_default_playlist">默认播放列表</string>
     <string name="companion_send_to_tv">发送到电视</string>
     <string name="companion_sync_xtream_hint">要同步的内容——“立即”会优先导入，“稍后”会在后台同步，“关闭”则永远不会获取。</string>
     <string name="companion_sync_stalker_hint">要同步的内容——直播默认为“立即”；电影/剧集默认为“稍后”（Stalker VOD 速度较慢）。</string>
-    <string name="companion_saved_page_title">OwnTV — 已发送</string>
+    <string name="companion_saved_page_title">MeleHub — 已发送</string>
     <string name="companion_saved_heading">已发送到电视 ✓</string>
     <string name="companion_saved_source_body"><xliff:g id="name">%1$s</xliff:g> 现已显示在电视的“添加源”界面上。请在电视上检查详细信息，然后使用遥控器按下“开始导入”。</string>
     <string name="companion_saved_send_another">发送另一个源</string>
@@ -201,9 +201,9 @@
     <string name="companion_saved_backup_link">发送其他文件</string>
     <string name="companion_saved_image_body">你的图片现已成为电视背景。</string>
     <string name="companion_saved_image_link">发送其他图片</string>
-    <string name="companion_backup_page_title">OwnTV — 恢复备份</string>
+    <string name="companion_backup_page_title">MeleHub — 恢复备份</string>
     <string name="companion_backup_heading">恢复备份</string>
-    <string name="companion_backup_description">选择 OwnTV 备份文件（.own 或较旧的 .json 文件），然后按下“发送”。文件将传输到电视——拿起遥控器并在电视上选择要恢复的内容。</string>
+    <string name="companion_backup_description">选择 MeleHub 备份文件（.own 或较旧的 .json 文件），然后按下“发送”。文件将传输到电视——拿起遥控器并在电视上选择要恢复的内容。</string>
     <string name="companion_backup_file">备份文件</string>
     <string name="companion_choose_backup">请先选择备份文件。</string>
     <string name="companion_playlist_file">或上传播放列表文件</string>
@@ -212,15 +212,15 @@
     <string name="companion_upload_failed">上传失败（HTTP <xliff:g id="status">%1$d</xliff:g>）。请检查 PIN 后重试。</string>
     <string name="companion_could_not_reach">无法连接到电视。请确保设备连接到同一 Wi-Fi 后重试。</string>
     <string name="companion_could_not_read">无法读取该文件。</string>
-    <string name="companion_image_page_title">OwnTV — 背景图片</string>
+    <string name="companion_image_page_title">MeleHub — 背景图片</string>
     <string name="companion_image_heading">发送背景图片</string>
     <string name="companion_image_description">选择照片（JPG、PNG 或 WebP）并按下“发送”。照片会成为电视界面后方的背景图片。</string>
     <string name="companion_image_file">图片文件</string>
     <string name="companion_choose_image">请先选择图片。</string>
     <string name="companion_image_too_large">该图片过大（最大 25 MB）。</string>
-    <string name="companion_download_page_title">OwnTV — 下载备份</string>
+    <string name="companion_download_page_title">MeleHub — 下载备份</string>
     <string name="companion_download_heading">下载你的备份</string>
-    <string name="companion_download_description">您的电视已准备好 OwnTV 备份文件。点击按钮将其保存到此设备（owntv-backup.own）。请将其妥善保存在安全位置——您以后可以用它恢复。</string>
+    <string name="companion_download_description">您的电视已准备好 MeleHub 备份文件。点击按钮将其保存到此设备（owntv-backup.own）。请将其妥善保存在安全位置——您以后可以用它恢复。</string>
     <string name="companion_download_backup">下载备份</string>
     <string name="companion_error_bad_request">请求无效</string>
     <string name="companion_error_body_too_large">请求正文过大。</string>
@@ -262,6 +262,6 @@
     <string name="setup_stalker_device_id2_optional">设备 ID2（可选）</string>
     <string name="setup_stalker_signature_optional">签名（可选）</string>
     <string name="companion_error_pair_failed">无法与此设备配对。</string>
-    <string name="local_sync_browser_title">OwnTV 本地同步</string>
-    <string name="local_sync_browser_body">此地址供你另一台设备上的 OwnTV 应用使用。请在那里打开“本地同步”，并从列表中选择本机。</string>
+    <string name="local_sync_browser_title">MeleHub 本地同步</string>
+    <string name="local_sync_browser_body">此地址供你另一台设备上的 MeleHub 应用使用。请在那里打开“本地同步”，并从列表中选择本机。</string>
 </resources>

@@ -38,7 +38,7 @@
     <string name="content_genre_scifi">Science-fiction</string>
     <string name="content_genre_series">Séries</string>
     <string name="content_genre_sport">Sport</string>
-    <string name="content_exit_owntv">Quitter OwnTV ?</string>
+    <string name="content_exit_owntv">Quitter MeleHub ?</string>
     <string name="content_exit_confirmation">Voulez-vous vraiment fermer l’application ?</string>
     <string name="content_restore_incomplete_title">Une restauration ne s’est pas terminée</string>
     <string name="content_restore_incomplete_message">L’application s’est fermée pendant la restauration de <xliff:g id="description">%1$s</xliff:g>. Certains éléments peuvent donc manquer. Rien n’a été supprimé — relancez la même restauration depuis Paramètres → Sauvegarde et restauration pour récupérer le reste.</string>
@@ -229,7 +229,7 @@
     <string name="content_storage_choose_folder">Choisir un autre dossier…</string>
     <string name="content_storage_chosen_folder">Dossier choisi</string>
     <string name="content_storage_folder_lost">Ce dossier n’est plus disponible. Choisissez-le à nouveau ou sélectionnez-en un autre.</string>
-    <string name="content_storage_folder_fallback">Votre dossier de téléchargement n’est pas disponible pour le moment : les téléchargements sont enregistrés dans le dossier d’OwnTV jusqu’à son retour.</string>
+    <string name="content_storage_folder_fallback">Votre dossier de téléchargement n’est pas disponible pour le moment : les téléchargements sont enregistrés dans le dossier d’MeleHub jusqu’à son retour.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> téléchargés</string>
     <string name="content_downloads_failure_message">Échec du téléchargement — impossible d’accéder à la source. Appuyez sur Réessayer.</string>
     <string name="content_downloads_queued">En attente…</string>
@@ -340,7 +340,7 @@
     <string name="content_epg_favourite">Ajouter aux favoris</string>
     <string name="content_epg_unfavourite">Retirer des favoris</string>
     <string name="content_epg_player_choice_description">Définissez un choix permanent dans Paramètres › Rattrapage.</string>
-    <string name="content_epg_own_player">Lecteur OwnTV</string>
+    <string name="content_epg_own_player">Lecteur MeleHub</string>
     <string name="content_epg_external_player">Lecteur externe</string>
     <string name="content_epg_time_offset">Décalage horaire de l\'EPG</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>m</string>

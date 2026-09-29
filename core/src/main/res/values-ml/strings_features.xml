@@ -128,8 +128,8 @@
     <string name="update_not_enough_space">അപ്ഡേറ്റിന് ആവശ്യമായ സ്റ്റോറേജ് ഇല്ല. ഏകദേശം <xliff:g id="size">%1$s</xliff:g> ഒഴിവാക്കി വീണ്ടും ശ്രമിക്കുക.</string>
     <string name="update_damaged_download">അപ്ഡേറ്റ് പൂർണ്ണമായി ഡൗൺലോഡ് ആയില്ല. കണക്ഷൻ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക.</string>
     <string name="update_install_rejected">സിസ്റ്റം ഇൻസ്റ്റാളർ അപ്ഡേറ്റ് നിരസിച്ചു: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> തയ്യാറാണ് (നിങ്ങളുടെ പക്കലുള്ളത് v<xliff:g id="current">%2$s</xliff:g> ആണ്).</string>
-    <string name="recovery_title">OwnTV-യ്ക്ക് അതിന്റെ ഡാറ്റാബേസ് തുറക്കാനായില്ല</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> തയ്യാറാണ് (നിങ്ങളുടെ പക്കലുള്ളത് v<xliff:g id="current">%2$s</xliff:g> ആണ്).</string>
+    <string name="recovery_title">MeleHub-യ്ക്ക് അതിന്റെ ഡാറ്റാബേസ് തുറക്കാനായില്ല</string>
     <string name="recovery_data_safe_full">നിങ്ങളുടെ പ്രൊഫൈലുകൾ, പ്ലേലിസ്റ്റുകൾ, പ്രിയപ്പെട്ടവ, ചരിത്രം എന്നിവ നീക്കം ചെയ്തിട്ടില്ല — ഇത് ഡാറ്റാബേസ് അപ്‌ഗ്രേഡ് പരാജയപ്പെട്ടതാണ്, ഡാറ്റ ഇപ്പോഴും ഈ ഉപകരണത്തിലുണ്ട്.\n\nഇത് പരിഹരിക്കാൻ കഴിയുന്നതിനായി ദയവായി റിപ്പോർട്ട് ചെയ്യുകയും ചുവടെയുള്ള സന്ദേശം ഉൾപ്പെടുത്തുകയും ചെയ്യുക.</string>
     <string name="recovery_retry">വീണ്ടും ശ്രമിക്കുക</string>
     <string name="recovery_backup_hint">നിങ്ങളുടെ പക്കൽ ഒരു ബാക്കപ്പ് ഫയൽ ഉണ്ടെങ്കിൽ, ആപ്പ് റീസെറ്റ് ചെയ്ത് പിന്നീട് അത് പുനഃസ്ഥാപിക്കാം. റീസെറ്റ് ചെയ്യുന്നത് ഈ ഉപകരണത്തിൽ സംഭരിച്ചിരിക്കുന്ന എല്ലാം ഇല്ലാതാക്കും.</string>
@@ -219,13 +219,13 @@
     <string name="settings_recording_pre_roll_description">കാണിച്ച ആരംഭ സമയത്തിന് ഇത്ര മുമ്പ് തുടങ്ങുക, അങ്ങനെ അല്പം നേരത്തെയുള്ള ഗൈഡിലും തുടക്കം നഷ്ടമാകില്ല.</string>
     <string name="settings_recording_post_roll">അവസാനത്തിനു ശേഷവും തുടരുക</string>
     <string name="settings_recording_post_roll_description">കാണിച്ച അവസാന സമയത്തിന് ശേഷം ഇത്ര നേരം തുടരുക, അങ്ങനെ നീണ്ടുപോകുന്ന പരിപാടി മുറിഞ്ഞുപോകില്ല.</string>
-    <string name="settings_recording_timers_inexact">ഈ ഉപകരണം OwnTV-യെ കൃത്യമായ അലാറം സജ്ജമാക്കാൻ അനുവദിക്കുന്നില്ല, അതിനാൽ റെക്കോർഡിംഗ് കുറച്ച് മിനിറ്റ് വൈകി തുടങ്ങാം. അത് നികത്താൻ റെക്കോർഡിംഗ് നേരത്തെ ആരംഭിക്കുന്നു.</string>
+    <string name="settings_recording_timers_inexact">ഈ ഉപകരണം MeleHub-യെ കൃത്യമായ അലാറം സജ്ജമാക്കാൻ അനുവദിക്കുന്നില്ല, അതിനാൽ റെക്കോർഡിംഗ് കുറച്ച് മിനിറ്റ് വൈകി തുടങ്ങാം. അത് നികത്താൻ റെക്കോർഡിംഗ് നേരത്തെ ആരംഭിക്കുന്നു.</string>
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> മിനിറ്റ്</item>
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> മിനിറ്റ്</item>
     </plurals>
     <string name="recording_failed_encrypted">ഈ ചാനൽ എൻക്രിപ്റ്റ് ചെയ്തതിനാൽ റെക്കോർഡ് ചെയ്യാനാകില്ല</string>
-    <string name="recording_failed_drm">ഈ ചാനൽ DRM പരിരക്ഷിതമാണ്, അതിനാൽ കാണാൻ കഴിയും പക്ഷേ റെക്കോർഡ് ചെയ്യാൻ കഴിയില്ല. ഈ പരിരക്ഷ നൽകുന്നത് നിങ്ങളുടെ സേവനദാതാവാണ്, OwnTV അല്ല.</string>
+    <string name="recording_failed_drm">ഈ ചാനൽ DRM പരിരക്ഷിതമാണ്, അതിനാൽ കാണാൻ കഴിയും പക്ഷേ റെക്കോർഡ് ചെയ്യാൻ കഴിയില്ല. ഈ പരിരക്ഷ നൽകുന്നത് നിങ്ങളുടെ സേവനദാതാവാണ്, MeleHub അല്ല.</string>
     <string name="recording_failed_metered">മൊബൈൽ ഡാറ്റയിൽ റെക്കോർഡ് ചെയ്തില്ല</string>
     <string name="settings_recording_mobile_data">മൊബൈൽ ഡാറ്റയിൽ റെക്കോർഡ് ചെയ്യുക</string>
     <string name="settings_recording_mobile_data_description">ഓഫാണെങ്കിൽ, Wi-Fi ഇല്ലാത്ത നേരത്ത് വരുന്ന റെക്കോർഡിംഗ് കാത്തിരിക്കാതെ ഒഴിവാക്കും — തത്സമയ പരിപാടി വീണ്ടും വരില്ല.</string>

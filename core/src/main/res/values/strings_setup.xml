@@ -55,7 +55,7 @@
     <!-- Translators: Visual drag indicator shown next to the active item during reorder mode. This is a symbol, not translatable text. -->
     <string name="setup_move_indicator">\u2195</string>
 
-    <!-- Translators: Subtitle on the first-run welcome screen, below the OwnTV brand lockup. -->
+    <!-- Translators: Subtitle on the first-run welcome screen, below the MeleHub brand lockup. -->
     <string name="setup_welcome_to">WELCOME TO</string>
     <string name="setup_welcome_tagline">Your own IPTV player.</string>
     <!-- Translators: Primary action button on the first-run welcome screen. -->
@@ -68,12 +68,12 @@
     <string name="setup_display_size_preview">If you can read this easily from your seat, the size is right.</string>
     <!-- Translators: Heading on the first-run disclaimer screen shown before the user can proceed. -->
     <string name="setup_before_you_start">Before you start</string>
-    <!-- Translators: Body text on the first-run disclaimer screen. "OwnTV", "Xtream", "M3U" are brand/protocol names that must not be translated. -->
-    <string name="setup_disclaimer">OwnTV is a media player only. It includes no channels, playlists, or content. You are responsible for adding your own legally accessible Xtream, M3U, or Stalker sources.</string>
+    <!-- Translators: Body text on the first-run disclaimer screen. "MeleHub", "Xtream", "M3U" are brand/protocol names that must not be translated. -->
+    <string name="setup_disclaimer">MeleHub is a media player only. It includes no channels, playlists, or content. You are responsible for adding your own legally accessible Xtream, M3U, or Stalker sources.</string>
     <!-- Translators: Button on the first-run disclaimer screen to acknowledge and proceed. -->
     <string name="setup_i_understand">I Understand</string>
     <!-- Translators: Heading on the setup-choice screen (first run only) where the user chooses between a new profile or restoring a backup. -->
-    <string name="setup_set_up_owntv">Set up OwnTV</string>
+    <string name="setup_set_up_owntv">Set up MeleHub</string>
     <!-- Translators: Description on the setup-choice screen. -->
     <string name="setup_setup_choice_description">Start fresh, or bring back your profiles, playlists and favorites from a backup file or another device.</string>
     <!-- Translators: ChoiceCard title on the setup-choice screen for creating a new profile. -->
@@ -84,10 +84,10 @@
     <string name="setup_restore_backup">Restore backup</string>
     <!-- Translators: Description text beneath the "Restore backup" choice card. -->
     <string name="setup_import_profiles_playlists">Import profiles &amp; playlists from a file</string>
-    <!-- Translators: ChoiceCard title on the setup-choice screen for copying everything from another OwnTV device on the same Wi-Fi. -->
+    <!-- Translators: ChoiceCard title on the setup-choice screen for copying everything from another MeleHub device on the same Wi-Fi. -->
     <string name="setup_sync_device">From another device</string>
-    <!-- Translators: Description text beneath the "From another device" choice card. "OwnTV" is the app name and must not be translated. -->
-    <string name="setup_sync_device_description">Copy everything from your other OwnTV device over Wi-Fi</string>
+    <!-- Translators: Description text beneath the "From another device" choice card. "MeleHub" is the app name and must not be translated. -->
+    <string name="setup_sync_device_description">Copy everything from your other MeleHub device over Wi-Fi</string>
     <!-- Translators: Heading on the "add a playlist" step of the setup wizard. -->
     <string name="setup_add_playlist">Add a playlist</string>
     <!-- Translators: Description on the "add a playlist" step. -->
@@ -209,8 +209,8 @@
     <string name="setup_add_your_source">Add your source</string>
     <!-- Translators: Description on the AddSourceScreen when editing an existing source. -->
     <string name="setup_edit_source_description">Update this source\'s details, or change its auto-refresh setting.</string>
-    <!-- Translators: Description on the AddSourceScreen when adding a new source. "OwnTV", "Xtream", "M3U", "Stalker" are brand/protocol names that must not be translated. -->
-    <string name="setup_byo_source_description">OwnTV is a player \u2014 bring your own Xtream, M3U, or Stalker source.</string>
+    <!-- Translators: Description on the AddSourceScreen when adding a new source. "MeleHub", "Xtream", "M3U", "Stalker" are brand/protocol names that must not be translated. -->
+    <string name="setup_byo_source_description">MeleHub is a player \u2014 bring your own Xtream, M3U, or Stalker source.</string>
     <!-- Translators: KindChip label for the Xtream source type selector. "Xtream" is a brand name that must not be translated. Shown on the TV form and the companion web page. -->
     <string name="setup_xtream">Xtream</string>
     <!-- Translators: KindChip label for the M3U/M3U8 source type selector. "M3U" and "M3U8" are file format names that must not be translated. Shown on the TV form and the companion web page. -->
@@ -337,8 +337,8 @@
 
 
     <!-- Companion web UI is rendered outside Compose but still resolves through Android resources. -->
-    <!-- Translators: Page title in the companion browser tab for the PIN entry page. "OwnTV" is a brand name. -->
-    <string name="companion_pin_page_title">OwnTV \u2014 Enter PIN</string>
+    <!-- Translators: Page title in the companion browser tab for the PIN entry page. "MeleHub" is a brand name. -->
+    <string name="companion_pin_page_title">MeleHub \u2014 Enter PIN</string>
     <!-- Translators: Heading on the companion PIN entry page. -->
     <string name="companion_pin_heading">Enter the PIN</string>
     <!-- Translators: Description on the companion PIN entry page. -->
@@ -351,7 +351,7 @@
     <string name="companion_continue">Continue</string>
     <!-- Translators: Error text on the companion PIN entry page when the entered PIN does not match. -->
     <string name="companion_pin_mismatch">That PIN did not match \u2014 try again.</string>
-    <!-- Translators: Page title in the companion browser tab for the add-source page. "OwnTV" is a brand name. -->
+    <!-- Translators: Page title in the companion browser tab for the add-source page. "MeleHub" is a brand name. -->
     <!-- Translators: Browser tab title for the page the remote device uses to send a TMDB key to the TV. -->
     <string name="companion_tmdb_page_title">Send TMDB key</string>
     <!-- Translators: Heading on that page. -->
@@ -377,7 +377,7 @@
     <string name="companion_open_subtitles_description">Sign in to OpenSubtitles for your TV. Add your own API details below only if you have them.</string>
     <string name="companion_service_config_sent">The connection details are now waiting on your TV. Review and save them there.</string>
     <string name="companion_service_config_again">Send different connection details</string>
-    <string name="companion_add_page_title">OwnTV \u2014 Add source</string>
+    <string name="companion_add_page_title">MeleHub \u2014 Add source</string>
     <!-- Translators: Heading on the companion add-source page. -->
     <string name="companion_add_heading">Add a source</string>
     <!-- Translators: Description on the companion add-source page. -->
@@ -390,8 +390,8 @@
     <string name="companion_sync_xtream_hint">What to sync \u2014 Now imports first, Later syncs in the background, Off is never fetched.</string>
     <!-- Translators: Tooltip/hint text on the companion add-source page explaining the Stalker sync scope defaults. -->
     <string name="companion_sync_stalker_hint">What to sync \u2014 Live defaults to Now; Movies/Series default to Later (Stalker VOD is slow).</string>
-    <!-- Translators: Page title in the companion browser tab after a source was sent successfully. "OwnTV" is a brand name. -->
-    <string name="companion_saved_page_title">OwnTV \u2014 Sent</string>
+    <!-- Translators: Page title in the companion browser tab after a source was sent successfully. "MeleHub" is a brand name. -->
+    <string name="companion_saved_page_title">MeleHub \u2014 Sent</string>
     <!-- Translators: Heading on the companion success page after sending a source. The checkmark is a visual indicator. -->
     <string name="companion_saved_heading">Sent to your TV \u2713</string>
     <!-- Translators: Body text on the companion success page when a source was sent. "name" is the source name entered by the user. -->
@@ -406,12 +406,12 @@
     <string name="companion_saved_image_body">Your image is now the TV background.</string>
     <!-- Translators: Link text on the companion success page to send a different image. -->
     <string name="companion_saved_image_link">Send a different image</string>
-    <!-- Translators: Page title in the companion browser tab for the backup restore page. "OwnTV" is a brand name. -->
-    <string name="companion_backup_page_title">OwnTV \u2014 Restore backup</string>
+    <!-- Translators: Page title in the companion browser tab for the backup restore page. "MeleHub" is a brand name. -->
+    <string name="companion_backup_page_title">MeleHub \u2014 Restore backup</string>
     <!-- Translators: Heading on the companion backup restore page. -->
     <string name="companion_backup_heading">Restore a backup</string>
     <!-- Translators: Description on the companion backup restore page. -->
-    <string name="companion_backup_description">Choose an OwnTV backup file (.own, or an older .json) and press Send. It is transferred to the TV \u2014 pick up the remote and choose what to restore there.</string>
+    <string name="companion_backup_description">Choose a MeleHub backup file (.own, or an older .json) and press Send. It is transferred to the TV \u2014 pick up the remote and choose what to restore there.</string>
     <!-- Translators: Label for the backup file input on the companion backup restore page. -->
     <string name="companion_backup_file">Backup file</string>
     <!-- Translators: Error text on the companion backup restore page when no file has been selected. -->
@@ -428,8 +428,8 @@
     <string name="companion_could_not_reach">Could not reach the TV. Stay on the same Wi-Fi and try again.</string>
     <!-- Translators: Error text on the companion page when the selected file cannot be read. -->
     <string name="companion_could_not_read">Could not read that file.</string>
-    <!-- Translators: Page title in the companion browser tab for the background image upload page. "OwnTV" is a brand name. -->
-    <string name="companion_image_page_title">OwnTV \u2014 Background image</string>
+    <!-- Translators: Page title in the companion browser tab for the background image upload page. "MeleHub" is a brand name. -->
+    <string name="companion_image_page_title">MeleHub \u2014 Background image</string>
     <!-- Translators: Heading on the companion background image upload page. -->
     <string name="companion_image_heading">Send a background image</string>
     <!-- Translators: Description on the companion background image upload page. -->
@@ -440,12 +440,12 @@
     <string name="companion_choose_image">Please choose an image first.</string>
     <!-- Translators: Error text on the companion image upload page when the selected image exceeds 25 MB. -->
     <string name="companion_image_too_large">That image is too large (max 25 MB).</string>
-    <!-- Translators: Page title in the companion browser tab for the backup download page. "OwnTV" is a brand name. -->
-    <string name="companion_download_page_title">OwnTV \u2014 Download backup</string>
+    <!-- Translators: Page title in the companion browser tab for the backup download page. "MeleHub" is a brand name. -->
+    <string name="companion_download_page_title">MeleHub \u2014 Download backup</string>
     <!-- Translators: Heading on the companion backup download page. -->
     <string name="companion_download_heading">Download your backup</string>
     <!-- Translators: Description on the companion backup download page. -->
-    <string name="companion_download_description">Your TV has prepared an OwnTV backup file. Tap the button to save it to this device (owntv-backup.own). Keep it somewhere safe \u2014 you can restore from it later.</string>
+    <string name="companion_download_description">Your TV has prepared a MeleHub backup file. Tap the button to save it to this device (owntv-backup.own). Keep it somewhere safe \u2014 you can restore from it later.</string>
     <!-- Translators: Button label on the companion backup download page. -->
     <string name="companion_download_backup">Download backup</string>
     <!-- Translators: Generic HTTP 400 error text on the companion web page. -->
@@ -459,9 +459,9 @@
     <!-- Translators: Error returned to the other device when pairing for local sync could not be completed. -->
     <string name="companion_error_pair_failed">Could not pair with this device.</string>
     <!-- Translators: Title of the page shown if someone opens the local sync address in a web browser. -->
-    <string name="local_sync_browser_title">OwnTV local sync</string>
-    <!-- Translators: Body of the page shown if someone opens the local sync address in a web browser. Local sync talks to the OwnTV app on the other device, not to a browser. -->
-    <string name="local_sync_browser_body">This address is for the OwnTV app on your other device. Open Local sync there and pick this device from the list.</string>
+    <string name="local_sync_browser_title">MeleHub local sync</string>
+    <!-- Translators: Body of the page shown if someone opens the local sync address in a web browser. Local sync talks to the MeleHub app on the other device, not to a browser. -->
+    <string name="local_sync_browser_body">This address is for the MeleHub app on your other device. Open Local sync there and pick this device from the list.</string>
     <!-- Translators: Error text on the companion download page when no backup is available on the TV. -->
     <string name="companion_error_no_backup">No backup is available.</string>
     <!-- Translators: Error text on the companion download page when the backup file is too large to transfer. -->

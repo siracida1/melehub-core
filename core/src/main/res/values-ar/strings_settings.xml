@@ -49,7 +49,7 @@
     <string name="settings_dynamic">ديناميكي</string>
     <string name="settings_http_proxy">وكيل HTTP</string>
     <string name="settings_use_proxy">استخدام الوكيل</string>
-    <string name="settings_proxy_description">إرسال كل حركة بيانات OwnTV والتشغيل عبر وكيل HTTP.</string>
+    <string name="settings_proxy_description">إرسال كل حركة بيانات MeleHub والتشغيل عبر وكيل HTTP.</string>
     <string name="settings_host">المضيف</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">المنفذ</string>
@@ -162,7 +162,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> متبقٍ</item>
     </plurals>
     <string name="settings_metadata_active_source">المصدر النشط</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · بدون إعداد</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · بدون إعداد</string>
     <string name="settings_metadata_connection">الاتصال</string>
     <string name="settings_metadata_remote_advanced">الحصول على بيانات TMDB المتقدمة</string>
     <string name="settings_metadata_remote_advanced_description">استخدم مفتاح TMDB API الخاص بك أو Worker مستضافًا بنفسك بدلًا من الافتراضي المشترك.</string>
@@ -173,8 +173,8 @@
     <string name="settings_metadata_server_label">الخادم</string>
     <string name="settings_metadata_refills_label">يتجدد في</string>
     <string name="settings_metadata_clear_advanced_title">هل تريد التوقف عن استخدام مفتاحك؟</string>
-    <string name="settings_metadata_clear_advanced_message">سيتم حذف مفتاح TMDB API وعنوان خادمك من هذا الجهاز، وسيعود OwnTV إلى الخدمة المشتركة المدمجة بحصتها اليومية.</string>
-    <string name="settings_metadata_fair_share">خدمة البيانات الوصفية المدمجة يشترك فيها جميع مستخدمي OwnTV، لذا يحصل كل جهاز على حصته الخاصة كل يوم. إذا استنفدت حصتك، تتوقف الملصقات والأوصاف مؤقتًا حتى تتجدد — وتظل معلومات قائمة التشغيل الخاصة بك تعمل كالمعتاد. إضافة مفتاح TMDB API الخاص بك أو خادمك تلغي هذا الحد: فهو مجاني، والمفتاح الشخصي لا حد له عمليًا.</string>
+    <string name="settings_metadata_clear_advanced_message">سيتم حذف مفتاح TMDB API وعنوان خادمك من هذا الجهاز، وسيعود MeleHub إلى الخدمة المشتركة المدمجة بحصتها اليومية.</string>
+    <string name="settings_metadata_fair_share">خدمة البيانات الوصفية المدمجة يشترك فيها جميع مستخدمي MeleHub، لذا يحصل كل جهاز على حصته الخاصة كل يوم. إذا استنفدت حصتك، تتوقف الملصقات والأوصاف مؤقتًا حتى تتجدد — وتظل معلومات قائمة التشغيل الخاصة بك تعمل كالمعتاد. إضافة مفتاح TMDB API الخاص بك أو خادمك تلغي هذا الحد: فهو مجاني، والمفتاح الشخصي لا حد له عمليًا.</string>
     <string name="settings_metadata_limit_reached">نفدت حصتك اليومية من البيانات الوصفية — أضف مفتاح TMDB الخاص بك من الإعدادات → البيانات الوصفية لإلغاء هذا الحد.</string>
     <string name="settings_metadata_language">لغة البيانات الوصفية</string>
     <string name="settings_metadata_language_description">لغة الملخصات والأنواع والعناوين من TMDB. الحقول التي لم يترجمها TMDB تبقى بالإنجليزية. يتم تخزين التفاصيل مؤقتًا لكل لغة، لذا فإن التبديل مرة أخرى فوري.</string>
@@ -323,7 +323,7 @@
     <string name="settings_network_group">الشبكة</string>
     <string name="settings_app_group">التطبيق</string>
     <string name="settings_app_startup">بدء تشغيل التطبيق</string>
-    <string name="settings_app_startup_description">ما يفتحه OwnTV عند بدء تشغيله</string>
+    <string name="settings_app_startup_description">ما يفتحه MeleHub عند بدء تشغيله</string>
     <string name="settings_check_updates">التحقق من وجود تحديثات</string>
     <string name="settings_check_updates_description">الحصول على أحدث إصدار من GitHub Releases</string>
     <string name="settings_update_startup">التحقق من التحديثات عند بدء التشغيل</string>
@@ -355,7 +355,7 @@
     <string name="settings_about_version">الإصدار <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">مشغّل IPTV خاص بك لـ Android TV — تطبيق مجاني ومفتوح المصدر مخصص للتشغيل فقط. لا يوفر أي قنوات أو محتوى؛ بل تستخدم فيه مصادرك الخاصة المتاحة لك قانونيًا.</string>
     <string name="settings_about_description_full_mobile">مشغّل IPTV خاص بك لـ Android — تطبيق مجاني ومفتوح المصدر مخصص للتشغيل فقط. لا يوفر أي قنوات أو محتوى؛ بل تستخدم فيه مصادرك الخاصة المتاحة لك قانونيًا.</string>
-    <string name="settings_about_license">© 2026 OwnTV · ترخيص GPLv3</string>
+    <string name="settings_about_license">© 2026 MeleHub · ترخيص GPLv3</string>
     <string name="settings_join_telegram">انضم إلينا على Telegram</string>
     <string name="settings_telegram_qr">رمز QR لمجموعة Telegram</string>
     <string name="settings_telegram_scan">امسح رمز QR للانضمام من هاتفك، أو افتح الرابط أعلاه.</string>
@@ -595,7 +595,7 @@
     <string name="settings_open_subtitles_api_key">مفتاح API لتطبيق OpenSubtitles</string>
     <string name="settings_worker_server_url">عنوان Worker / الخادم</string>
     <string name="settings_shared">مشترك</string>
-    <string name="settings_open_subtitles_access_priority">اترك الحقلين فارغين لاستخدام Worker المشترك من OwnTV. عنوان Worker المخصص له أولوية على مفتاح API المباشر. جلسات الحساب تبقى خاصة بكل ملف شخصي.</string>
+    <string name="settings_open_subtitles_access_priority">اترك الحقلين فارغين لاستخدام Worker المشترك من MeleHub. عنوان Worker المخصص له أولوية على مفتاح API المباشر. جلسات الحساب تبقى خاصة بكل ملف شخصي.</string>
     <string name="settings_remove_custom_access">إزالة الوصول المخصص</string>
     <string name="settings_audio">الصوت</string>
     <string name="settings_preferred_audio_language">لغة الصوت المفضّلة</string>
@@ -686,7 +686,7 @@
     <string name="settings_guide_synced">تمت مزامنة دليل البرامج التلفزيونية</string>
     <string name="settings_guide_sync_failed">فشلت مزامنة دليل البرامج التلفزيونية</string>
     <string name="settings_restore_remote_title">الاستعادة من جهاز آخر</string>
-    <string name="settings_restore_remote_description">على هاتف أو جهاز لوحي أو حاسوب متصل بشبكة Wi-Fi نفسها، امسح رمز QR ضوئيًا (أو افتح عنوان URL)، وأدخل رمز PIN هذا، واختر ملف النسخة الاحتياطية لـ OwnTV، ثم اضغط على «إرسال إلى التلفزيون». بعد ذلك تختار هنا ما تريد استعادته.</string>
+    <string name="settings_restore_remote_description">على هاتف أو جهاز لوحي أو حاسوب متصل بشبكة Wi-Fi نفسها، امسح رمز QR ضوئيًا (أو افتح عنوان URL)، وأدخل رمز PIN هذا، واختر ملف النسخة الاحتياطية لـ MeleHub، ثم اضغط على «إرسال إلى التلفزيون». بعد ذلك تختار هنا ما تريد استعادته.</string>
     <string name="settings_opening_server">جارٍ فتح الخادم…</string>
     <string name="settings_enter_pin_browser">أدخل رمز PIN هذا في المتصفح</string>
     <string name="settings_companion_qr">رمز QR لعنوان URL الخاص بالصفحة المرافقة</string>
@@ -717,7 +717,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">الجهاز</string>
     <string name="settings_catchup_player_ask">السؤال دائمًا</string>
-    <string name="settings_catchup_player_internal">مشغّل OwnTV</string>
+    <string name="settings_catchup_player_internal">مشغّل MeleHub</string>
     <string name="settings_catchup_player_external">مشغّل خارجي</string>
     <string name="settings_soon">قريبًا</string>
     <string name="settings_download_folder_title">اختيار مجلد التنزيل</string>
@@ -857,9 +857,9 @@
     <string name="settings_sources_info">معلومات</string>
     <string name="settings_sources_retest">إعادة الاختبار</string>
     <string name="settings_sources_probe_title">اختبار هذه القائمة؟</string>
-    <string name="settings_sources_probe_warning">لا يذكر كثير من المزوّدين عدد القنوات التي يمكنك مشاهدتها في وقت واحد، لذا يكتشف OwnTV ذلك بفتح بضع قنوات ومعرفة أيها يستمر. سيتوقف كل ما يعمل الآن، وقد يستغرق هذا حتى دقيقتين.</string>
+    <string name="settings_sources_probe_warning">لا يذكر كثير من المزوّدين عدد القنوات التي يمكنك مشاهدتها في وقت واحد، لذا يكتشف MeleHub ذلك بفتح بضع قنوات ومعرفة أيها يستمر. سيتوقف كل ما يعمل الآن، وقد يستغرق هذا حتى دقيقتين.</string>
     <string name="settings_sources_probe_running">جارٍ التحقق من عدد القنوات التي يسمح بها هذا المزوّد… (<xliff:g id="current">%1$d</xliff:g> من <xliff:g id="total">%2$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">تعذّر على OwnTV تحديد عدد القنوات التي يسمح بها هذا المزوّد.</string>
+    <string name="settings_sources_probe_unknown">تعذّر على MeleHub تحديد عدد القنوات التي يسمح بها هذا المزوّد.</string>
     <string name="settings_sources_probe_skip">تخطّي</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">افتراضي</string>
@@ -1162,7 +1162,7 @@
     <string name="settings_move_category_action">نقل</string>
     <string name="settings_dns_description">استخدام خادم DNS مخصص لاستعلامات النطاقات</string>
     <string name="settings_dns_custom">DNS مخصص</string>
-    <string name="settings_dns_toggle_description">حلّ جميع أسماء النطاقات التي يستعلم عنها OwnTV عبر خادم DNS مخصص.</string>
+    <string name="settings_dns_toggle_description">حلّ جميع أسماء النطاقات التي يستعلم عنها MeleHub عبر خادم DNS مخصص.</string>
     <string name="settings_dns_use_custom">استخدام DNS مخصص</string>
     <string name="settings_dns_server_missing">تم تمكين DNS المخصص، ولكن لم تتم تهيئة أي خادم. أدخل عنوان خادم وحدد حفظ، أو أوقف هذا الخيار.</string>
     <string name="settings_dns_server">خادم DNS</string>
@@ -1209,7 +1209,7 @@
     <string name="settings_live_preroll">التخزين المسبق للبث المباشر</string>
     <string name="settings_live_preroll_description">اجمع هذا القدر من الفيديو قبل أن تبدأ القناة المباشرة في التشغيل، ومرة أخرى بعد أي توقف مؤقت. هذه كمية فيديو وليست عدًّا تنازليًا. الإيقاف يضمن أسرع بداية ممكنة.</string>
     <string name="settings_live_tune_timeout">التخلي عن القناة بعد</string>
-    <string name="settings_live_tune_timeout_description">إذا لم تظهر أي صورة على قناة مباشرة خلال هذه المدة، يتوقف OwnTV عن المحاولة ويخبرك بذلك، بدلاً من ترك شاشة سوداء بينما يجرّب كل مشغّل لديه. الخيار «أبدًا» يواصل المحاولة، وقد يستغرق ذلك أكثر من دقيقة على قناة أزالها مزوّدك. لا تُحتسب فترات الانتظار التي يطلبها المزوّد.</string>
+    <string name="settings_live_tune_timeout_description">إذا لم تظهر أي صورة على قناة مباشرة خلال هذه المدة، يتوقف MeleHub عن المحاولة ويخبرك بذلك، بدلاً من ترك شاشة سوداء بينما يجرّب كل مشغّل لديه. الخيار «أبدًا» يواصل المحاولة، وقد يستغرق ذلك أكثر من دقيقة على قناة أزالها مزوّدك. لا تُحتسب فترات الانتظار التي يطلبها المزوّد.</string>
     <string name="settings_live_preroll_per_playlist">التخزين المسبق لكل قائمة تشغيل</string>
     <string name="settings_live_preroll_per_playlist_description">تجاوز الإعداد أعلاه لقائمة تشغيل واحدة مع الحفاظ على سرعة بقية قوائم التشغيل.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1239,7 +1239,7 @@
     <string name="settings_surround_auto_description_mobile">تلقائي — جرّب صوت Dolby/DTS المحيطي، وارجع إلى الستيريو تلقائيًا إذا لم تشغّله السماعة أو سماعات الرأس أو جهاز الاستقبال المتصل. موصى به.</string>
     <string name="settings_surround_stereo_description">ستيريو فقط — فكّ الترميز دائمًا داخل التطبيق وأرسل صوت 2.0 عاديًا. استخدم هذا مع مكبرات صوت التلفزيون أو شريط ستيريو، أو إذا تأخر الصوت خلف الصورة.</string>
     <string name="settings_surround_stereo_description_mobile">ستيريو فقط — فكّ الترميز دائمًا داخل التطبيق وأرسل صوت 2.0 عاديًا. استخدم هذا مع السماعة المدمجة أو سماعات الرأس أو شريط ستيريو، أو إذا تأخر الصوت خلف الصورة.</string>
-    <string name="settings_surround_forced_description">صوت محيطي — أرسل Dolby/DTS إلى مستقبل 5.1/7.1 حقيقي. إذا انقطع الصوت أو تذبذب، يعود OwnTV إلى الستيريو ويخبرك.</string>
+    <string name="settings_surround_forced_description">صوت محيطي — أرسل Dolby/DTS إلى مستقبل 5.1/7.1 حقيقي. إذا انقطع الصوت أو تذبذب، يعود MeleHub إلى الستيريو ويخبرك.</string>
     <string name="settings_panel_width">ضبط عرض اللوحة</string>
     <string name="settings_panel_width_description">غيّر حجم لوحات الفئة والقائمة والمعاينة في تلفزيون مباشر والأفلام والمسلسلات.</string>
     <string name="settings_vod_layout">تخطيط الأفلام والمسلسلات</string>
@@ -1281,9 +1281,9 @@
     <string name="settings_panel_width_preview_panel"><xliff:g id="label">%1$s</xliff:g> لوحة</string>
     <string name="settings_panel_width_total">الحجم الإجمالي</string>
     <string name="settings_panel_width_invalid_total">الحجم الإجمالي هو <xliff:g id="total">%1$d</xliff:g>%%. يجب أن يكون 100%% — يرجى التعديل.</string>
-    <string name="settings_language_help_translate">ساعد في ترجمة OwnTV إلى لغتك</string>
-    <string name="settings_language_contribution_description">امسح رمز QR أو افتح الرابط لاختيار أي لغة متاحة والمساهمة في جميع مكونات ترجمة OwnTV الستة.</string>
-    <string name="settings_language_contribution_qr_description">رمز QR لنظرة عامة على مشروع ترجمة OwnTV</string>
+    <string name="settings_language_help_translate">ساعد في ترجمة MeleHub إلى لغتك</string>
+    <string name="settings_language_contribution_description">امسح رمز QR أو افتح الرابط لاختيار أي لغة متاحة والمساهمة في جميع مكونات ترجمة MeleHub الستة.</string>
+    <string name="settings_language_contribution_qr_description">رمز QR لنظرة عامة على مشروع ترجمة MeleHub</string>
     <string name="settings_language_contribution_qr_failed">تعذّر إنشاء رمز QR. استخدم الرابط المعروض أدناه بدلًا من ذلك.</string>
     <string name="settings_language_contribution_copy">نسخ الرابط</string>
     <string name="settings_language_contribution_copied">تم نسخ الرابط</string>
@@ -1292,8 +1292,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">غير موصى به على هذا التلفزيون: لا يمكن تغيير معدل الإطارات بسلاسة على الإصدارات الأقدم من Android 12.</string>
     <string name="settings_auto_frame_rate_warning_title">غير موصى به على هذا التلفزيون</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">غير موصى به على هذا الجهاز</string>
-    <string name="settings_auto_frame_rate_warning_description">يعمل هذا الجهاز بنظام Android <xliff:g id="android_version">%1$s</xliff:g>. على الإصدارات الأقدم من Android 12، لا يستطيع التلفزيون إخبار OwnTV بمعدلات التحديث التي يمكنه التبديل إليها بسلاسة، لذا قد يؤدي تغيير معدل الإطارات إلى اسوداد الشاشة لثانية أو ثانيتين — وأحيانًا أكثر من مرة أثناء البرنامج.\n\nنوصي بترك معدل الإطارات التلقائي معطّلًا هنا. إذا كان تلفزيونك ينتقل بين معدلات التحديث بسلاسة، فعّله وجرّب: يمكنك تغييره مرة أخرى في أي وقت.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">يعمل هذا الجهاز بنظام Android <xliff:g id="android_version">%1$s</xliff:g>. على الإصدارات الأقدم من Android 12، لا يستطيع الجهاز إخبار OwnTV بمعدلات التحديث التي يمكنه التبديل إليها بسلاسة، لذا قد يؤدي تغيير معدل الإطارات إلى اسوداد الشاشة لثانية أو ثانيتين — وأحيانًا أكثر من مرة أثناء البرنامج.\n\nنوصي بترك معدل الإطارات التلقائي معطّلًا هنا. إذا كانت شاشتك تنتقل بين معدلات التحديث بسلاسة، فعّله وجرّب: يمكنك تغييره مرة أخرى في أي وقت.</string>
+    <string name="settings_auto_frame_rate_warning_description">يعمل هذا الجهاز بنظام Android <xliff:g id="android_version">%1$s</xliff:g>. على الإصدارات الأقدم من Android 12، لا يستطيع التلفزيون إخبار MeleHub بمعدلات التحديث التي يمكنه التبديل إليها بسلاسة، لذا قد يؤدي تغيير معدل الإطارات إلى اسوداد الشاشة لثانية أو ثانيتين — وأحيانًا أكثر من مرة أثناء البرنامج.\n\nنوصي بترك معدل الإطارات التلقائي معطّلًا هنا. إذا كان تلفزيونك ينتقل بين معدلات التحديث بسلاسة، فعّله وجرّب: يمكنك تغييره مرة أخرى في أي وقت.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">يعمل هذا الجهاز بنظام Android <xliff:g id="android_version">%1$s</xliff:g>. على الإصدارات الأقدم من Android 12، لا يستطيع الجهاز إخبار MeleHub بمعدلات التحديث التي يمكنه التبديل إليها بسلاسة، لذا قد يؤدي تغيير معدل الإطارات إلى اسوداد الشاشة لثانية أو ثانيتين — وأحيانًا أكثر من مرة أثناء البرنامج.\n\nنوصي بترك معدل الإطارات التلقائي معطّلًا هنا. إذا كانت شاشتك تنتقل بين معدلات التحديث بسلاسة، فعّله وجرّب: يمكنك تغييره مرة أخرى في أي وقت.</string>
     <string name="settings_auto_frame_rate_keep_off">إبقاؤه معطّلًا</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">تفعيله على أي حال</string>
     <string name="settings_language_request_workflow">هل تريد إضافة لغة غير مدرجة؟ قدّم طلب لغة أولاً. سيقوم أحد المشرفين بتسجيلها وتجهيز ملفات الترجمة الأساسية؛ وبمجرد ظهورها على Hosted Weblate، يمكنك البدء في المساهمة.</string>
@@ -1504,7 +1504,7 @@
     <string name="local_sync_received_items">عناصر مستلمة: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">تم إرسال بياناتك</string>
     <string name="local_sync_failed">فشلت المزامنة</string>
-    <string name="local_sync_error_unreachable">تعذّر الوصول إلى هذا الجهاز. افتح عليه OwnTV ← الإعدادات ← البيانات ← المزامنة المحلية وفعّل وضع المزامنة. يجب أن يكون الجهازان على نفس شبكة الواي فاي.</string>
+    <string name="local_sync_error_unreachable">تعذّر الوصول إلى هذا الجهاز. افتح عليه MeleHub ← الإعدادات ← البيانات ← المزامنة المحلية وفعّل وضع المزامنة. يجب أن يكون الجهازان على نفس شبكة الواي فاي.</string>
     <string name="local_sync_error_unauthorized">رفض الجهاز الآخر الاتصال. قد يكون رمز PIN خاطئًا أو ربما نسي هذا الجهاز.</string>
     <string name="local_sync_error_bad_payload">تعذّرت قراءة ما وصل. إذا استخدمت كلمة مرور، فتأكد من أنها نفسها على الجهازين.</string>
     <string name="local_sync_error_unknown">حدث خطأ ما. حاول مرة أخرى.</string>
@@ -1545,7 +1545,7 @@
     <string name="settings_multiview_keep_two">أبقِ 2</string>
     <string name="settings_multiview_use_anyway">استخدم على أي حال</string>
     <string name="settings_app_icon">أيقونة التطبيق</string>
-    <string name="settings_app_icon_summary">لون أيقونة OwnTV وشعاره</string>
+    <string name="settings_app_icon_summary">لون أيقونة MeleHub وشعاره</string>
     <string name="app_icon_petrol">بترولي</string>
     <string name="app_icon_sunflower">عبّاد الشمس</string>
     <string name="app_icon_cobalt">كوبالت</string>
@@ -1554,7 +1554,7 @@
     <string name="app_icon_eggshell">قشرة البيض</string>
     <string name="app_icon_olive">زيتوني</string>
     <string name="app_icon_olive_cream">زيتوني على كريمي</string>
-    <string name="app_icon_restart_title">إعادة تشغيل OwnTV؟</string>
-    <string name="app_icon_restart_message">اخترت أيقونة وشعارًا جديدين. سيُطبَّقان بعد إعادة تشغيل OwnTV.</string>
+    <string name="app_icon_restart_title">إعادة تشغيل MeleHub؟</string>
+    <string name="app_icon_restart_message">اخترت أيقونة وشعارًا جديدين. سيُطبَّقان بعد إعادة تشغيل MeleHub.</string>
     <string name="app_icon_restart_now">إعادة التشغيل الآن</string>
 </resources>

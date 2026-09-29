@@ -33,16 +33,16 @@
     <string name="setup_display_size_description">Zvol velikost rozhraní a jeho textu. Obojí můžeš později změnit v Nastavení.</string>
     <string name="setup_display_size_preview">Pokud to ze svého místa přečteš bez námahy, je velikost správná.</string>
     <string name="setup_before_you_start">Než začnete</string>
-    <string name="setup_disclaimer">OwnTV je pouze přehrávač médií. Neobsahuje žádné kanály, playlisty ani obsah. Za přidání vlastních legálně dostupných zdrojů Xtream, M3U nebo Stalker odpovídáte vy.</string>
+    <string name="setup_disclaimer">MeleHub je pouze přehrávač médií. Neobsahuje žádné kanály, playlisty ani obsah. Za přidání vlastních legálně dostupných zdrojů Xtream, M3U nebo Stalker odpovídáte vy.</string>
     <string name="setup_i_understand">Rozumím</string>
-    <string name="setup_set_up_owntv">Nastavení OwnTV</string>
+    <string name="setup_set_up_owntv">Nastavení MeleHub</string>
     <string name="setup_setup_choice_description">Začněte od začátku, nebo obnovte profily, playlisty a oblíbené ze souboru zálohy či z jiného zařízení.</string>
     <string name="setup_new_profile">Nový profil</string>
     <string name="setup_create_profile_add_sources">Vytvořit profil a přidat zdroje</string>
     <string name="setup_restore_backup">Obnovení ze zálohy</string>
     <string name="setup_import_profiles_playlists">Import profilů a playlistů ze souboru</string>
     <string name="setup_sync_device">Z jiného zařízení</string>
-    <string name="setup_sync_device_description">Zkopírujte vše z druhého zařízení OwnTV přes Wi-Fi</string>
+    <string name="setup_sync_device_description">Zkopírujte vše z druhého zařízení MeleHub přes Wi-Fi</string>
     <string name="setup_add_playlist">Přidat playlist</string>
     <string name="setup_add_playlist_description">Přidejte zdroj pro tento profil, nebo jej nastavte později.</string>
     <string name="setup_new">Nový</string>
@@ -113,7 +113,7 @@
     <string name="setup_edit_source">Upravit zdroj</string>
     <string name="setup_add_your_source">Přidat vlastní zdroj</string>
     <string name="setup_edit_source_description">Aktualizujte údaje tohoto zdroje nebo změňte nastavení jeho automatické aktualizace.</string>
-    <string name="setup_byo_source_description">OwnTV je přehrávač — přidejte vlastní zdroj Xtream, M3U nebo Stalker.</string>
+    <string name="setup_byo_source_description">MeleHub je přehrávač — přidejte vlastní zdroj Xtream, M3U nebo Stalker.</string>
     <string name="setup_xtream">Xtream</string>
     <string name="setup_m3u">M3U / M3U8</string>
     <string name="setup_stalker_mac">Stalker (MAC)</string>
@@ -173,7 +173,7 @@
     <string name="setup_mag254">MAG254</string>
     <string name="setup_mag270">MAG270</string>
     <string name="setup_mag420">MAG420</string>
-    <string name="companion_pin_page_title">OwnTV — Zadat PIN</string>
+    <string name="companion_pin_page_title">MeleHub — Zadat PIN</string>
     <string name="companion_pin_heading">Zadejte PIN</string>
     <string name="companion_pin_description">Chcete-li pokračovat, zadejte šestimístný PIN zobrazený na televizoru.</string>
     <string name="companion_pin_placeholder">••••••</string>
@@ -195,14 +195,14 @@
     <string name="companion_open_subtitles_description">Přihlaste se k OpenSubtitles pro svou TV. Vlastní údaje API níže vyplňte, jen pokud je máte.</string>
     <string name="companion_service_config_sent">Údaje připojení nyní čekají na vaší TV. Zkontrolujte je a uložte tam.</string>
     <string name="companion_service_config_again">Odeslat jiné údaje připojení</string>
-    <string name="companion_add_page_title">OwnTV — Přidat zdroj</string>
+    <string name="companion_add_page_title">MeleHub — Přidat zdroj</string>
     <string name="companion_add_heading">Přidat zdroj</string>
     <string name="companion_add_description">Vyplňte jeden zdroj a stiskněte Odeslat. Zobrazí se na televizoru — až budete připraveni, vezměte dálkový ovladač a stiskněte tam Spustit import.</string>
     <string name="companion_default_playlist">Výchozí playlist</string>
     <string name="companion_send_to_tv">Odeslat do TV</string>
     <string name="companion_sync_xtream_hint">Co synchronizovat — Nyní importuje přednostně, Později synchronizuje na pozadí a Vypnuto se nikdy nenačítá.</string>
     <string name="companion_sync_stalker_hint">Co synchronizovat — výchozí volbou pro živé vysílání je Nyní; pro filmy a seriály je výchozí volbou Později (VOD přes Stalker je pomalé).</string>
-    <string name="companion_saved_page_title">OwnTV — Odesláno</string>
+    <string name="companion_saved_page_title">MeleHub — Odesláno</string>
     <string name="companion_saved_heading">Odesláno do televizoru ✓</string>
     <string name="companion_saved_source_body"><xliff:g id="name">%1$s</xliff:g> je nyní na obrazovce Přidat zdroj v televizoru. Zkontrolujte tam údaje a pomocí dálkového ovladače stiskněte Spustit import.</string>
     <string name="companion_saved_send_another">Odeslat další zdroj</string>
@@ -210,9 +210,9 @@
     <string name="companion_saved_backup_link">Odeslat jiný soubor</string>
     <string name="companion_saved_image_body">Váš obrázek je nyní obrázkem na pozadí televizoru.</string>
     <string name="companion_saved_image_link">Odeslat jiný obrázek</string>
-    <string name="companion_backup_page_title">OwnTV — Obnovení ze zálohy</string>
+    <string name="companion_backup_page_title">MeleHub — Obnovení ze zálohy</string>
     <string name="companion_backup_heading">Obnovit zálohu</string>
-    <string name="companion_backup_description">Vyberte soubor zálohy OwnTV (.own nebo starší .json) a stiskněte Odeslat. Přenese se do televizoru — vezměte dálkový ovladač a vyberte tam, co chcete obnovit.</string>
+    <string name="companion_backup_description">Vyberte soubor zálohy MeleHub (.own nebo starší .json) a stiskněte Odeslat. Přenese se do televizoru — vezměte dálkový ovladač a vyberte tam, co chcete obnovit.</string>
     <string name="companion_backup_file">Soubor zálohy</string>
     <string name="companion_choose_backup">Nejprve vyberte soubor zálohy.</string>
     <string name="companion_playlist_file">Nebo nahrajte soubor se seznamem</string>
@@ -221,15 +221,15 @@
     <string name="companion_upload_failed">Nahrávání se nezdařilo (HTTP <xliff:g id="status">%1$d</xliff:g>). Zkontrolujte PIN a zkuste to znovu.</string>
     <string name="companion_could_not_reach">K televizoru se nepodařilo připojit. Zůstaňte připojeni ke stejné Wi-Fi a zkuste to znovu.</string>
     <string name="companion_could_not_read">Tento soubor se nepodařilo přečíst.</string>
-    <string name="companion_image_page_title">OwnTV — Obrázek na pozadí</string>
+    <string name="companion_image_page_title">MeleHub — Obrázek na pozadí</string>
     <string name="companion_image_heading">Odeslat obrázek na pozadí</string>
     <string name="companion_image_description">Vyberte fotografii (JPG, PNG nebo WebP) a stiskněte Odeslat. Nastaví se jako obrázek na pozadí za televizním rozhraním.</string>
     <string name="companion_image_file">Soubor obrázku</string>
     <string name="companion_choose_image">Nejprve vyberte obrázek.</string>
     <string name="companion_image_too_large">Tento obrázek je příliš velký (max. 25 MB).</string>
-    <string name="companion_download_page_title">OwnTV — Stáhnout zálohu</string>
+    <string name="companion_download_page_title">MeleHub — Stáhnout zálohu</string>
     <string name="companion_download_heading">Stáhnout zálohu</string>
-    <string name="companion_download_description">Televizor připravil soubor zálohy OwnTV. Klepnutím na tlačítko jej uložte do tohoto zařízení (owntv-backup.own). Uchovávejte jej na bezpečném místě — později z něj můžete provést obnovení.</string>
+    <string name="companion_download_description">Televizor připravil soubor zálohy MeleHub. Klepnutím na tlačítko jej uložte do tohoto zařízení (owntv-backup.own). Uchovávejte jej na bezpečném místě — později z něj můžete provést obnovení.</string>
     <string name="companion_download_backup">Stáhnout zálohu</string>
     <string name="companion_error_bad_request">Chybný požadavek</string>
     <string name="companion_error_body_too_large">Tělo požadavku je příliš velké.</string>
@@ -271,6 +271,6 @@
     <string name="setup_stalker_device_id2_optional">ID2 zařízení (volitelné)</string>
     <string name="setup_stalker_signature_optional">Podpis (volitelné)</string>
     <string name="companion_error_pair_failed">S tímto zařízením se nepodařilo spárovat.</string>
-    <string name="local_sync_browser_title">Místní synchronizace OwnTV</string>
-    <string name="local_sync_browser_body">Tato adresa je určená pro aplikaci OwnTV na druhém zařízení. Otevřete tam Místní synchronizaci a vyberte ze seznamu toto zařízení.</string>
+    <string name="local_sync_browser_title">Místní synchronizace MeleHub</string>
+    <string name="local_sync_browser_body">Tato adresa je určená pro aplikaci MeleHub na druhém zařízení. Otevřete tam Místní synchronizaci a vyberte ze seznamu toto zařízení.</string>
 </resources>

@@ -305,7 +305,7 @@
         <item quantity="other">A szolgáltatód egyszerre <xliff:g id="count">%1$d</xliff:g> adást enged. Ebből <xliff:g id="recording">%2$d</xliff:g> vesz fel.</item>
     </plurals>
     <string name="multiview_refused_reserved">Egy kapcsolat szabadon marad, hogy tovább nézhess. A beállításokban módosíthatod, ha minden kapcsolaton fel akarsz venni.</string>
-    <string name="multiview_unknown_connections">Az OwnTV nem tudta megállapítani, hány adást enged ez a lejátszási lista. Ha egy csempe nem indul, ez az oka.</string>
+    <string name="multiview_unknown_connections">Az MeleHub nem tudta megállapítani, hány adást enged ez a lejátszási lista. Ha egy csempe nem indul, ez az oka.</string>
     <string name="multiview_decoder_exhausted">Ez a tévé nem tud egyszerre még egy csatornát dekódolni.</string>
     <string name="multiview_decoder_exhausted_mobile">Ez az eszköz nem tud egyszerre még egy csatornát dekódolni.</string>
     <string name="multiview_tile_change_channel">Csatorna váltása</string>

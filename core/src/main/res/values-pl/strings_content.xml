@@ -42,7 +42,7 @@
     <string name="content_genre_scifi">Science fiction</string>
     <string name="content_genre_series">Seriale</string>
     <string name="content_genre_sport">Sport</string>
-    <string name="content_exit_owntv">Wyjść z OwnTV?</string>
+    <string name="content_exit_owntv">Wyjść z MeleHub?</string>
     <string name="content_exit_confirmation">Czy na pewno chcesz zamknąć aplikację?</string>
     <string name="content_restore_incomplete_title">Przywracanie nie zostało ukończone</string>
     <string name="content_restore_incomplete_message">Aplikacja została zamknięta podczas przywracania <xliff:g id="description">%1$s</xliff:g>, dlatego części danych może brakować. Niczego nie usunięto — uruchom ponownie to samo przywracanie w obszarze Ustawienia → Kopia zapasowa i przywracanie, aby uzupełnić pozostałe dane.</string>
@@ -236,7 +236,7 @@
     <string name="content_storage_choose_folder">Wybierz inny folder…</string>
     <string name="content_storage_chosen_folder">Wybrany folder</string>
     <string name="content_storage_folder_lost">Ten folder nie jest już dostępny. Wybierz go ponownie lub wskaż inny.</string>
-    <string name="content_storage_folder_fallback">Folder pobierania jest teraz niedostępny, więc pobrane pliki są zapisywane we własnym folderze OwnTV, dopóki nie wróci.</string>
+    <string name="content_storage_folder_fallback">Folder pobierania jest teraz niedostępny, więc pobrane pliki są zapisywane we własnym folderze MeleHub, dopóki nie wróci.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> pobrano</string>
     <string name="content_downloads_failure_message">Pobieranie nie powiodło się — nie udało się połączyć ze źródłem. Naciśnij Ponów.</string>
     <string name="content_downloads_queued">W kolejce…</string>
@@ -354,7 +354,7 @@
     <string name="content_epg_favourite">Dodaj do ulubionych</string>
     <string name="content_epg_unfavourite">Usuń z ulubionych</string>
     <string name="content_epg_player_choice_description">Ustaw stały wybór w obszarze Ustawienia › Oglądanie wstecz.</string>
-    <string name="content_epg_own_player">Odtwarzacz OwnTV</string>
+    <string name="content_epg_own_player">Odtwarzacz MeleHub</string>
     <string name="content_epg_external_player">Odtwarzacz zewnętrzny</string>
     <string name="content_epg_time_offset">Przesunięcie czasu EPG</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>m</string>

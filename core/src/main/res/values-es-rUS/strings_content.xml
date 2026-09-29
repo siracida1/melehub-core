@@ -38,7 +38,7 @@
     <string name="content_genre_scifi">Ciencia ficción</string>
     <string name="content_genre_series">Series</string>
     <string name="content_genre_sport">Deportes</string>
-    <string name="content_exit_owntv">¿Salir de OwnTV?</string>
+    <string name="content_exit_owntv">¿Salir de MeleHub?</string>
     <string name="content_exit_confirmation">¿Seguro que quieres cerrar la aplicación?</string>
     <string name="content_restore_incomplete_title">Una restauración no terminó</string>
     <string name="content_restore_incomplete_message">La aplicación se cerró mientras se restauraba <xliff:g id="description">%1$s</xliff:g>, por lo que podrían faltar algunos elementos. No se eliminó nada; vuelve a ejecutar la misma restauración desde Configuración → Copia de seguridad y restauración para recuperar el resto.</string>
@@ -229,7 +229,7 @@
     <string name="content_storage_choose_folder">Elegir otra carpeta…</string>
     <string name="content_storage_chosen_folder">Carpeta elegida</string>
     <string name="content_storage_folder_lost">Esa carpeta ya no está disponible. Vuelve a elegirla o selecciona otra.</string>
-    <string name="content_storage_folder_fallback">Tu carpeta de descargas no está disponible ahora, así que las descargas se guardan en la carpeta propia de OwnTV hasta que vuelva.</string>
+    <string name="content_storage_folder_fallback">Tu carpeta de descargas no está disponible ahora, así que las descargas se guardan en la carpeta propia de MeleHub hasta que vuelva.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> descargados</string>
     <string name="content_downloads_failure_message">La descarga falló porque no se pudo acceder a la fuente. Presiona Reintentar.</string>
     <string name="content_downloads_queued">En cola…</string>
@@ -340,7 +340,7 @@
     <string name="content_epg_favourite">Agregar a favoritos</string>
     <string name="content_epg_unfavourite">Eliminar de favoritos</string>
     <string name="content_epg_player_choice_description">Establece una opción permanente en Configuración › TV en diferido.</string>
-    <string name="content_epg_own_player">Reproductor de OwnTV</string>
+    <string name="content_epg_own_player">Reproductor de MeleHub</string>
     <string name="content_epg_external_player">Reproductor externo</string>
     <string name="content_epg_time_offset">Desfase horario de EPG</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>min</string>

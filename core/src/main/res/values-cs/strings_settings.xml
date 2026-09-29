@@ -49,7 +49,7 @@
     <string name="settings_dynamic">Dynamické</string>
     <string name="settings_http_proxy">HTTP proxy</string>
     <string name="settings_use_proxy">Používat proxy</string>
-    <string name="settings_proxy_description">Odesílat veškerý provoz OwnTV i přehrávání přes HTTP proxy.</string>
+    <string name="settings_proxy_description">Odesílat veškerý provoz MeleHub i přehrávání přes HTTP proxy.</string>
     <string name="settings_host">Hostitel</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">Port</string>
@@ -160,7 +160,7 @@
         <item quantity="other">zbývá <xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g></item>
     </plurals>
     <string name="settings_metadata_active_source">Aktivní zdroj</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · bez nastavování</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · bez nastavování</string>
     <string name="settings_metadata_connection">Připojení</string>
     <string name="settings_metadata_remote_advanced">Získat pokročilé údaje TMDB</string>
     <string name="settings_metadata_remote_advanced_description">Použijte vlastní klíč TMDB API nebo vlastní Worker místo společného výchozího.</string>
@@ -171,8 +171,8 @@
     <string name="settings_metadata_server_label">Server</string>
     <string name="settings_metadata_refills_label">Obnoví se v</string>
     <string name="settings_metadata_clear_advanced_title">Přestat používat vlastní klíč?</string>
-    <string name="settings_metadata_clear_advanced_message">Váš klíč API TMDB a adresa vlastního serveru budou z tohoto zařízení smazány a OwnTV se vrátí k vestavěné sdílené službě s jejím denním podílem.</string>
-    <string name="settings_metadata_fair_share">Vestavěnou službu metadat sdílejí všichni uživatelé OwnTV, takže každé zařízení dostává každý den vlastní podíl. Pokud svůj podíl vyčerpáte, plakáty a popisy se pozastaví, dokud se podíl neobnoví — informace z vaší vlastní playlistu fungují dál normálně. Přidání vlastního klíče API TMDB nebo serveru toto omezení odstraní: je zdarma a osobní klíč prakticky žádný limit nemá.</string>
+    <string name="settings_metadata_clear_advanced_message">Váš klíč API TMDB a adresa vlastního serveru budou z tohoto zařízení smazány a MeleHub se vrátí k vestavěné sdílené službě s jejím denním podílem.</string>
+    <string name="settings_metadata_fair_share">Vestavěnou službu metadat sdílejí všichni uživatelé MeleHub, takže každé zařízení dostává každý den vlastní podíl. Pokud svůj podíl vyčerpáte, plakáty a popisy se pozastaví, dokud se podíl neobnoví — informace z vaší vlastní playlistu fungují dál normálně. Přidání vlastního klíče API TMDB nebo serveru toto omezení odstraní: je zdarma a osobní klíč prakticky žádný limit nemá.</string>
     <string name="settings_metadata_limit_reached">Denní podíl metadat je vyčerpán — přidejte v Nastavení → Metadata vlastní klíč TMDB a toto omezení zmizí.</string>
     <string name="settings_metadata_language">Jazyk metadat</string>
     <string name="settings_metadata_language_description">Jazyk popisů, žánrů a názvů z TMDB. Pole, která TMDB nepřeložilo, zůstanou anglicky. Podrobnosti se ukládají do mezipaměti pro každý jazyk, takže přepnutí zpět je okamžité.</string>
@@ -319,7 +319,7 @@
     <string name="settings_network_group">Síť</string>
     <string name="settings_app_group">Aplikace</string>
     <string name="settings_app_startup">Spuštění aplikace</string>
-    <string name="settings_app_startup_description">Co OwnTV otevře při spuštění</string>
+    <string name="settings_app_startup_description">Co MeleHub otevře při spuštění</string>
     <string name="settings_check_updates">Zkontrolovat aktualizace</string>
     <string name="settings_check_updates_description">Získat nejnovější verzi z GitHub Releases</string>
     <string name="settings_update_startup">Kontrolovat aktualizace při spuštění</string>
@@ -351,7 +351,7 @@
     <string name="settings_about_version">Verze <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">Váš vlastní přehrávač IPTV pro Android TV — bezplatná aplikace s otevřeným zdrojovým kódem sloužící pouze jako přehrávač. Neposkytuje žádné kanály ani obsah; vlastní legálně dostupné zdroje si přidáte sami.</string>
     <string name="settings_about_description_full_mobile">Váš vlastní přehrávač IPTV pro Android — bezplatná aplikace s otevřeným zdrojovým kódem sloužící pouze jako přehrávač. Neposkytuje žádné kanály ani obsah; vlastní legálně dostupné zdroje si přidáte sami.</string>
-    <string name="settings_about_license">© 2026 OwnTV · Licence GPLv3</string>
+    <string name="settings_about_license">© 2026 MeleHub · Licence GPLv3</string>
     <string name="settings_join_telegram">Přidejte se k nám na Telegramu</string>
     <string name="settings_telegram_qr">QR kód skupiny na Telegramu</string>
     <string name="settings_telegram_scan">Naskenujte QR kód a připojte se z telefonu nebo otevřete odkaz výše.</string>
@@ -591,7 +591,7 @@
     <string name="settings_open_subtitles_api_key">Aplikační klíč API pro OpenSubtitles</string>
     <string name="settings_worker_server_url">Adresa Workeru / serveru</string>
     <string name="settings_shared">Společné</string>
-    <string name="settings_open_subtitles_access_priority">Pro společný Worker OwnTV nechte obojí prázdné. Vlastní adresa Workeru má přednost před přímým klíčem API. Přihlášení k účtu zůstává specifické pro profil.</string>
+    <string name="settings_open_subtitles_access_priority">Pro společný Worker MeleHub nechte obojí prázdné. Vlastní adresa Workeru má přednost před přímým klíčem API. Přihlášení k účtu zůstává specifické pro profil.</string>
     <string name="settings_remove_custom_access">Odebrat vlastní přístup</string>
     <string name="settings_audio">Zvuk</string>
     <string name="settings_preferred_audio_language">Preferovaný jazyk zvuku</string>
@@ -680,7 +680,7 @@
     <string name="settings_guide_synced">TV program synchronizován</string>
     <string name="settings_guide_sync_failed">Synchronizace TV programu se nezdařila</string>
     <string name="settings_restore_remote_title">Obnovit z jiného zařízení</string>
-    <string name="settings_restore_remote_description">Na telefonu, tabletu nebo počítači připojeném ke stejné síti Wi-Fi naskenujte QR kód (nebo otevřete adresu URL), zadejte tento PIN, vyberte soubor zálohy OwnTV a klepněte na Odeslat do TV. Potom zde vyberete, co chcete obnovit.</string>
+    <string name="settings_restore_remote_description">Na telefonu, tabletu nebo počítači připojeném ke stejné síti Wi-Fi naskenujte QR kód (nebo otevřete adresu URL), zadejte tento PIN, vyberte soubor zálohy MeleHub a klepněte na Odeslat do TV. Potom zde vyberete, co chcete obnovit.</string>
     <string name="settings_opening_server">Spouštění serveru…</string>
     <string name="settings_enter_pin_browser">Zadejte tento PIN v prohlížeči</string>
     <string name="settings_companion_qr">QR kód adresy URL doprovodné stránky</string>
@@ -709,7 +709,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">Zařízení</string>
     <string name="settings_catchup_player_ask">Vždy se zeptat</string>
-    <string name="settings_catchup_player_internal">Přehrávač OwnTV</string>
+    <string name="settings_catchup_player_internal">Přehrávač MeleHub</string>
     <string name="settings_catchup_player_external">Externí přehrávač</string>
     <string name="settings_soon">JIŽ BRZY</string>
     <string name="settings_download_folder_title">Vyberte složku pro stahování</string>
@@ -845,9 +845,9 @@
     <string name="settings_sources_info">Informace</string>
     <string name="settings_sources_retest">Otestovat znovu</string>
     <string name="settings_sources_probe_title">Otestovat tento seznam?</string>
-    <string name="settings_sources_probe_warning">Mnozí poskytovatelé nikdy neuvedou, kolik kanálů můžete sledovat najednou, a tak to OwnTV zjistí tím, že jich několik otevře a sleduje, které vydrží. Vše, co právě běží, se zastaví a může to trvat až dvě minuty.</string>
+    <string name="settings_sources_probe_warning">Mnozí poskytovatelé nikdy neuvedou, kolik kanálů můžete sledovat najednou, a tak to MeleHub zjistí tím, že jich několik otevře a sleduje, které vydrží. Vše, co právě běží, se zastaví a může to trvat až dvě minuty.</string>
     <string name="settings_sources_probe_running">Zjišťuje se, kolik kanálů tento poskytovatel dovolí… (<xliff:g id="current">%1$d</xliff:g> z <xliff:g id="total">%2$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">OwnTV nedokázal zjistit, kolik kanálů tento poskytovatel dovolí.</string>
+    <string name="settings_sources_probe_unknown">MeleHub nedokázal zjistit, kolik kanálů tento poskytovatel dovolí.</string>
     <string name="settings_sources_probe_skip">Přeskočit</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">VÝCHOZÍ</string>
@@ -1124,7 +1124,7 @@
     <string name="settings_move_category_action">Přesunout</string>
     <string name="settings_dns_description">Používat k vyhledávání domén vlastní server DNS</string>
     <string name="settings_dns_custom">Vlastní DNS</string>
-    <string name="settings_dns_toggle_description">Všechna vyhledávání domén OwnTV provádět prostřednictvím vlastního serveru DNS.</string>
+    <string name="settings_dns_toggle_description">Všechna vyhledávání domén MeleHub provádět prostřednictvím vlastního serveru DNS.</string>
     <string name="settings_dns_use_custom">Používat vlastní DNS</string>
     <string name="settings_dns_server_missing">Používání vlastního DNS je zapnuté, ale není nastaven žádný server. Zadejte adresu serveru a vyberte Uložit nebo tuto funkci vypněte.</string>
     <string name="settings_dns_server">Server DNS</string>
@@ -1171,7 +1171,7 @@
     <string name="settings_live_preroll">Přednačítání živých streamů</string>
     <string name="settings_live_preroll_description">Kolik videa se má načíst, než začne hrát živý kanál, a znovu po zadrhnutí. Jde o množství videa, ne o odpočet. Vypnuto zajistí nejrychlejší možné spuštění.</string>
     <string name="settings_live_tune_timeout">Vzdát kanál po</string>
-    <string name="settings_live_tune_timeout_description">Pokud se u živého kanálu do této doby neobjeví obraz, OwnTV to vzdá a dá vám vědět, místo aby nechal černou obrazovku, zatímco zkouší všechny své přehrávače. Volba „Nikdy“ zkouší dál, což u kanálu, který váš poskytovatel zrušil, může trvat výrazně přes minutu. Čekání, o které si řekne poskytovatel, se nezapočítává.</string>
+    <string name="settings_live_tune_timeout_description">Pokud se u živého kanálu do této doby neobjeví obraz, MeleHub to vzdá a dá vám vědět, místo aby nechal černou obrazovku, zatímco zkouší všechny své přehrávače. Volba „Nikdy“ zkouší dál, což u kanálu, který váš poskytovatel zrušil, může trvat výrazně přes minutu. Čekání, o které si řekne poskytovatel, se nezapočítává.</string>
     <string name="settings_live_preroll_per_playlist">Přednačítání podle playlistu</string>
     <string name="settings_live_preroll_per_playlist_description">Přepíše výše uvedené nastavení pro jeden playlist, zatímco ostatní playlisty zůstanou rychlé.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1199,7 +1199,7 @@
     <string name="settings_surround_auto_description_mobile">Auto – zkusí prostorový zvuk Dolby/DTS a automaticky přepne zpět na stereo, pokud ho reproduktor, sluchátka nebo připojený přijímač nepřehrají. Doporučeno.</string>
     <string name="settings_surround_stereo_description">Pouze stereo – vždy dekódujte v aplikaci a posílejte čistý zvuk 2.0. Použijte to u reproduktorů televize nebo stereo soundbaru, případně pokud zvuk zaostává za obrazem.</string>
     <string name="settings_surround_stereo_description_mobile">Pouze stereo – vždy dekódujte v aplikaci a posílejte čistý zvuk 2.0. Použijte to u vestavěného reproduktoru, sluchátek nebo stereo soundbaru, případně pokud zvuk zaostává za obrazem.</string>
-    <string name="settings_surround_forced_description">Prostorový zvuk – posílejte Dolby/DTS do skutečného přijímače 5.1/7.1. Pokud ztichne nebo se zadrhává, OwnTV se i tak vrátí ke stereu a dá vám vědět.</string>
+    <string name="settings_surround_forced_description">Prostorový zvuk – posílejte Dolby/DTS do skutečného přijímače 5.1/7.1. Pokud ztichne nebo se zadrhává, MeleHub se i tak vrátí ke stereu a dá vám vědět.</string>
     <string name="settings_panel_width">Úprava šířky panelů</string>
     <string name="settings_panel_width_description">Změňte velikost panelů kategorií, seznamu a náhledu v Živé TV, filmech a seriálech.</string>
     <string name="settings_vod_layout">Rozvržení Filmů a Seriálů</string>
@@ -1241,9 +1241,9 @@
     <string name="settings_panel_width_preview_panel">Panel <xliff:g id="label">%1$s</xliff:g></string>
     <string name="settings_panel_width_total">Celková velikost</string>
     <string name="settings_panel_width_invalid_total">Celková velikost je <xliff:g id="total">%1$d</xliff:g>%%. Musí být 100 %% – upravte ji prosím.</string>
-    <string name="settings_language_help_translate">Pomozte přeložit OwnTV do vašeho jazyka</string>
-    <string name="settings_language_contribution_description">Naskenujte QR kód nebo otevřete odkaz, zvolte libovolný dostupný jazyk a přispějte ve všech šesti překladových komponentách OwnTV.</string>
-    <string name="settings_language_contribution_qr_description">QR kód pro přehled překladatelského projektu OwnTV</string>
+    <string name="settings_language_help_translate">Pomozte přeložit MeleHub do vašeho jazyka</string>
+    <string name="settings_language_contribution_description">Naskenujte QR kód nebo otevřete odkaz, zvolte libovolný dostupný jazyk a přispějte ve všech šesti překladových komponentách MeleHub.</string>
+    <string name="settings_language_contribution_qr_description">QR kód pro přehled překladatelského projektu MeleHub</string>
     <string name="settings_language_contribution_qr_failed">QR kód se nepodařilo vygenerovat. Místo toho použijte odkaz níže.</string>
     <string name="settings_language_contribution_copy">Kopírovat odkaz</string>
     <string name="settings_language_contribution_copied">Odkaz zkopírován</string>
@@ -1252,8 +1252,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">Na tomto televizoru se nedoporučuje: na Androidu nižším než 12 nelze frekvenci měnit plynule.</string>
     <string name="settings_auto_frame_rate_warning_title">Na tomto televizoru se nedoporučuje</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">Na tomto zařízení se nedoporučuje</string>
-    <string name="settings_auto_frame_rate_warning_description">Toto zařízení běží na Androidu <xliff:g id="android_version">%1$s</xliff:g>. Na Androidu nižším než 12 televizor nedokáže OwnTV sdělit, které obnovovací frekvence umí plynule přepínat, takže změna frekvence může na vteřinu nebo dvě zhasnout obrazovku – někdy i vícekrát během jednoho pořadu.\n\nDoporučujeme zde nechat automatickou snímkovou frekvenci vypnutou. Pokud váš televizor přepíná bez problémů, zapněte ji a uvidíte: můžete to kdykoli změnit zpět.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">Toto zařízení běží na Androidu <xliff:g id="android_version">%1$s</xliff:g>. Na Androidu nižším než 12 zařízení nedokáže OwnTV sdělit, které obnovovací frekvence umí plynule přepínat, takže změna frekvence může na vteřinu nebo dvě zhasnout obrazovku – někdy i vícekrát během jednoho pořadu.\n\nDoporučujeme zde nechat automatickou snímkovou frekvenci vypnutou. Pokud vaše obrazovka přepíná bez problémů, zapněte ji a uvidíte: můžete to kdykoli změnit zpět.</string>
+    <string name="settings_auto_frame_rate_warning_description">Toto zařízení běží na Androidu <xliff:g id="android_version">%1$s</xliff:g>. Na Androidu nižším než 12 televizor nedokáže MeleHub sdělit, které obnovovací frekvence umí plynule přepínat, takže změna frekvence může na vteřinu nebo dvě zhasnout obrazovku – někdy i vícekrát během jednoho pořadu.\n\nDoporučujeme zde nechat automatickou snímkovou frekvenci vypnutou. Pokud váš televizor přepíná bez problémů, zapněte ji a uvidíte: můžete to kdykoli změnit zpět.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">Toto zařízení běží na Androidu <xliff:g id="android_version">%1$s</xliff:g>. Na Androidu nižším než 12 zařízení nedokáže MeleHub sdělit, které obnovovací frekvence umí plynule přepínat, takže změna frekvence může na vteřinu nebo dvě zhasnout obrazovku – někdy i vícekrát během jednoho pořadu.\n\nDoporučujeme zde nechat automatickou snímkovou frekvenci vypnutou. Pokud vaše obrazovka přepíná bez problémů, zapněte ji a uvidíte: můžete to kdykoli změnit zpět.</string>
     <string name="settings_auto_frame_rate_keep_off">Ponechat vypnuté</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">Přesto zapnout</string>
     <string name="settings_language_request_workflow">Chcete přidat jazyk, který není v seznamu? Nejprve otevřete žádost o jazyk. Správce jej zaregistruje a připraví základní soubory překladů; jakmile se objeví na Hosted Weblate, můžete začít přispívat.</string>
@@ -1458,7 +1458,7 @@
     <string name="local_sync_received_items">Přijaté položky: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">Vaše data byla odeslána</string>
     <string name="local_sync_failed">Synchronizace selhala</string>
-    <string name="local_sync_error_unreachable">Toto zařízení se nepodařilo kontaktovat. Otevřete na něm OwnTV → Nastavení → Data → Místní synchronizace a zapněte Režim synchronizace. Obě zařízení musí být na stejné Wi-Fi.</string>
+    <string name="local_sync_error_unreachable">Toto zařízení se nepodařilo kontaktovat. Otevřete na něm MeleHub → Nastavení → Data → Místní synchronizace a zapněte Režim synchronizace. Obě zařízení musí být na stejné Wi-Fi.</string>
     <string name="local_sync_error_unauthorized">Druhé zařízení odmítlo spojení. PIN může být špatný, nebo si toto zařízení už nepamatuje.</string>
     <string name="local_sync_error_bad_payload">Přijatá data se nepodařilo přečíst. Pokud jste použili heslo, ověřte, že je na obou zařízeních stejné.</string>
     <string name="local_sync_error_unknown">Něco se pokazilo. Zkuste to znovu.</string>
@@ -1499,7 +1499,7 @@
     <string name="settings_multiview_keep_two">Nechat 2</string>
     <string name="settings_multiview_use_anyway">Přesto použít</string>
     <string name="settings_app_icon">Ikona aplikace</string>
-    <string name="settings_app_icon_summary">Barva ikony a loga OwnTV</string>
+    <string name="settings_app_icon_summary">Barva ikony a loga MeleHub</string>
     <string name="app_icon_petrol">Petrolejová</string>
     <string name="app_icon_sunflower">Slunečnice</string>
     <string name="app_icon_cobalt">Kobalt</string>
@@ -1508,7 +1508,7 @@
     <string name="app_icon_eggshell">Skořápka</string>
     <string name="app_icon_olive">Olivová</string>
     <string name="app_icon_olive_cream">Olivová na krémové</string>
-    <string name="app_icon_restart_title">Restartovat OwnTV?</string>
-    <string name="app_icon_restart_message">Vybrali jste novou ikonu a logo. Projeví se po restartu OwnTV.</string>
+    <string name="app_icon_restart_title">Restartovat MeleHub?</string>
+    <string name="app_icon_restart_message">Vybrali jste novou ikonu a logo. Projeví se po restartu MeleHub.</string>
     <string name="app_icon_restart_now">Restartovat nyní</string>
 </resources>

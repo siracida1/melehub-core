@@ -124,8 +124,8 @@
     <string name="update_not_enough_space">更新用の空き容量が足りません。約 <xliff:g id="size">%1$s</xliff:g> を空けてからもう一度お試しください。</string>
     <string name="update_damaged_download">更新のダウンロードが完了しませんでした。接続を確認してもう一度お試しください。</string>
     <string name="update_install_rejected">システムインストーラーが更新を拒否しました: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g>のインストール準備ができました（現在のバージョン：v<xliff:g id="current">%2$s</xliff:g>）。</string>
-    <string name="recovery_title">OwnTVはデータベースを開けませんでした</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g>のインストール準備ができました（現在のバージョン：v<xliff:g id="current">%2$s</xliff:g>）。</string>
+    <string name="recovery_title">MeleHubはデータベースを開けませんでした</string>
     <string name="recovery_data_safe_full">プロフィール、プレイリスト、お気に入り、視聴履歴は削除されていません — これはデータベースのアップグレード失敗によるもので、データはこのデバイスに残っています。\n\n修正できるよう、この問題を報告し、以下のメッセージを添えてください。</string>
     <string name="recovery_retry">再試行</string>
     <string name="recovery_backup_hint">バックアップファイルがある場合は、アプリをリセットしてから復元できます。リセットすると、このデバイスに保存されているすべてのデータが削除されます。</string>
@@ -211,12 +211,12 @@
     <string name="settings_recording_pre_roll_description">表示された開始時刻より、この時間だけ早く開始します。番組表が少し早くても冒頭を逃しません。</string>
     <string name="settings_recording_post_roll">終了後も続ける</string>
     <string name="settings_recording_post_roll_description">表示された終了時刻より、この時間だけ長く続けます。延長した番組が途中で切れません。</string>
-    <string name="settings_recording_timers_inexact">この端末では OwnTV が正確なアラームを設定できないため、録画が数分遅れて始まることがあります。その分だけ早めに開始します。</string>
+    <string name="settings_recording_timers_inexact">この端末では MeleHub が正確なアラームを設定できないため、録画が数分遅れて始まることがあります。その分だけ早めに開始します。</string>
     <plurals name="recording_minutes">
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> 分</item>
     </plurals>
     <string name="recording_failed_encrypted">このチャンネルは暗号化されており録画できません</string>
-    <string name="recording_failed_drm">このチャンネルはDRMで保護されているため、視聴はできますが録画はできません。この保護はプロバイダーによるもので、OwnTVによるものではありません。</string>
+    <string name="recording_failed_drm">このチャンネルはDRMで保護されているため、視聴はできますが録画はできません。この保護はプロバイダーによるもので、MeleHubによるものではありません。</string>
     <string name="recording_failed_metered">モバイルデータでは録画しませんでした</string>
     <string name="settings_recording_mobile_data">モバイルデータで録画する</string>
     <string name="settings_recording_mobile_data_description">オフのとき、Wi-Fi 以外で予約時刻を迎えた録画は待たずにスキップされます。生放送はやり直せません。</string>

@@ -33,16 +33,16 @@
     <string name="setup_display_size_description">Choisissez la taille de l\'interface et de son texte. Vous pourrez modifier les deux plus tard dans les Paramètres.</string>
     <string name="setup_display_size_preview">Si vous lisez ceci sans effort depuis votre place, la taille est bonne.</string>
     <string name="setup_before_you_start">Avant de commencer</string>
-    <string name="setup_disclaimer">OwnTV n’est qu’un lecteur multimédia. Il ne comprend aucune chaîne, liste de lecture ni aucun contenu. Vous devez ajouter vos propres sources Xtream, M3U ou Stalker auxquelles vous accédez légalement.</string>
+    <string name="setup_disclaimer">MeleHub n’est qu’un lecteur multimédia. Il ne comprend aucune chaîne, liste de lecture ni aucun contenu. Vous devez ajouter vos propres sources Xtream, M3U ou Stalker auxquelles vous accédez légalement.</string>
     <string name="setup_i_understand">J’ai compris</string>
-    <string name="setup_set_up_owntv">Configurer OwnTV</string>
+    <string name="setup_set_up_owntv">Configurer MeleHub</string>
     <string name="setup_setup_choice_description">Repartez de zéro ou récupérez vos profils, listes de lecture et favoris à partir d’un fichier de sauvegarde ou d’un autre appareil.</string>
     <string name="setup_new_profile">Nouveau profil</string>
     <string name="setup_create_profile_add_sources">Créer un profil et ajouter des sources</string>
     <string name="setup_restore_backup">Restaurer une sauvegarde</string>
     <string name="setup_import_profiles_playlists">Importer des profils et des listes de lecture depuis un fichier</string>
     <string name="setup_sync_device">Depuis un autre appareil</string>
-    <string name="setup_sync_device_description">Copiez tout depuis votre autre appareil OwnTV via le Wi-Fi</string>
+    <string name="setup_sync_device_description">Copiez tout depuis votre autre appareil MeleHub via le Wi-Fi</string>
     <string name="setup_add_playlist">Ajouter une liste de lecture</string>
     <string name="setup_add_playlist_description">Ajoutez une source à ce profil, ou configurez-en une plus tard.</string>
     <string name="setup_new">Nouveau</string>
@@ -110,7 +110,7 @@
     <string name="setup_edit_source">Modifier la source</string>
     <string name="setup_add_your_source">Ajouter votre source</string>
     <string name="setup_edit_source_description">Mettez à jour les informations de cette source, ou modifiez son réglage d’actualisation automatique.</string>
-    <string name="setup_byo_source_description">OwnTV est un lecteur — ajoutez votre propre source Xtream, M3U ou Stalker.</string>
+    <string name="setup_byo_source_description">MeleHub est un lecteur — ajoutez votre propre source Xtream, M3U ou Stalker.</string>
     <string name="setup_xtream">Xtream</string>
     <string name="setup_m3u">M3U / M3U8</string>
     <string name="setup_stalker_mac">Stalker (MAC)</string>
@@ -170,7 +170,7 @@
     <string name="setup_mag254">MAG254</string>
     <string name="setup_mag270">MAG270</string>
     <string name="setup_mag420">MAG420</string>
-    <string name="companion_pin_page_title">OwnTV — Saisir le PIN</string>
+    <string name="companion_pin_page_title">MeleHub — Saisir le PIN</string>
     <string name="companion_pin_heading">Saisissez le PIN</string>
     <string name="companion_pin_description">Saisissez le PIN à 6 chiffres affiché sur votre TV pour continuer.</string>
     <string name="companion_pin_placeholder">••••••</string>
@@ -192,14 +192,14 @@
     <string name="companion_open_subtitles_description">Connectez-vous à OpenSubtitles pour votre téléviseur. N’ajoutez vos propres informations d’API ci-dessous que si vous en avez.</string>
     <string name="companion_service_config_sent">Les informations de connexion attendent maintenant sur votre téléviseur. Vérifiez-les et enregistrez-les là-bas.</string>
     <string name="companion_service_config_again">Envoyer d’autres informations de connexion</string>
-    <string name="companion_add_page_title">OwnTV — Ajouter une source</string>
+    <string name="companion_add_page_title">MeleHub — Ajouter une source</string>
     <string name="companion_add_heading">Ajouter une source</string>
     <string name="companion_add_description">Renseignez une source et appuyez sur Envoyer. Elle apparaît sur la TV — prenez la télécommande et appuyez sur Démarrer l’importation lorsque vous êtes prêt.</string>
     <string name="companion_default_playlist">Liste de lecture par défaut</string>
     <string name="companion_send_to_tv">Envoyer vers la TV</string>
     <string name="companion_sync_xtream_hint">Éléments à synchroniser — Maintenant lance d’abord l’importation, Plus tard synchronise en arrière-plan et Désactivé n’est jamais récupéré.</string>
     <string name="companion_sync_stalker_hint">Éléments à synchroniser — la TV en direct est réglée par défaut sur Maintenant ; les films et séries sont réglés par défaut sur Plus tard, car la VOD Stalker est lente.</string>
-    <string name="companion_saved_page_title">OwnTV — Envoyé</string>
+    <string name="companion_saved_page_title">MeleHub — Envoyé</string>
     <string name="companion_saved_heading">Envoyé vers votre TV ✓</string>
     <string name="companion_saved_source_body"><xliff:g id="name">%1$s</xliff:g> se trouve maintenant sur l’écran Ajouter une source de la TV. Vérifiez les informations qui y figurent et appuyez sur Démarrer l’importation avec la télécommande.</string>
     <string name="companion_saved_send_another">Envoyer une autre source</string>
@@ -207,9 +207,9 @@
     <string name="companion_saved_backup_link">Envoyer un autre fichier</string>
     <string name="companion_saved_image_body">Votre image est maintenant l’image d’arrière-plan de la TV.</string>
     <string name="companion_saved_image_link">Envoyer une autre image</string>
-    <string name="companion_backup_page_title">OwnTV — Restaurer une sauvegarde</string>
+    <string name="companion_backup_page_title">MeleHub — Restaurer une sauvegarde</string>
     <string name="companion_backup_heading">Restaurer une sauvegarde</string>
-    <string name="companion_backup_description">Choisissez un fichier de sauvegarde OwnTV (.own ou un ancien fichier .json) et appuyez sur Envoyer. Il est transféré vers la TV — prenez la télécommande et choisissez-y les éléments à restaurer.</string>
+    <string name="companion_backup_description">Choisissez un fichier de sauvegarde MeleHub (.own ou un ancien fichier .json) et appuyez sur Envoyer. Il est transféré vers la TV — prenez la télécommande et choisissez-y les éléments à restaurer.</string>
     <string name="companion_backup_file">Fichier de sauvegarde</string>
     <string name="companion_choose_backup">Choisissez d’abord un fichier de sauvegarde.</string>
     <string name="companion_playlist_file">Ou importez un fichier de playlist</string>
@@ -218,15 +218,15 @@
     <string name="companion_upload_failed">Échec du téléversement (HTTP <xliff:g id="status">%1$d</xliff:g>). Vérifiez le PIN et réessayez.</string>
     <string name="companion_could_not_reach">Impossible de joindre la TV. Restez connecté au même Wi-Fi et réessayez.</string>
     <string name="companion_could_not_read">Impossible de lire ce fichier.</string>
-    <string name="companion_image_page_title">OwnTV — Image d’arrière-plan</string>
+    <string name="companion_image_page_title">MeleHub — Image d’arrière-plan</string>
     <string name="companion_image_heading">Envoyer une image d’arrière-plan</string>
     <string name="companion_image_description">Choisissez une photo au format JPG, PNG ou WebP et appuyez sur Envoyer. Elle devient l’image d’arrière-plan derrière l’interface de la TV.</string>
     <string name="companion_image_file">Fichier image</string>
     <string name="companion_choose_image">Choisissez d’abord une image.</string>
     <string name="companion_image_too_large">Cette image est trop volumineuse (25 Mo maximum).</string>
-    <string name="companion_download_page_title">OwnTV — Télécharger la sauvegarde</string>
+    <string name="companion_download_page_title">MeleHub — Télécharger la sauvegarde</string>
     <string name="companion_download_heading">Télécharger votre sauvegarde</string>
-    <string name="companion_download_description">Votre téléviseur a préparé un fichier de sauvegarde OwnTV. Appuyez sur le bouton pour l’enregistrer sur cet appareil (owntv-backup.own). Conservez-le en lieu sûr — vous pourrez effectuer une restauration à partir de ce fichier ultérieurement.</string>
+    <string name="companion_download_description">Votre téléviseur a préparé un fichier de sauvegarde MeleHub. Appuyez sur le bouton pour l’enregistrer sur cet appareil (owntv-backup.own). Conservez-le en lieu sûr — vous pourrez effectuer une restauration à partir de ce fichier ultérieurement.</string>
     <string name="companion_download_backup">Télécharger la sauvegarde</string>
     <string name="companion_error_bad_request">Requête incorrecte</string>
     <string name="companion_error_body_too_large">Le corps de la requête est trop volumineux.</string>
@@ -268,6 +268,6 @@
     <string name="setup_stalker_device_id2_optional">Identifiant de l’appareil 2 (facultatif)</string>
     <string name="setup_stalker_signature_optional">Signature (facultatif)</string>
     <string name="companion_error_pair_failed">Impossible d\'appairer cet appareil.</string>
-    <string name="local_sync_browser_title">Synchronisation locale OwnTV</string>
-    <string name="local_sync_browser_body">Cette adresse est destinée à l\'application OwnTV de votre autre appareil. Ouvrez-y Synchronisation locale et choisissez cet appareil dans la liste.</string>
+    <string name="local_sync_browser_title">Synchronisation locale MeleHub</string>
+    <string name="local_sync_browser_body">Cette adresse est destinée à l\'application MeleHub de votre autre appareil. Ouvrez-y Synchronisation locale et choisissez cet appareil dans la liste.</string>
 </resources>

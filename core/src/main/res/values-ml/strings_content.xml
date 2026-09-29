@@ -34,7 +34,7 @@
     <string name="content_genre_scifi">സയൻസ് ഫിക്ഷൻ</string>
     <string name="content_genre_series">സീരീസ്</string>
     <string name="content_genre_sport">കായികം</string>
-    <string name="content_exit_owntv">OwnTV-യിൽ നിന്ന് പുറത്തുകടക്കണോ?</string>
+    <string name="content_exit_owntv">MeleHub-യിൽ നിന്ന് പുറത്തുകടക്കണോ?</string>
     <string name="content_exit_confirmation">ആപ്പ് അടയ്ക്കണമെന്ന് ഉറപ്പാണോ?</string>
     <string name="content_restore_incomplete_title">ഒരു പുനഃസ്ഥാപിക്കൽ പൂർത്തിയായില്ല</string>
     <string name="content_restore_incomplete_message"><xliff:g id="description">%1$s</xliff:g> പുനഃസ്ഥാപിക്കുന്നതിനിടെ ആപ്പ് അടഞ്ഞതിനാൽ, അതിലെ ചിലത് നഷ്ടമായിരിക്കാം. ഒന്നും ഇല്ലാതാക്കിയിട്ടില്ല — ബാക്കിയുള്ളവ പൂരിപ്പിക്കാൻ ക്രമീകരണങ്ങൾ → ബാക്കപ്പ് &amp; പുനഃസ്ഥാപിക്കൽ എന്നതിൽ നിന്ന് അതേ പുനഃസ്ഥാപിക്കൽ വീണ്ടും പ്രവർത്തിപ്പിക്കുക.</string>
@@ -222,7 +222,7 @@
     <string name="content_storage_choose_folder">മറ്റൊരു ഫോൾഡർ തിരഞ്ഞെടുക്കുക…</string>
     <string name="content_storage_chosen_folder">തിരഞ്ഞെടുത്ത ഫോൾഡർ</string>
     <string name="content_storage_folder_lost">ആ ഫോൾഡർ ഇനി ലഭ്യമല്ല. അത് വീണ്ടും തിരഞ്ഞെടുക്കുക, അല്ലെങ്കിൽ മറ്റൊന്ന് തിരഞ്ഞെടുക്കുക.</string>
-    <string name="content_storage_folder_fallback">നിങ്ങളുടെ ഡൗൺലോഡ് ഫോൾഡർ ഇപ്പോൾ ലഭ്യമല്ല, അതിനാൽ അത് തിരികെ വരുന്നതുവരെ ഡൗൺലോഡുകൾ OwnTV-യുടെ സ്വന്തം ഫോൾഡറിൽ സംരക്ഷിക്കുന്നു.</string>
+    <string name="content_storage_folder_fallback">നിങ്ങളുടെ ഡൗൺലോഡ് ഫോൾഡർ ഇപ്പോൾ ലഭ്യമല്ല, അതിനാൽ അത് തിരികെ വരുന്നതുവരെ ഡൗൺലോഡുകൾ MeleHub-യുടെ സ്വന്തം ഫോൾഡറിൽ സംരക്ഷിക്കുന്നു.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> ഡൗൺലോഡ് ചെയ്തു</string>
     <string name="content_downloads_failure_message">ഡൗൺലോഡ് പരാജയപ്പെട്ടു — ഉറവിടവുമായി ബന്ധപ്പെടാനായില്ല. വീണ്ടും ശ്രമിക്കുക അമർത്തുക.</string>
     <string name="content_downloads_queued">നിരയിലുണ്ട്…</string>
@@ -326,7 +326,7 @@
     <string name="content_epg_favourite">പ്രിയപ്പെട്ടതാക്കുക</string>
     <string name="content_epg_unfavourite">പ്രിയപ്പെട്ടവയിൽ നിന്ന് നീക്കുക</string>
     <string name="content_epg_player_choice_description">ക്രമീകരണങ്ങൾ › ക്യാച്ച്-അപ്പ് എന്നതിൽ സ്ഥിരമായൊരു തിരഞ്ഞെടുപ്പ് സജ്ജമാക്കുക.</string>
-    <string name="content_epg_own_player">OwnTV പ്ലെയർ</string>
+    <string name="content_epg_own_player">MeleHub പ്ലെയർ</string>
     <string name="content_epg_external_player">ബാഹ്യ പ്ലെയർ</string>
     <string name="content_epg_time_offset">ഇപിജി സമയ ഓഫ്സെറ്റ്</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>മി</string>

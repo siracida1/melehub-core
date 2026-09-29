@@ -49,7 +49,7 @@
     <string name="settings_dynamic">Dinamik</string>
     <string name="settings_http_proxy">HTTP Proxy</string>
     <string name="settings_use_proxy">Proxy kullan</string>
-    <string name="settings_proxy_description">Tüm OwnTV trafiğini ve oynatmayı bir HTTP proxy üzerinden gönderin.</string>
+    <string name="settings_proxy_description">Tüm MeleHub trafiğini ve oynatmayı bir HTTP proxy üzerinden gönderin.</string>
     <string name="settings_host">Sunucu</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">Bağlantı noktası</string>
@@ -158,7 +158,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> kaldı</item>
     </plurals>
     <string name="settings_metadata_active_source">Etkin kaynak</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · kurulum gerekmez</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · kurulum gerekmez</string>
     <string name="settings_metadata_connection">Bağlantı</string>
     <string name="settings_metadata_remote_advanced">Gelişmiş TMDB bilgilerini alın</string>
     <string name="settings_metadata_remote_advanced_description">Paylaşılan varsayılan hizmet yerine kendi TMDB API anahtarınızı ya da kendi barındırdığınız Worker’ı kullanın.</string>
@@ -169,8 +169,8 @@
     <string name="settings_metadata_server_label">Sunucu</string>
     <string name="settings_metadata_refills_label">Yenilenme saati</string>
     <string name="settings_metadata_clear_advanced_title">Kendi anahtarınızı kullanmayı bırakmak istiyor musunuz?</string>
-    <string name="settings_metadata_clear_advanced_message">TMDB API anahtarınız ve kendi sunucu adresiniz bu cihazdan silinecek ve OwnTV, günlük payı olan yerleşik paylaşılan hizmete geri dönecek.</string>
-    <string name="settings_metadata_fair_share">Yerleşik meta veri hizmeti OwnTV kullanan herkes tarafından paylaşılır; bu nedenle her cihaz her gün kendi payını alır. Payınızı tüketirseniz posterler ve açıklamalar yenilenene kadar duraklar — kendi oynatma listenizdeki bilgiler normal şekilde çalışmaya devam eder. Kendi TMDB API anahtarınızı veya sunucunuzu eklemek bu sınırı kaldırır: ücretsizdir ve kişisel bir anahtarın neredeyse hiç sınırı yoktur.</string>
+    <string name="settings_metadata_clear_advanced_message">TMDB API anahtarınız ve kendi sunucu adresiniz bu cihazdan silinecek ve MeleHub, günlük payı olan yerleşik paylaşılan hizmete geri dönecek.</string>
+    <string name="settings_metadata_fair_share">Yerleşik meta veri hizmeti MeleHub kullanan herkes tarafından paylaşılır; bu nedenle her cihaz her gün kendi payını alır. Payınızı tüketirseniz posterler ve açıklamalar yenilenene kadar duraklar — kendi oynatma listenizdeki bilgiler normal şekilde çalışmaya devam eder. Kendi TMDB API anahtarınızı veya sunucunuzu eklemek bu sınırı kaldırır: ücretsizdir ve kişisel bir anahtarın neredeyse hiç sınırı yoktur.</string>
     <string name="settings_metadata_limit_reached">Günlük meta veri payınız tükendi — bu sınırı kaldırmak için Ayarlar → Meta Veri bölümünden kendi TMDB anahtarınızı ekleyin.</string>
     <string name="settings_metadata_language">Meta veri dili</string>
     <string name="settings_metadata_language_description">TMDB’den gelen konu, tür ve başlıkların dili. TMDB’nin çevirmediği alanlar İngilizce kalır. Ayrıntılar dile göre önbelleğe alınır, bu yüzden geri dönmek anlıktır.</string>
@@ -315,7 +315,7 @@
     <string name="settings_network_group">Ağ</string>
     <string name="settings_app_group">Uygulama</string>
     <string name="settings_app_startup">Uygulama başlangıcı</string>
-    <string name="settings_app_startup_description">OwnTV başlatıldığında açılacak bölüm</string>
+    <string name="settings_app_startup_description">MeleHub başlatıldığında açılacak bölüm</string>
     <string name="settings_check_updates">Güncellemeleri denetle</string>
     <string name="settings_check_updates_description">En son sürümü GitHub Releases üzerinden alın</string>
     <string name="settings_update_startup">Başlangıçta güncellemeleri denetle</string>
@@ -347,7 +347,7 @@
     <string name="settings_about_version">Sürüm <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">Android TV için kendi IPTV oynatıcınız — ücretsiz, açık kaynaklı ve yalnızca oynatıcı işlevi sunan bir uygulama. Herhangi bir kanal veya içerik sağlamaz; yasal olarak erişebildiğiniz kaynakları kendiniz eklersiniz.</string>
     <string name="settings_about_description_full_mobile">Android için kendi IPTV oynatıcınız — ücretsiz, açık kaynaklı ve yalnızca oynatıcı işlevi sunan bir uygulama. Herhangi bir kanal veya içerik sağlamaz; yasal olarak erişebildiğiniz kaynakları kendiniz eklersiniz.</string>
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3 Lisansı</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3 Lisansı</string>
     <string name="settings_join_telegram">Telegram topluluğumuza katılın</string>
     <string name="settings_telegram_qr">Telegram grubu QR kodu</string>
     <string name="settings_telegram_scan">Telefonunuzdan katılmak için QR kodunu tarayın veya yukarıdaki bağlantıyı açın.</string>
@@ -587,7 +587,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles uygulama API anahtarı</string>
     <string name="settings_worker_server_url">Worker / sunucu URL’si</string>
     <string name="settings_shared">Paylaşılan</string>
-    <string name="settings_open_subtitles_access_priority">OwnTV’nin paylaşılan Worker’ını kullanmak için ikisini de boş bırakın. Özel bir Worker URL’si, doğrudan API anahtarına göre önceliklidir. Hesap oturumları profile özel kalır.</string>
+    <string name="settings_open_subtitles_access_priority">MeleHub’nin paylaşılan Worker’ını kullanmak için ikisini de boş bırakın. Özel bir Worker URL’si, doğrudan API anahtarına göre önceliklidir. Hesap oturumları profile özel kalır.</string>
     <string name="settings_remove_custom_access">Özel erişimi kaldır</string>
     <string name="settings_audio">Ses</string>
     <string name="settings_preferred_audio_language">Tercih edilen ses dili</string>
@@ -674,7 +674,7 @@
     <string name="settings_guide_synced">Program rehberi eşitlendi</string>
     <string name="settings_guide_sync_failed">Program rehberi eşitlenemedi</string>
     <string name="settings_restore_remote_title">Başka bir cihazdan geri yükle</string>
-    <string name="settings_restore_remote_description">Aynı Wi-Fi ağına bağlı bir telefon, tablet veya bilgisayarda QR kodunu tarayın (ya da URL\'yi açın), bu PIN\'i girin, OwnTV yedekleme dosyanızı seçin ve TV\'ye Gönder\'e dokunun. Ardından burada nelerin geri yükleneceğini seçin.</string>
+    <string name="settings_restore_remote_description">Aynı Wi-Fi ağına bağlı bir telefon, tablet veya bilgisayarda QR kodunu tarayın (ya da URL\'yi açın), bu PIN\'i girin, MeleHub yedekleme dosyanızı seçin ve TV\'ye Gönder\'e dokunun. Ardından burada nelerin geri yükleneceğini seçin.</string>
     <string name="settings_opening_server">Sunucu açılıyor…</string>
     <string name="settings_enter_pin_browser">Bu PIN\'i tarayıcıya girin</string>
     <string name="settings_companion_qr">Yardımcı URL\'nin QR kodu</string>
@@ -701,7 +701,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">Cihaz</string>
     <string name="settings_catchup_player_ask">Her zaman sor</string>
-    <string name="settings_catchup_player_internal">OwnTV oynatıcı</string>
+    <string name="settings_catchup_player_internal">MeleHub oynatıcı</string>
     <string name="settings_catchup_player_external">Harici oynatıcı</string>
     <string name="settings_soon">YAKINDA</string>
     <string name="settings_download_folder_title">İndirme klasörünü seçin</string>
@@ -833,9 +833,9 @@
     <string name="settings_sources_info">Bilgi</string>
     <string name="settings_sources_retest">Yeniden test et</string>
     <string name="settings_sources_probe_title">Bu oynatma listesi test edilsin mi?</string>
-    <string name="settings_sources_probe_warning">Birçok sağlayıcı aynı anda kaç kanal izleyebileceğinizi hiç belirtmez; bu yüzden OwnTV birkaç kanal açıp hangilerinin devam ettiğine bakarak bunu kendisi bulur. Şu anda oynatılan her şey duracak ve bu işlem iki dakikaya kadar sürebilir.</string>
+    <string name="settings_sources_probe_warning">Birçok sağlayıcı aynı anda kaç kanal izleyebileceğinizi hiç belirtmez; bu yüzden MeleHub birkaç kanal açıp hangilerinin devam ettiğine bakarak bunu kendisi bulur. Şu anda oynatılan her şey duracak ve bu işlem iki dakikaya kadar sürebilir.</string>
     <string name="settings_sources_probe_running">Bu sağlayıcının kaç kanala izin verdiği kontrol ediliyor… (<xliff:g id="current">%1$d</xliff:g>/<xliff:g id="total">%2$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">OwnTV bu sağlayıcının kaç kanala izin verdiğini belirleyemedi.</string>
+    <string name="settings_sources_probe_unknown">MeleHub bu sağlayıcının kaç kanala izin verdiğini belirleyemedi.</string>
     <string name="settings_sources_probe_skip">Atla</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">VARSAYILAN</string>
@@ -1086,7 +1086,7 @@
     <string name="settings_move_category_action">Taşı</string>
     <string name="settings_dns_description">Alan adı sorguları için özel bir DNS sunucusu kullanın</string>
     <string name="settings_dns_custom">Özel DNS</string>
-    <string name="settings_dns_toggle_description">Tüm OwnTV alan adı sorguları özel bir DNS sunucusu üzerinden çözümlenir.</string>
+    <string name="settings_dns_toggle_description">Tüm MeleHub alan adı sorguları özel bir DNS sunucusu üzerinden çözümlenir.</string>
     <string name="settings_dns_use_custom">Özel DNS kullan</string>
     <string name="settings_dns_server_missing">Özel DNS etkin ancak hiçbir sunucu yapılandırılmadı. Bir sunucu adresi girip Kaydet’i seçin veya bu seçeneği kapatın.</string>
     <string name="settings_dns_server">DNS sunucusu</string>
@@ -1133,7 +1133,7 @@
     <string name="settings_live_preroll">Canlı yayınları ön arabelleğe al</string>
     <string name="settings_live_preroll_description">Bir canlı kanal oynamaya başlamadan önce ve bir takılma sonrasında bu kadar video biriktirilir. Bu bir video miktarıdır, geri sayım değil. Kapalı, mümkün olan en hızlı başlangıcı sağlar.</string>
     <string name="settings_live_tune_timeout">Bir kanaldan şu süre sonra vazgeç</string>
-    <string name="settings_live_tune_timeout_description">Bir canlı kanal bu süre içinde görüntü vermediyse, OwnTV tüm oynatıcılarını tek tek denerken siyah ekran bırakmak yerine denemeyi bırakır ve size söyler. “Asla” denemeyi sürdürür; sağlayıcınızın kaldırdığı bir kanalda bu bir dakikayı rahatça aşabilir. Sağlayıcınızın istediği bekleme süreleri sayılmaz.</string>
+    <string name="settings_live_tune_timeout_description">Bir canlı kanal bu süre içinde görüntü vermediyse, MeleHub tüm oynatıcılarını tek tek denerken siyah ekran bırakmak yerine denemeyi bırakır ve size söyler. “Asla” denemeyi sürdürür; sağlayıcınızın kaldırdığı bir kanalda bu bir dakikayı rahatça aşabilir. Sağlayıcınızın istediği bekleme süreleri sayılmaz.</string>
     <string name="settings_live_preroll_per_playlist">Yayın listesi başına ön arabellek</string>
     <string name="settings_live_preroll_per_playlist_description">Üstteki ayarı bir yayın listesi için geçersiz kılarken diğer yayın listelerinizin hızlı kalmasını sağlar.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1159,7 +1159,7 @@
     <string name="settings_surround_auto_description_mobile">Otomatik — Dolby/DTS surround\'u dener; hoparlör, kulaklık ya da bağlı alıcı çalamazsa otomatik olarak stereoya geri döner. Önerilir.</string>
     <string name="settings_surround_stereo_description">Yalnızca stereo — her zaman uygulamada kod çözün ve düz 2.0 ses gönderin. Bunu TV hoparlörlerinde veya stereo soundbar\'da, ya da ses görüntünün gerisinde kalıyorsa kullanın.</string>
     <string name="settings_surround_stereo_description_mobile">Yalnızca stereo — her zaman uygulamada kod çözün ve düz 2.0 ses gönderin. Bunu dahili hoparlör, kulaklık veya stereo soundbar için, ya da ses görüntünün gerisinde kalıyorsa kullanın.</string>
-    <string name="settings_surround_forced_description">Surround — Dolby/DTS\'yi gerçek bir 5.1/7.1 alıcıya gönderin. Ses kesilirse veya takılırsa OwnTV yine de stereoya geri döner ve size bildirir.</string>
+    <string name="settings_surround_forced_description">Surround — Dolby/DTS\'yi gerçek bir 5.1/7.1 alıcıya gönderin. Ses kesilirse veya takılırsa MeleHub yine de stereoya geri döner ve size bildirir.</string>
     <string name="settings_panel_width">Panel genişliği ayarı</string>
     <string name="settings_panel_width_description">Canlı TV, Filmler ve Diziler bölümlerindeki kategori, liste ve önizleme panellerini yeniden boyutlandırın.</string>
     <string name="settings_vod_layout">Filmler ve Diziler düzeni</string>
@@ -1201,9 +1201,9 @@
     <string name="settings_panel_width_preview_panel"><xliff:g id="label">%1$s</xliff:g> paneli</string>
     <string name="settings_panel_width_total">Toplam boyut</string>
     <string name="settings_panel_width_invalid_total">Toplam boyut <xliff:g id="total">%1$d</xliff:g>%%. %%100 olması gerekiyor — lütfen ayarlayın.</string>
-    <string name="settings_language_help_translate">OwnTV\'yi kendi dilinize çevirmeye yardım edin</string>
-    <string name="settings_language_contribution_description">QR kodu okutun veya bağlantıyı açın; dilediğiniz dili seçin ve OwnTV çevirisinin altı bileşeninin tamamına katkıda bulunun.</string>
-    <string name="settings_language_contribution_qr_description">OwnTV çeviri projesi genel bakışı için QR kodu</string>
+    <string name="settings_language_help_translate">MeleHub\'yi kendi dilinize çevirmeye yardım edin</string>
+    <string name="settings_language_contribution_description">QR kodu okutun veya bağlantıyı açın; dilediğiniz dili seçin ve MeleHub çevirisinin altı bileşeninin tamamına katkıda bulunun.</string>
+    <string name="settings_language_contribution_qr_description">MeleHub çeviri projesi genel bakışı için QR kodu</string>
     <string name="settings_language_contribution_qr_failed">QR kod oluşturulamadı. Bunun yerine aşağıda gösterilen bağlantıyı kullanın.</string>
     <string name="settings_language_contribution_copy">Bağlantıyı kopyala</string>
     <string name="settings_language_contribution_copied">Bağlantı kopyalandı</string>
@@ -1212,8 +1212,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">Bu TV\'de önerilmez: Android 12 altında hız sorunsuz değiştirilemez.</string>
     <string name="settings_auto_frame_rate_warning_title">Bu TV\'de önerilmez</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">Bu cihazda önerilmez</string>
-    <string name="settings_auto_frame_rate_warning_description">Bu cihaz Android <xliff:g id="android_version">%1$s</xliff:g> sürümüyle çalışıyor. Android 12\'den önceki sürümlerde TV, OwnTV\'ye hangi yenileme hızlarına sorunsuz geçebileceğini bildiremez; bu yüzden hızı değiştirmek ekranın bir iki saniyeliğine kararmasına neden olabilir — bazen bir program sırasında birden fazla kez.\n\nBurada otomatik yenileme hızını kapalı bırakmanızı öneririz. TV\'niz sorunsuz geçiş yapıyorsa açıp deneyin: istediğiniz zaman geri değiştirebilirsiniz.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">Bu cihaz Android <xliff:g id="android_version">%1$s</xliff:g> sürümüyle çalışıyor. Android 12\'den önceki sürümlerde cihaz, OwnTV\'ye hangi yenileme hızlarına sorunsuz geçebileceğini bildiremez; bu yüzden hızı değiştirmek ekranın bir iki saniyeliğine kararmasına neden olabilir — bazen bir program sırasında birden fazla kez.\n\nBurada otomatik yenileme hızını kapalı bırakmanızı öneririz. Ekranınız sorunsuz geçiş yapıyorsa açıp deneyin: istediğiniz zaman geri değiştirebilirsiniz.</string>
+    <string name="settings_auto_frame_rate_warning_description">Bu cihaz Android <xliff:g id="android_version">%1$s</xliff:g> sürümüyle çalışıyor. Android 12\'den önceki sürümlerde TV, MeleHub\'ye hangi yenileme hızlarına sorunsuz geçebileceğini bildiremez; bu yüzden hızı değiştirmek ekranın bir iki saniyeliğine kararmasına neden olabilir — bazen bir program sırasında birden fazla kez.\n\nBurada otomatik yenileme hızını kapalı bırakmanızı öneririz. TV\'niz sorunsuz geçiş yapıyorsa açıp deneyin: istediğiniz zaman geri değiştirebilirsiniz.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">Bu cihaz Android <xliff:g id="android_version">%1$s</xliff:g> sürümüyle çalışıyor. Android 12\'den önceki sürümlerde cihaz, MeleHub\'ye hangi yenileme hızlarına sorunsuz geçebileceğini bildiremez; bu yüzden hızı değiştirmek ekranın bir iki saniyeliğine kararmasına neden olabilir — bazen bir program sırasında birden fazla kez.\n\nBurada otomatik yenileme hızını kapalı bırakmanızı öneririz. Ekranınız sorunsuz geçiş yapıyorsa açıp deneyin: istediğiniz zaman geri değiştirebilirsiniz.</string>
     <string name="settings_auto_frame_rate_keep_off">Kapalı bırak</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">Yine de aç</string>
     <string name="settings_language_request_workflow">Listede olmayan bir dil mi eklemek istiyorsunuz? Önce bir dil talebi açın. Bir proje yöneticisi dili kaydeder ve temel çeviri dosyalarını hazırlar; Hosted Weblate üzerinde göründüğünde katkıda bulunmaya başlayabilirsiniz.</string>
@@ -1412,7 +1412,7 @@
     <string name="local_sync_received_items">Alınan öğeler: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">Verileriniz gönderildi</string>
     <string name="local_sync_failed">Eşitleme başarısız oldu</string>
-    <string name="local_sync_error_unreachable">Bu cihaza ulaşılamadı. O cihazda OwnTV → Ayarlar → Veriler → Yerel eşitleme yolunu açıp Eşitleme modunu açın. Her iki cihaz da aynı Wi-Fi ağında olmalıdır.</string>
+    <string name="local_sync_error_unreachable">Bu cihaza ulaşılamadı. O cihazda MeleHub → Ayarlar → Veriler → Yerel eşitleme yolunu açıp Eşitleme modunu açın. Her iki cihaz da aynı Wi-Fi ağında olmalıdır.</string>
     <string name="local_sync_error_unauthorized">Diğer cihaz reddetti. PIN yanlış olabilir ya da bu cihazı unutmuş olabilir.</string>
     <string name="local_sync_error_bad_payload">Gelen veri okunamadı. Parola kullandıysanız her iki cihazda da aynı olduğunu kontrol edin.</string>
     <string name="local_sync_error_unknown">Bir şeyler ters gitti. Tekrar deneyin.</string>
@@ -1453,7 +1453,7 @@
     <string name="settings_multiview_keep_two">2 kalsın</string>
     <string name="settings_multiview_use_anyway">Yine de kullan</string>
     <string name="settings_app_icon">Uygulama simgesi</string>
-    <string name="settings_app_icon_summary">OwnTV simgesinin ve logosunun rengi</string>
+    <string name="settings_app_icon_summary">MeleHub simgesinin ve logosunun rengi</string>
     <string name="app_icon_petrol">Petrol Mavisi</string>
     <string name="app_icon_sunflower">Ayçiçeği</string>
     <string name="app_icon_cobalt">Kobalt</string>
@@ -1462,7 +1462,7 @@
     <string name="app_icon_eggshell">Yumurta Kabuğu</string>
     <string name="app_icon_olive">Zeytin Yeşili</string>
     <string name="app_icon_olive_cream">Krem Üzerine Zeytin Yeşili</string>
-    <string name="app_icon_restart_title">OwnTV yeniden başlatılsın mı?</string>
-    <string name="app_icon_restart_message">Yeni bir simge ve logo seçtiniz. OwnTV yeniden başlatıldığında geçerli olur.</string>
+    <string name="app_icon_restart_title">MeleHub yeniden başlatılsın mı?</string>
+    <string name="app_icon_restart_message">Yeni bir simge ve logo seçtiniz. MeleHub yeniden başlatıldığında geçerli olur.</string>
     <string name="app_icon_restart_now">Şimdi yeniden başlat</string>
 </resources>

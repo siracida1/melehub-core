@@ -128,8 +128,8 @@
     <string name="update_not_enough_space">Inte tillräckligt med ledigt utrymme för uppdateringen. Frigör cirka <xliff:g id="size">%1$s</xliff:g> och försök igen.</string>
     <string name="update_damaged_download">Uppdateringen hämtades inte helt. Kontrollera anslutningen och försök igen.</string>
     <string name="update_install_rejected">Systemets installationsprogram avvisade uppdateringen: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> är klar (du har v<xliff:g id="current">%2$s</xliff:g>).</string>
-    <string name="recovery_title">OwnTV kunde inte öppna sin databas</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> är klar (du har v<xliff:g id="current">%2$s</xliff:g>).</string>
+    <string name="recovery_title">MeleHub kunde inte öppna sin databas</string>
     <string name="recovery_data_safe_full">Dina profiler, spellistor, favoriter och din historik har INTE raderats — det här beror på att en databasuppgradering misslyckades, och data finns fortfarande kvar på den här enheten.\n\nRapportera detta så att felet kan åtgärdas och inkludera meddelandet nedan.</string>
     <string name="recovery_retry">Försök igen</string>
     <string name="recovery_backup_hint">Om du har en säkerhetskopieringsfil kan du nollställa appen och återställa säkerhetskopian efteråt. Nollställning raderar allt som lagras på den här enheten.</string>
@@ -219,13 +219,13 @@
     <string name="settings_recording_pre_roll_description">Börja så här långt före den angivna starttiden, så att en guide som går lite före ändå får med början.</string>
     <string name="settings_recording_post_roll">Fortsätt efter slutet</string>
     <string name="settings_recording_post_roll_description">Fortsätt så här länge efter den angivna sluttiden, så att ett program som drar över inte klipps av.</string>
-    <string name="settings_recording_timers_inexact">Den här enheten låter inte OwnTV ställa exakta alarm, så en inspelning kan börja några minuter sent. Inspelningar börjar tidigare för att väga upp det.</string>
+    <string name="settings_recording_timers_inexact">Den här enheten låter inte MeleHub ställa exakta alarm, så en inspelning kan börja några minuter sent. Inspelningar börjar tidigare för att väga upp det.</string>
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> minut</item>
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> minuter</item>
     </plurals>
     <string name="recording_failed_encrypted">Den här kanalen är krypterad och kan inte spelas in</string>
-    <string name="recording_failed_drm">Den här kanalen är DRM-skyddad, så den går att se men inte spela in. Skyddet kommer från din leverantör, inte från OwnTV.</string>
+    <string name="recording_failed_drm">Den här kanalen är DRM-skyddad, så den går att se men inte spela in. Skyddet kommer från din leverantör, inte från MeleHub.</string>
     <string name="recording_failed_metered">Spelades inte in via mobildata</string>
     <string name="settings_recording_mobile_data">Spela in via mobildata</string>
     <string name="settings_recording_mobile_data_description">Av: en inspelning som infaller utanför wifi hoppas över i stället för att vänta — ett direktsänt program kommer inte igen.</string>

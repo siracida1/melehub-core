@@ -95,8 +95,8 @@
     <string name="settings_http_proxy">HTTP Proxy</string>
     <!-- Translators: Toggle label to enable/disable the HTTP proxy. -->
     <string name="settings_use_proxy">Use proxy</string>
-    <!-- Translators: Description of the HTTP proxy feature. 'OwnTV' is a brand name. -->
-    <string name="settings_proxy_description">Send all OwnTV traffic and playback through an HTTP proxy.</string>
+    <!-- Translators: Description of the HTTP proxy feature. 'MeleHub' is a brand name. -->
+    <string name="settings_proxy_description">Send all MeleHub traffic and playback through an HTTP proxy.</string>
     <!-- Translators: Text-field label for the proxy hostname. -->
     <string name="settings_host">Host</string>
     <!-- Translators: Placeholder example in the proxy hostname field. -->
@@ -175,7 +175,7 @@
     <string name="settings_remote_shortcuts_reset">Restore default shortcuts</string>
     <!-- Translators: Description of the Restore default shortcuts row. -->
     <string name="settings_remote_shortcuts_reset_description">Restore CH+/CH− and rewind/fast-forward paging; remove other assignments</string>
-    <!-- Translators: Popup title while OwnTV waits for a remote button. -->
+    <!-- Translators: Popup title while MeleHub waits for a remote button. -->
     <string name="settings_remote_shortcuts_capture_title">Press a remote button</string>
     <!-- Translators: Popup instruction. Holding a button creates a long-press shortcut. -->
     <string name="settings_remote_shortcuts_capture_description">Press briefly for a short-press shortcut, or hold until you release for a long-press shortcut. Back, D-pad, OK, volume, Home and power buttons cannot be assigned.</string>
@@ -297,7 +297,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> left</item>
     </plurals>
     <string name="settings_metadata_active_source">Active source</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · no setup</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · no setup</string>
     <string name="settings_metadata_connection">Connection</string>
     <string name="settings_metadata_remote_advanced">Get advanced TMDB info</string>
     <string name="settings_metadata_remote_advanced_description">Use your own TMDB API key or self-hosted Worker instead of the shared default.</string>
@@ -318,7 +318,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles application API key</string>
     <string name="settings_worker_server_url">Worker / server URL</string>
     <string name="settings_shared">Shared</string>
-    <string name="settings_open_subtitles_access_priority">Leave both blank for OwnTV’s shared Worker. A custom Worker URL takes priority over a direct API key. Account sessions remain profile-specific.</string>
+    <string name="settings_open_subtitles_access_priority">Leave both blank for MeleHub’s shared Worker. A custom Worker URL takes priority over a direct API key. Account sessions remain profile-specific.</string>
     <string name="settings_remove_custom_access">Remove custom access</string>
     <!-- Translators: InfoRow label for which TMDB source is in use. -->
     <!-- Translators: InfoRow label for how much of the daily share has been used. -->
@@ -337,9 +337,9 @@
     <!-- Translators: Title of the dialog shown when switching off Advanced options while a key is saved. -->
     <string name="settings_metadata_clear_advanced_title">Stop using your own key?</string>
     <!-- Translators: Body of that dialog. Explains the saved key and server address are deleted. -->
-    <string name="settings_metadata_clear_advanced_message">Your TMDB API key and self-hosted server address will be deleted from this device, and OwnTV will go back to the built-in shared service with its daily share.</string>
+    <string name="settings_metadata_clear_advanced_message">Your TMDB API key and self-hosted server address will be deleted from this device, and MeleHub will go back to the built-in shared service with its daily share.</string>
     <!-- Translators: Explains why the shared metadata service has a per-device limit. -->
-    <string name="settings_metadata_fair_share">The built-in service is shared by everyone using OwnTV. If any minute, hourly or daily allowance is used up, TMDB details pause until that window resets; playlist information keeps working. Your own key or Worker removes this allowance.</string>
+    <string name="settings_metadata_fair_share">The built-in service is shared by everyone using MeleHub. If any minute, hourly or daily allowance is used up, TMDB details pause until that window resets; playlist information keeps working. Your own key or Worker removes this allowance.</string>
     <!-- Translators: Shown once per app start when the device's daily metadata share is used up. -->
     <string name="settings_metadata_limit_reached">Daily metadata share used up — add your own TMDB key in Settings → Metadata to remove this limit.</string>
     <!-- Translators: Setting label for the metadata language. -->
@@ -628,9 +628,9 @@
     <!-- Translators: Phone/tablet wording of settings_auto_frame_rate_warning_title. -->
     <string name="settings_auto_frame_rate_warning_title_mobile">Not recommended on this device</string>
     <!-- Translators: Auto frame rate warning. %1$s is the device Android version, such as 11. -->
-    <string name="settings_auto_frame_rate_warning_description">This device runs Android <xliff:g id="android_version">%1$s</xliff:g>. Below Android 12 the TV can\'t tell OwnTV which refresh rates it can switch to smoothly, so changing the rate may black the screen out for a second or two — sometimes more than once during a programme.\n\nWe recommend leaving Auto frame rate off here. If your TV switches cleanly, turn it on and see: you can change it back at any time.</string>
+    <string name="settings_auto_frame_rate_warning_description">This device runs Android <xliff:g id="android_version">%1$s</xliff:g>. Below Android 12 the TV can\'t tell MeleHub which refresh rates it can switch to smoothly, so changing the rate may black the screen out for a second or two — sometimes more than once during a programme.\n\nWe recommend leaving Auto frame rate off here. If your TV switches cleanly, turn it on and see: you can change it back at any time.</string>
     <!-- Translators: Phone/tablet wording of settings_auto_frame_rate_warning_description. %1$s is the device Android version, such as 11. -->
-    <string name="settings_auto_frame_rate_warning_description_mobile">This device runs Android <xliff:g id="android_version">%1$s</xliff:g>. Below Android 12 the device can\'t tell OwnTV which refresh rates it can switch to smoothly, so changing the rate may black the screen out for a second or two — sometimes more than once during a programme.\n\nWe recommend leaving Auto frame rate off here. If your screen switches cleanly, turn it on and see: you can change it back at any time.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">This device runs Android <xliff:g id="android_version">%1$s</xliff:g>. Below Android 12 the device can\'t tell MeleHub which refresh rates it can switch to smoothly, so changing the rate may black the screen out for a second or two — sometimes more than once during a programme.\n\nWe recommend leaving Auto frame rate off here. If your screen switches cleanly, turn it on and see: you can change it back at any time.</string>
     <!-- Translators: Safe action that leaves Auto frame rate disabled. -->
     <string name="settings_auto_frame_rate_keep_off">Keep off</string>
     <!-- Translators: Action that enables Auto frame rate despite the warning. -->
@@ -704,8 +704,8 @@
     <string name="settings_app_group">App</string>
     <!-- Translators: Setting label for app startup behavior. -->
     <string name="settings_app_startup">App startup</string>
-    <!-- Translators: Description of the app startup setting. 'OwnTV' is a brand name. -->
-    <string name="settings_app_startup_description">What OwnTV opens when it starts</string>
+    <!-- Translators: Description of the app startup setting. 'MeleHub' is a brand name. -->
+    <string name="settings_app_startup_description">What MeleHub opens when it starts</string>
     <!-- Translators: Setting label for checking for app updates. -->
     <string name="settings_check_updates">Check for updates</string>
     <!-- Translators: Description of the check-for-updates setting. 'GitHub Releases' is a brand name. -->
@@ -764,11 +764,11 @@
     <string name="settings_use_color">Use this color</string>
     <!-- Translators: Version display on the About screen. 'version' is the version string. -->
     <string name="settings_about_version">Version <xliff:g id="version">%1$s</xliff:g></string>
-    <!-- Translators: Full description of OwnTV on the About screen. 'OwnTV' is a brand name. -->
+    <!-- Translators: Full description of MeleHub on the About screen. 'MeleHub' is a brand name. -->
     <string name="settings_about_description_full">Your own IPTV player for Android TV — a free, open-source, player-only app. It provides no channels or content; you bring your own legally accessible sources.</string>
     <string name="settings_about_description_full_mobile">Your own IPTV player for Android — a free, open-source, player-only app. It provides no channels or content; you bring your own legally accessible sources.</string>
     <!-- Translators: Copyright and license information. 'GPLv3' is a license name. -->
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3 License</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3 License</string>
     <!-- Translators: Link label to join the Telegram community group. 'Telegram' is a brand name. -->
     <string name="settings_join_telegram">Join us on Telegram</string>
     <!-- Translators: Accessibility label for the Telegram group QR code. -->
@@ -1357,7 +1357,7 @@ Choose Balanced if a channel becomes unreliable.</string>
     <!-- Translators: Screen title for the remote restore companion screen. -->
     <string name="settings_restore_remote_title">Restore from another device</string>
     <!-- Translators: Description of the remote restore process. -->
-    <string name="settings_restore_remote_description">On a phone, tablet or computer on the same Wi-Fi, scan the QR (or open the URL), enter this PIN, choose your OwnTV backup file and tap Send to TV. You then pick what to restore here.</string>
+    <string name="settings_restore_remote_description">On a phone, tablet or computer on the same Wi-Fi, scan the QR (or open the URL), enter this PIN, choose your MeleHub backup file and tap Send to TV. You then pick what to restore here.</string>
     <!-- Translators: Loading status shown while the companion HTTP server is starting. -->
     <string name="settings_opening_server">Opening server…</string>
     <!-- Translators: Instruction above the PIN display telling the user to enter it in the browser. -->
@@ -1407,8 +1407,8 @@ Choose Balanced if a channel becomes unreliable.</string>
     <string name="settings_catchup_timezone_device">Device</string>
     <!-- Translators: Catch-up player option: always ask which player to use. -->
     <string name="settings_catchup_player_ask">Always ask</string>
-    <!-- Translators: Catch-up player option: use the built-in OwnTV player. -->
-    <string name="settings_catchup_player_internal">OwnTV player</string>
+    <!-- Translators: Catch-up player option: use the built-in MeleHub player. -->
+    <string name="settings_catchup_player_internal">MeleHub player</string>
     <!-- Translators: Catch-up player option: use an external player app. -->
     <string name="settings_catchup_player_external">External player</string>
     <!-- Translators: Badge indicating a feature is coming soon. All caps is intentional. -->
@@ -1678,11 +1678,11 @@ Choose Balanced if a channel becomes unreliable.</string>
     <!-- Translators: Title of the confirmation shown before the connection measurement runs. -->
     <string name="settings_sources_probe_title">Test this playlist?</string>
     <!-- Translators: Body of that confirmation. It must be clear that playback stops and that it is slow. -->
-    <string name="settings_sources_probe_warning">Many providers never say how many channels you may watch at the same time, so OwnTV finds out by opening a few and seeing which ones survive. Anything playing now will stop, and this can take up to two minutes.</string>
+    <string name="settings_sources_probe_warning">Many providers never say how many channels you may watch at the same time, so MeleHub finds out by opening a few and seeing which ones survive. Anything playing now will stop, and this can take up to two minutes.</string>
     <!-- Translators: Progress while measuring. "current" is the stream being opened, "total" the most that will be. -->
     <string name="settings_sources_probe_running">Checking how many channels this provider allows… (<xliff:g id="current">%1$d</xliff:g> of <xliff:g id="total">%2$d</xliff:g>)</string>
     <!-- Translators: Shown when the measurement finished without being able to tell. -->
-    <string name="settings_sources_probe_unknown">OwnTV could not work out how many channels this provider allows.</string>
+    <string name="settings_sources_probe_unknown">MeleHub could not work out how many channels this provider allows.</string>
     <!-- Translators: Button that abandons the connection measurement while it is running. -->
     <string name="settings_sources_probe_skip">Skip</string>
     <!-- Translators: Auto-refresh mode display. 'mode' is the refresh mode. The circular arrow is a visual indicator. -->
@@ -2152,8 +2152,8 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="settings_dns_description">Use a custom DNS server for domain lookups</string>
     <!-- Translators: Title of the custom DNS settings screen. -->
     <string name="settings_dns_custom">Custom DNS</string>
-    <!-- Translators: Description of the custom DNS toggle. OwnTV is a brand name. -->
-    <string name="settings_dns_toggle_description">Resolve all OwnTV domain lookups through a custom DNS server.</string>
+    <!-- Translators: Description of the custom DNS toggle. MeleHub is a brand name. -->
+    <string name="settings_dns_toggle_description">Resolve all MeleHub domain lookups through a custom DNS server.</string>
     <!-- Translators: Toggle label for custom DNS. -->
     <string name="settings_dns_use_custom">Use custom DNS</string>
     <!-- Translators: Warning shown when custom DNS is enabled without a server address. -->
@@ -2243,10 +2243,10 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="settings_subtitle_color_grey">Grey</string>
     <string name="settings_live_preroll">Pre-buffer live streams</string>
     <string name="settings_live_preroll_description">Collect this much video before a live channel starts playing, and again after a stutter. This is an amount of video, not a countdown. Off keeps the fastest possible start and is right for most providers. Raise it only if playback actually stutters: many providers publish only a few seconds ahead of live, and asking for more video than they send can make stuttering worse.</string>
-    <!-- Translators: Settings row title. How long OwnTV keeps trying to open a live channel before it shows an error instead. -->
+    <!-- Translators: Settings row title. How long MeleHub keeps trying to open a live channel before it shows an error instead. -->
     <string name="settings_live_tune_timeout">Give up on a channel after</string>
     <!-- Translators: Description under the row above. "Never" is the option named common_never. Keep it short and plain. -->
-    <string name="settings_live_tune_timeout_description">If a live channel has shown no picture by this time, OwnTV stops trying and tells you, instead of leaving a black screen while it works through every player it has. Never keeps trying, which can take well over a minute on a channel your provider has removed. Waits your provider asks for are not counted.</string>
+    <string name="settings_live_tune_timeout_description">If a live channel has shown no picture by this time, MeleHub stops trying and tells you, instead of leaving a black screen while it works through every player it has. Never keeps trying, which can take well over a minute on a channel your provider has removed. Waits your provider asks for are not counted.</string>
     <string name="settings_live_preroll_per_playlist">Pre-buffer per playlist</string>
     <string name="settings_live_preroll_per_playlist_description">Override the setting above for one playlist while keeping your other playlists fast.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -2281,7 +2281,7 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="settings_surround_stereo_description">Stereo only — always decode in the app and send plain 2.0 sound. Use this on TV speakers or a stereo soundbar, or if audio lags behind the picture.</string>
     <!-- Translators: Phone/tablet wording of settings_surround_stereo_description. -->
     <string name="settings_surround_stereo_description_mobile">Stereo only — always decode in the app and send plain 2.0 sound. Use this for the built-in speaker, headphones or a stereo soundbar, or if audio lags behind the picture.</string>
-    <string name="settings_surround_forced_description">Surround — send Dolby/DTS to a real 5.1/7.1 receiver. If it goes silent or stutters, OwnTV still falls back to stereo and tells you.</string>
+    <string name="settings_surround_forced_description">Surround — send Dolby/DTS to a real 5.1/7.1 receiver. If it goes silent or stutters, MeleHub still falls back to stereo and tells you.</string>
     <string name="settings_panel_width">Panel Width Adjustment</string>
     <string name="settings_panel_width_description">Resize the category, list and preview panels in Live TV, Movies &amp; Series.</string>
     <!-- Translators: Settings row. Chooses how the Movies and Series screens are laid out. -->
@@ -2343,15 +2343,15 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="settings_live_preview_panel_hidden_title">Live Preview video is unavailable</string>
     <string name="settings_live_preview_panel_hidden_description">The Live TV Preview panel is hidden. Give it a width above 0%% in Panel Width Adjustment before turning Preview video on.</string>
     <!-- Translators: Global call to action on Language settings for helping translate the app. -->
-    <string name="settings_language_help_translate">Help translate OwnTV into your language</string>
+    <string name="settings_language_help_translate">Help translate MeleHub into your language</string>
     <!-- Translators: Explains that the QR/link opens the whole translation project, where any language and all app sections are available. -->
-    <string name="settings_language_contribution_description">Scan the QR code or open the link to choose any available language and contribute across all six OwnTV translation components.</string>
+    <string name="settings_language_contribution_description">Scan the QR code or open the link to choose any available language and contribute across all six MeleHub translation components.</string>
     <!-- Translators: Workflow for adding a language that is not yet listed. Hosted Weblate is a product name. -->
     <string name="settings_language_request_workflow">Want to add a language that isn\'t listed? Open a language request first. A maintainer will register it and prepare the base translation files; once it appears on Hosted Weblate, you can start contributing.</string>
     <!-- Translators: Button opening the issue form used to request a language that is not yet listed. -->
     <string name="settings_language_request_new">Request a new language</string>
-    <!-- Translators: Accessibility description for the QR image linking to the OwnTV translation project. -->
-    <string name="settings_language_contribution_qr_description">QR code for the OwnTV translation project overview</string>
+    <!-- Translators: Accessibility description for the QR image linking to the MeleHub translation project. -->
+    <string name="settings_language_contribution_qr_description">QR code for the MeleHub translation project overview</string>
     <!-- Translators: Graceful fallback shown when the app cannot generate the translation QR code. -->
     <string name="settings_language_contribution_qr_failed">The QR code could not be generated. Use the link shown below instead.</string>
     <!-- Translators: Button that copies the translation project URL to the clipboard. -->
@@ -2378,7 +2378,7 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="settings_glass_highlight_description">Adjust the focused glass light and rim.</string>
     <string name="settings_glass_live_preview">Live preview</string>
     <string name="settings_glass_screen_description">Tune translucent surfaces and see every change immediately.</string>
-    <string name="settings_glass_master_description">Use translucent, frosted surfaces throughout OwnTV.</string>
+    <string name="settings_glass_master_description">Use translucent, frosted surfaces throughout MeleHub.</string>
     <string name="settings_glass_background_image">Background image</string>
     <string name="settings_glass_surface_transparency_title">Surface transparency</string>
     <string name="settings_glass_background_blur_title">Background blur</string>
@@ -2462,7 +2462,7 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <!-- Translators: Settings row. The app remembers, for each channel, whether the user watched it without a picture. -->
     <string name="settings_audio_per_channel">Remember sound only per channel</string>
     <string name="settings_audio_per_channel_description">A channel watched without a picture opens that way next time</string>
-    <!-- Local sync: two OwnTV devices on the same Wi-Fi exchanging their data directly. -->
+    <!-- Local sync: two MeleHub devices on the same Wi-Fi exchanging their data directly. -->
     <!-- Translators: Title of the Local sync settings screen, and its row on the Data settings page. -->
     <string name="local_sync_title">Local sync</string>
     <!-- Translators: One-line summary of Local sync, under its row on the settings page. -->
@@ -2572,7 +2572,7 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <!-- Translators: Title of the sheet shown when a sync failed. -->
     <string name="local_sync_failed">Sync failed</string>
     <!-- Translators: Failure reason: the other device did not answer. -->
-    <string name="local_sync_error_unreachable">This device could not be reached. On it, open OwnTV → Settings → Data → Local sync and turn Sync mode on. Both devices must be on the same Wi-Fi.</string>
+    <string name="local_sync_error_unreachable">This device could not be reached. On it, open MeleHub → Settings → Data → Local sync and turn Sync mode on. Both devices must be on the same Wi-Fi.</string>
     <!-- Translators: Failure reason: wrong PIN, or the pairing was removed on the other device. -->
     <string name="local_sync_error_unauthorized">The other device refused. The PIN may be wrong, or it may have forgotten this device.</string>
     <!-- Translators: Failure reason: what arrived could not be read. -->
@@ -2651,10 +2651,10 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="settings_multiview_keep_two">Keep 2</string>
     <!-- Translators: Action that accepts the warning. "count" is 3 or 4. -->
     <string name="settings_multiview_use_anyway">Use anyway</string>
-    <!-- Translators: Setting title: which colour the OwnTV icon and logo use, on the home screen and inside the app. -->
+    <!-- Translators: Setting title: which colour the MeleHub icon and logo use, on the home screen and inside the app. -->
     <string name="settings_app_icon">App icon</string>
     <!-- Translators: Subtitle under the App icon setting. -->
-    <string name="settings_app_icon_summary">Color of the OwnTV icon and logo</string>
+    <string name="settings_app_icon_summary">Color of the MeleHub icon and logo</string>
     <!-- Translators: Colour name of an app icon: a dark blue-green, like petrol. -->
     <string name="app_icon_petrol">Petrol</string>
     <!-- Translators: Colour name of an app icon: a bright yellow, like the flower. -->
@@ -2672,9 +2672,9 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <!-- Translators: Colour name of an app icon: a cream card with an olive-green play button. -->
     <string name="app_icon_olive_cream">Olive on Cream</string>
     <!-- Translators: Title of the window shown after the user picks a different app icon. -->
-    <string name="app_icon_restart_title">Restart OwnTV?</string>
+    <string name="app_icon_restart_title">Restart MeleHub?</string>
     <!-- Translators: Body of that window. The new icon and logo only appear after the app restarts. -->
-    <string name="app_icon_restart_message">You chose a new icon and logo. They take effect after OwnTV restarts.</string>
+    <string name="app_icon_restart_message">You chose a new icon and logo. They take effect after MeleHub restarts.</string>
     <!-- Translators: Button in that window: restart the app now. The other button reuses "Later". -->
     <string name="app_icon_restart_now">Restart now</string>
 </resources>

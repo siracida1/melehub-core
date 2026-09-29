@@ -49,7 +49,7 @@
     <string name="settings_dynamic">動態</string>
     <string name="settings_http_proxy">HTTP 代理伺服器</string>
     <string name="settings_use_proxy">使用代理伺服器</string>
-    <string name="settings_proxy_description">透過 HTTP 代理伺服器傳送所有 OwnTV 流量及播放內容。</string>
+    <string name="settings_proxy_description">透過 HTTP 代理伺服器傳送所有 MeleHub 流量及播放內容。</string>
     <string name="settings_host">主機</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">連接埠</string>
@@ -157,7 +157,7 @@
         <item quantity="other">剩餘 <xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g></item>
     </plurals>
     <string name="settings_metadata_active_source">目前來源</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · 無需設定</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · 無需設定</string>
     <string name="settings_metadata_connection">連線</string>
     <string name="settings_metadata_remote_advanced">取得進階 TMDB 資訊</string>
     <string name="settings_metadata_remote_advanced_description">使用你自己的 TMDB API 金鑰或自建 Worker，而不是共用的預設服務。</string>
@@ -168,8 +168,8 @@
     <string name="settings_metadata_server_label">伺服器</string>
     <string name="settings_metadata_refills_label">恢復時間</string>
     <string name="settings_metadata_clear_advanced_title">不再使用你自己的金鑰？</string>
-    <string name="settings_metadata_clear_advanced_message">你的 TMDB API 金鑰與自有伺服器位址將從此裝置刪除，OwnTV 將回到帶有每日額度的內建共用服務。</string>
-    <string name="settings_metadata_fair_share">內建中繼資料服務由所有 OwnTV 使用者共用，因此每部裝置每天都有自己的額度。用完額度後，海報與簡介會暫停顯示，直到額度恢復；播放清單自帶的資訊不受影響。加入你自己的 TMDB API 金鑰或伺服器即可解除此限制：它是免費的，而且個人金鑰幾乎沒有限制。</string>
+    <string name="settings_metadata_clear_advanced_message">你的 TMDB API 金鑰與自有伺服器位址將從此裝置刪除，MeleHub 將回到帶有每日額度的內建共用服務。</string>
+    <string name="settings_metadata_fair_share">內建中繼資料服務由所有 MeleHub 使用者共用，因此每部裝置每天都有自己的額度。用完額度後，海報與簡介會暫停顯示，直到額度恢復；播放清單自帶的資訊不受影響。加入你自己的 TMDB API 金鑰或伺服器即可解除此限制：它是免費的，而且個人金鑰幾乎沒有限制。</string>
     <string name="settings_metadata_limit_reached">今日中繼資料額度已用完 — 在「設定 → 中繼資料」中加入你自己的 TMDB 金鑰即可解除此限制。</string>
     <string name="settings_metadata_language">中繼資料語言</string>
     <string name="settings_metadata_language_description">TMDB 提供的劇情、類型與標題的語言。TMDB 未翻譯的欄位會保持英文。詳細資料會依語言分別快取，因此切換回來是立即的。</string>
@@ -313,7 +313,7 @@
     <string name="settings_network_group">網路</string>
     <string name="settings_app_group">應用程式</string>
     <string name="settings_app_startup">應用程式啟動</string>
-    <string name="settings_app_startup_description">OwnTV 啟動時開啟的內容</string>
+    <string name="settings_app_startup_description">MeleHub 啟動時開啟的內容</string>
     <string name="settings_check_updates">檢查更新</string>
     <string name="settings_check_updates_description">從 GitHub Releases 取得最新版本</string>
     <string name="settings_update_startup">啟動時檢查更新</string>
@@ -345,7 +345,7 @@
     <string name="settings_about_version">版本 <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">專屬於您的 Android TV IPTV 播放器 — 免費、開放原始碼且僅提供播放功能的應用程式。本應用程式不提供任何頻道或內容；請自行加入您可合法存取的來源。</string>
     <string name="settings_about_description_full_mobile">專屬於您的 Android IPTV 播放器 — 免費、開放原始碼且僅提供播放功能的應用程式。本應用程式不提供任何頻道或內容；請自行加入您可合法存取的來源。</string>
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3 授權條款</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3 授權條款</string>
     <string name="settings_join_telegram">加入我們的 Telegram</string>
     <string name="settings_telegram_qr">Telegram 群組 QR 圖碼</string>
     <string name="settings_telegram_scan">使用手機掃描 QR 圖碼即可加入，或開啟上方連結。</string>
@@ -585,7 +585,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles 應用程式 API 金鑰</string>
     <string name="settings_worker_server_url">Worker / 伺服器網址</string>
     <string name="settings_shared">共用</string>
-    <string name="settings_open_subtitles_access_priority">兩項都留空即使用 OwnTV 的共用 Worker。自訂 Worker 網址優先於直接填寫的 API 金鑰。帳號登入狀態仍依設定檔分別儲存。</string>
+    <string name="settings_open_subtitles_access_priority">兩項都留空即使用 MeleHub 的共用 Worker。自訂 Worker 網址優先於直接填寫的 API 金鑰。帳號登入狀態仍依設定檔分別儲存。</string>
     <string name="settings_remove_custom_access">移除自訂存取</string>
     <string name="settings_audio">音訊</string>
     <string name="settings_preferred_audio_language">偏好的音訊語言</string>
@@ -671,7 +671,7 @@
     <string name="settings_guide_synced">電視節目表已同步</string>
     <string name="settings_guide_sync_failed">電視節目表同步失敗</string>
     <string name="settings_restore_remote_title">從其他裝置還原</string>
-    <string name="settings_restore_remote_description">在連接至相同 Wi-Fi 的手機、平板或電腦上掃描 QR 圖碼（或開啟網址），輸入此 PIN，選擇您的 OwnTV 備份檔案，然後點選「傳送至電視」。接著您可在此選擇要還原的內容。</string>
+    <string name="settings_restore_remote_description">在連接至相同 Wi-Fi 的手機、平板或電腦上掃描 QR 圖碼（或開啟網址），輸入此 PIN，選擇您的 MeleHub 備份檔案，然後點選「傳送至電視」。接著您可在此選擇要還原的內容。</string>
     <string name="settings_opening_server">正在開啟伺服器…</string>
     <string name="settings_enter_pin_browser">在瀏覽器中輸入此 PIN</string>
     <string name="settings_companion_qr">輔助工具網址的 QR 圖碼</string>
@@ -697,7 +697,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">裝置</string>
     <string name="settings_catchup_player_ask">一律詢問</string>
-    <string name="settings_catchup_player_internal">OwnTV 播放器</string>
+    <string name="settings_catchup_player_internal">MeleHub 播放器</string>
     <string name="settings_catchup_player_external">外部播放器</string>
     <string name="settings_soon">即將推出</string>
     <string name="settings_download_folder_title">選擇下載資料夾</string>
@@ -827,9 +827,9 @@
     <string name="settings_sources_info">資訊</string>
     <string name="settings_sources_retest">重新測試</string>
     <string name="settings_sources_probe_title">測試此播放清單？</string>
-    <string name="settings_sources_probe_warning">許多供應商從不說明你可以同時觀看多少個頻道，因此 OwnTV 會開啟幾個頻道，看看哪些能持續播放來判斷。目前正在播放的內容會停止，此過程最多需要兩分鐘。</string>
+    <string name="settings_sources_probe_warning">許多供應商從不說明你可以同時觀看多少個頻道，因此 MeleHub 會開啟幾個頻道，看看哪些能持續播放來判斷。目前正在播放的內容會停止，此過程最多需要兩分鐘。</string>
     <string name="settings_sources_probe_running">正在檢測此供應商允許的頻道數量…（<xliff:g id="current">%1$d</xliff:g>/<xliff:g id="total">%2$d</xliff:g>）</string>
-    <string name="settings_sources_probe_unknown">OwnTV 無法判斷此供應商允許多少個頻道。</string>
+    <string name="settings_sources_probe_unknown">MeleHub 無法判斷此供應商允許多少個頻道。</string>
     <string name="settings_sources_probe_skip">略過</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">預設</string>
@@ -1067,7 +1067,7 @@
     <string name="settings_move_category_action">移動</string>
     <string name="settings_dns_description">使用自訂 DNS 伺服器進行網域查詢</string>
     <string name="settings_dns_custom">自訂 DNS</string>
-    <string name="settings_dns_toggle_description">透過自訂 DNS 伺服器解析 OwnTV 的所有網域查詢。</string>
+    <string name="settings_dns_toggle_description">透過自訂 DNS 伺服器解析 MeleHub 的所有網域查詢。</string>
     <string name="settings_dns_use_custom">使用自訂 DNS</string>
     <string name="settings_dns_server_missing">自訂 DNS 已啟用，但尚未設定伺服器。請輸入伺服器位址並選取「儲存」，或關閉此功能。</string>
     <string name="settings_dns_server">DNS 伺服器</string>
@@ -1114,7 +1114,7 @@
     <string name="settings_live_preroll">直播串流預先緩衝</string>
     <string name="settings_live_preroll_description">在直播頻道開始播放前先緩衝這個數量的影片，發生卡頓後也會再緩衝一次。這是影片量，不是倒數計時。關閉可保持最快的啟動速度。</string>
     <string name="settings_live_tune_timeout">放棄頻道的等待時間</string>
-    <string name="settings_live_tune_timeout_description">若直播頻道在此時間內仍未出現畫面，OwnTV 會停止嘗試並告知你，而不是一邊逐一試遍所有播放器、一邊留著黑畫面。選擇「永不」會一直嘗試，在供應商已下架的頻道上可能遠超過一分鐘。供應商自己要求的等待時間不計入其中。</string>
+    <string name="settings_live_tune_timeout_description">若直播頻道在此時間內仍未出現畫面，MeleHub 會停止嘗試並告知你，而不是一邊逐一試遍所有播放器、一邊留著黑畫面。選擇「永不」會一直嘗試，在供應商已下架的頻道上可能遠超過一分鐘。供應商自己要求的等待時間不計入其中。</string>
     <string name="settings_live_preroll_per_playlist">各播放清單的預先緩衝</string>
     <string name="settings_live_preroll_per_playlist_description">為某個播放清單覆寫上述設定，同時讓其他播放清單保持快速啟動。</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1139,7 +1139,7 @@
     <string name="settings_surround_auto_description_mobile">自動 — 嘗試播放 Dolby/DTS 環繞音效，如果揚聲器、耳機或連接的接收器無法播放，就會自動切回立體聲。建議使用。</string>
     <string name="settings_surround_stereo_description">僅立體聲 — 一律在應用程式內解碼，並傳送純 2.0 音效。電視喇叭或立體聲 Soundbar 請使用此選項；若聲音比畫面慢，也請使用此選項。</string>
     <string name="settings_surround_stereo_description_mobile">僅立體聲 — 一律在應用程式內解碼，並傳送純 2.0 音效。內建揚聲器、耳機或立體聲 Soundbar 請使用此選項；若聲音比畫面慢，也請使用此選項。</string>
-    <string name="settings_surround_forced_description">環繞音效 — 將 Dolby/DTS 傳送至實體的 5.1/7.1 環繞擴大機。如果出現無聲或卡頓，OwnTV 仍會自動切回立體聲並通知你。</string>
+    <string name="settings_surround_forced_description">環繞音效 — 將 Dolby/DTS 傳送至實體的 5.1/7.1 環繞擴大機。如果出現無聲或卡頓，MeleHub 仍會自動切回立體聲並通知你。</string>
     <string name="settings_panel_width">面板寬度調整</string>
     <string name="settings_panel_width_description">在直播電視、電影與影集中調整分類、清單和預覽面板的大小。</string>
     <string name="settings_vod_layout">電影與影集版面</string>
@@ -1181,9 +1181,9 @@
     <string name="settings_panel_width_preview_panel"><xliff:g id="label">%1$s</xliff:g> 面板</string>
     <string name="settings_panel_width_total">總大小</string>
     <string name="settings_panel_width_invalid_total">總大小為 <xliff:g id="total">%1$d</xliff:g>%%。必須是 100%%，請調整。</string>
-    <string name="settings_language_help_translate">協助將 OwnTV 翻譯成你的語言</string>
-    <string name="settings_language_contribution_description">掃描 QR Code 或開啟連結，即可選擇任何可用語言，並在 OwnTV 全部六個翻譯元件中貢獻翻譯。</string>
-    <string name="settings_language_contribution_qr_description">OwnTV 翻譯專案總覽的 QR Code</string>
+    <string name="settings_language_help_translate">協助將 MeleHub 翻譯成你的語言</string>
+    <string name="settings_language_contribution_description">掃描 QR Code 或開啟連結，即可選擇任何可用語言，並在 MeleHub 全部六個翻譯元件中貢獻翻譯。</string>
+    <string name="settings_language_contribution_qr_description">MeleHub 翻譯專案總覽的 QR Code</string>
     <string name="settings_language_contribution_qr_failed">無法產生 QR Code。請改用下方顯示的連結。</string>
     <string name="settings_language_contribution_copy">複製連結</string>
     <string name="settings_language_contribution_copied">已複製連結</string>
@@ -1192,8 +1192,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">不建議在此電視上使用：在 Android 12 以下，更新率無法平滑切換。</string>
     <string name="settings_auto_frame_rate_warning_title">不建議在此電視上使用</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">不建議在此裝置上使用</string>
-    <string name="settings_auto_frame_rate_warning_description">此裝置執行的是 Android <xliff:g id="android_version">%1$s</xliff:g>。在 Android 12 以下，電視無法告知 OwnTV 它可以順暢切換到哪些更新率，因此切換更新率可能會讓畫面變黑一兩秒——有時在節目播放期間還會發生不只一次。\n\n我們建議在此保持自動更新率關閉。如果你的電視切換得很順暢，不妨開啟試試看：你隨時都可以改回來。</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">此裝置執行的是 Android <xliff:g id="android_version">%1$s</xliff:g>。在 Android 12 以下，裝置無法告知 OwnTV 它可以順暢切換到哪些更新率，因此切換更新率可能會讓畫面變黑一兩秒——有時在節目播放期間還會發生不只一次。\n\n我們建議在此保持自動更新率關閉。如果你的螢幕切換得很順暢，不妨開啟試試看：你隨時都可以改回來。</string>
+    <string name="settings_auto_frame_rate_warning_description">此裝置執行的是 Android <xliff:g id="android_version">%1$s</xliff:g>。在 Android 12 以下，電視無法告知 MeleHub 它可以順暢切換到哪些更新率，因此切換更新率可能會讓畫面變黑一兩秒——有時在節目播放期間還會發生不只一次。\n\n我們建議在此保持自動更新率關閉。如果你的電視切換得很順暢，不妨開啟試試看：你隨時都可以改回來。</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">此裝置執行的是 Android <xliff:g id="android_version">%1$s</xliff:g>。在 Android 12 以下，裝置無法告知 MeleHub 它可以順暢切換到哪些更新率，因此切換更新率可能會讓畫面變黑一兩秒——有時在節目播放期間還會發生不只一次。\n\n我們建議在此保持自動更新率關閉。如果你的螢幕切換得很順暢，不妨開啟試試看：你隨時都可以改回來。</string>
     <string name="settings_auto_frame_rate_keep_off">保持關閉</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">仍要開啟</string>
     <string name="settings_language_request_workflow">想要新增未列出的語言嗎？請先提出語言請求。維護者會註冊該語言並準備基礎翻譯檔案；一旦它出現在 Hosted Weblate 上，你就可以開始貢獻。</string>
@@ -1389,7 +1389,7 @@
     <string name="local_sync_received_items">已接收的項目: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">你的資料已傳送</string>
     <string name="local_sync_failed">同步失敗</string>
-    <string name="local_sync_error_unreachable">無法連線到該裝置。請在那部裝置上開啟 OwnTV → 設定 → 資料 → 本機同步，並開啟同步模式。兩部裝置必須連線同一個 Wi-Fi。</string>
+    <string name="local_sync_error_unreachable">無法連線到該裝置。請在那部裝置上開啟 MeleHub → 設定 → 資料 → 本機同步，並開啟同步模式。兩部裝置必須連線同一個 Wi-Fi。</string>
     <string name="local_sync_error_unauthorized">另一部裝置拒絕了連線。可能是 PIN 碼不對，或它已忘記本機。</string>
     <string name="local_sync_error_bad_payload">無法讀取收到的內容。如果使用了密碼，請確認兩部裝置上的密碼相同。</string>
     <string name="local_sync_error_unknown">發生問題，請再試一次。</string>
@@ -1430,7 +1430,7 @@
     <string name="settings_multiview_keep_two">保持 2 個</string>
     <string name="settings_multiview_use_anyway">仍要使用</string>
     <string name="settings_app_icon">應用程式圖示</string>
-    <string name="settings_app_icon_summary">OwnTV 圖示和標誌的顏色</string>
+    <string name="settings_app_icon_summary">MeleHub 圖示和標誌的顏色</string>
     <string name="app_icon_petrol">石油藍</string>
     <string name="app_icon_sunflower">向日葵</string>
     <string name="app_icon_cobalt">鈷藍</string>
@@ -1439,7 +1439,7 @@
     <string name="app_icon_eggshell">蛋殼白</string>
     <string name="app_icon_olive">橄欖綠</string>
     <string name="app_icon_olive_cream">奶油橄欖綠</string>
-    <string name="app_icon_restart_title">要重新啟動 OwnTV 嗎？</string>
-    <string name="app_icon_restart_message">你選擇了新的圖示和標誌，重新啟動 OwnTV 後生效。</string>
+    <string name="app_icon_restart_title">要重新啟動 MeleHub 嗎？</string>
+    <string name="app_icon_restart_message">你選擇了新的圖示和標誌，重新啟動 MeleHub 後生效。</string>
     <string name="app_icon_restart_now">立即重新啟動</string>
 </resources>

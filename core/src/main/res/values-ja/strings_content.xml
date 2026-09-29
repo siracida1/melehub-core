@@ -30,7 +30,7 @@
     <string name="content_genre_scifi">SF</string>
     <string name="content_genre_series">シリーズ</string>
     <string name="content_genre_sport">スポーツ</string>
-    <string name="content_exit_owntv">OwnTVを終了しますか？</string>
+    <string name="content_exit_owntv">MeleHubを終了しますか？</string>
     <string name="content_exit_confirmation">アプリを終了してもよろしいですか？</string>
     <string name="content_restore_incomplete_title">復元が完了しませんでした</string>
     <string name="content_restore_incomplete_message"><xliff:g id="description">%1$s</xliff:g>の復元中にアプリが終了したため、一部が復元されていない可能性があります。何も削除されていません — 残りを復元するには、設定 → バックアップと復元から同じ復元をもう一度実行してください。</string>
@@ -215,7 +215,7 @@
     <string name="content_storage_choose_folder">別のフォルダーを選択…</string>
     <string name="content_storage_chosen_folder">選択したフォルダー</string>
     <string name="content_storage_folder_lost">そのフォルダーは利用できなくなりました。もう一度選択するか、別のフォルダーを選んでください。</string>
-    <string name="content_storage_folder_fallback">ダウンロードフォルダーは現在利用できません。戻るまで、ダウンロードは OwnTV 専用のフォルダーに保存されます。</string>
+    <string name="content_storage_folder_fallback">ダウンロードフォルダーは現在利用できません。戻るまで、ダウンロードは MeleHub 専用のフォルダーに保存されます。</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g>をダウンロード済み</string>
     <string name="content_downloads_failure_message">ダウンロードに失敗しました — ソースに接続できませんでした。「再試行」を押してください。</string>
     <string name="content_downloads_queued">キュー待ち…</string>
@@ -312,7 +312,7 @@
     <string name="content_epg_favourite">お気に入りに追加</string>
     <string name="content_epg_unfavourite">お気に入りから削除</string>
     <string name="content_epg_player_choice_description">設定 › 見逃し配信で常に使用するプレーヤーを設定できます。</string>
-    <string name="content_epg_own_player">OwnTVプレーヤー</string>
+    <string name="content_epg_own_player">MeleHubプレーヤー</string>
     <string name="content_epg_external_player">外部プレーヤー</string>
     <string name="content_epg_time_offset">EPG時間オフセット</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>分</string>

@@ -33,16 +33,16 @@
     <string name="setup_display_size_description">화면과 글자의 크기를 설정하세요. 둘 다 나중에 설정에서 바꿀 수 있습니다.</string>
     <string name="setup_display_size_preview">앉은 자리에서 이 문장이 편하게 읽힌다면 크기가 알맞습니다.</string>
     <string name="setup_before_you_start">시작하기 전에</string>
-    <string name="setup_disclaimer">OwnTV는 미디어 플레이어일 뿐이며 채널, 플레이리스트 또는 콘텐츠가 포함되어 있지 않습니다. 합법적으로 이용할 수 있는 Xtream, M3U 또는 Stalker 소스를 직접 추가할 책임은 사용자에게 있습니다.</string>
+    <string name="setup_disclaimer">MeleHub는 미디어 플레이어일 뿐이며 채널, 플레이리스트 또는 콘텐츠가 포함되어 있지 않습니다. 합법적으로 이용할 수 있는 Xtream, M3U 또는 Stalker 소스를 직접 추가할 책임은 사용자에게 있습니다.</string>
     <string name="setup_i_understand">이해했습니다</string>
-    <string name="setup_set_up_owntv">OwnTV 설정</string>
+    <string name="setup_set_up_owntv">MeleHub 설정</string>
     <string name="setup_setup_choice_description">새로 시작하거나 백업 파일 또는 다른 기기에서 프로필, 플레이리스트 및 즐겨찾기를 복원하세요.</string>
     <string name="setup_new_profile">새 프로필</string>
     <string name="setup_create_profile_add_sources">프로필을 만들고 소스 추가</string>
     <string name="setup_restore_backup">백업 복원</string>
     <string name="setup_import_profiles_playlists">파일에서 프로필 및 플레이리스트 가져오기</string>
     <string name="setup_sync_device">다른 기기에서</string>
-    <string name="setup_sync_device_description">Wi‑Fi로 다른 OwnTV 기기에서 모든 항목을 복사합니다</string>
+    <string name="setup_sync_device_description">Wi‑Fi로 다른 MeleHub 기기에서 모든 항목을 복사합니다</string>
     <string name="setup_add_playlist">플레이리스트 추가</string>
     <string name="setup_add_playlist_description">이 프로필에 소스를 추가하거나 나중에 설정하세요.</string>
     <string name="setup_new">새로 만들기</string>
@@ -104,7 +104,7 @@
     <string name="setup_edit_source">소스 편집</string>
     <string name="setup_add_your_source">내 소스 추가</string>
     <string name="setup_edit_source_description">이 소스의 세부 정보를 업데이트하거나 자동 새로 고침 설정을 변경하세요.</string>
-    <string name="setup_byo_source_description">OwnTV는 플레이어입니다. 사용할 Xtream, M3U 또는 Stalker 소스를 직접 추가하세요.</string>
+    <string name="setup_byo_source_description">MeleHub는 플레이어입니다. 사용할 Xtream, M3U 또는 Stalker 소스를 직접 추가하세요.</string>
     <string name="setup_xtream">Xtream</string>
     <string name="setup_m3u">M3U / M3U8</string>
     <string name="setup_stalker_mac">Stalker (MAC)</string>
@@ -164,7 +164,7 @@
     <string name="setup_mag254">MAG254</string>
     <string name="setup_mag270">MAG270</string>
     <string name="setup_mag420">MAG420</string>
-    <string name="companion_pin_page_title">OwnTV — PIN 입력</string>
+    <string name="companion_pin_page_title">MeleHub — PIN 입력</string>
     <string name="companion_pin_heading">PIN 입력</string>
     <string name="companion_pin_description">계속하려면 TV에 표시된 6자리 PIN을 입력하세요.</string>
     <string name="companion_pin_placeholder">••••••</string>
@@ -186,14 +186,14 @@
     <string name="companion_open_subtitles_description">TV에서 사용할 OpenSubtitles에 로그인하세요. 직접 준비한 API 정보가 있을 때만 아래에 입력하세요.</string>
     <string name="companion_service_config_sent">연결 정보가 TV에서 대기 중입니다. TV에서 확인하고 저장하세요.</string>
     <string name="companion_service_config_again">다른 연결 정보 보내기</string>
-    <string name="companion_add_page_title">OwnTV — 소스 추가</string>
+    <string name="companion_add_page_title">MeleHub — 소스 추가</string>
     <string name="companion_add_heading">소스 추가</string>
     <string name="companion_add_description">소스 하나의 정보를 입력하고 보내기를 누르세요. TV에 표시되면 준비가 되었을 때 리모컨을 들고 TV에서 가져오기 시작을 누르세요.</string>
     <string name="companion_default_playlist">기본 플레이리스트</string>
     <string name="companion_send_to_tv">TV로 보내기</string>
     <string name="companion_sync_xtream_hint">동기화할 항목 — 지금은 먼저 가져오고, 나중에는 백그라운드에서 동기화하며, 끔은 데이터를 가져오지 않습니다.</string>
     <string name="companion_sync_stalker_hint">동기화할 항목 — 실시간 TV의 기본값은 지금이며, 영화/시리즈의 기본값은 나중에입니다(Stalker VOD는 느림).</string>
-    <string name="companion_saved_page_title">OwnTV — 전송 완료</string>
+    <string name="companion_saved_page_title">MeleHub — 전송 완료</string>
     <string name="companion_saved_heading">TV로 전송했습니다 ✓</string>
     <string name="companion_saved_source_body"><xliff:g id="name">%1$s</xliff:g>이(가) 이제 TV의 소스 추가 화면에 표시됩니다. 해당 화면에서 세부 정보를 확인하고 리모컨으로 가져오기 시작을 누르세요.</string>
     <string name="companion_saved_send_another">다른 소스 보내기</string>
@@ -201,9 +201,9 @@
     <string name="companion_saved_backup_link">다른 파일 보내기</string>
     <string name="companion_saved_image_body">이미지가 이제 TV 배경으로 설정되었습니다.</string>
     <string name="companion_saved_image_link">다른 이미지 보내기</string>
-    <string name="companion_backup_page_title">OwnTV — 백업 복원</string>
+    <string name="companion_backup_page_title">MeleHub — 백업 복원</string>
     <string name="companion_backup_heading">백업 복원</string>
-    <string name="companion_backup_description">OwnTV 백업 파일(.own 또는 이전 형식의 .json)을 선택하고 보내기를 누르세요. 파일이 TV로 전송되면 리모컨을 들고 TV에서 복원할 항목을 선택하세요.</string>
+    <string name="companion_backup_description">MeleHub 백업 파일(.own 또는 이전 형식의 .json)을 선택하고 보내기를 누르세요. 파일이 TV로 전송되면 리모컨을 들고 TV에서 복원할 항목을 선택하세요.</string>
     <string name="companion_backup_file">백업 파일</string>
     <string name="companion_choose_backup">먼저 백업 파일을 선택하세요.</string>
     <string name="companion_playlist_file">또는 재생목록 파일 업로드</string>
@@ -212,15 +212,15 @@
     <string name="companion_upload_failed">업로드에 실패했습니다(HTTP <xliff:g id="status">%1$d</xliff:g>). PIN을 확인하고 다시 시도하세요.</string>
     <string name="companion_could_not_reach">TV에 연결할 수 없습니다. 동일한 Wi-Fi에 연결된 상태에서 다시 시도하세요.</string>
     <string name="companion_could_not_read">해당 파일을 읽을 수 없습니다.</string>
-    <string name="companion_image_page_title">OwnTV — 배경 이미지</string>
+    <string name="companion_image_page_title">MeleHub — 배경 이미지</string>
     <string name="companion_image_heading">배경 이미지 보내기</string>
     <string name="companion_image_description">사진(JPG, PNG 또는 WebP)을 선택하고 보내기를 누르세요. 사진이 TV 인터페이스 뒤의 배경 이미지로 설정됩니다.</string>
     <string name="companion_image_file">이미지 파일</string>
     <string name="companion_choose_image">먼저 이미지를 선택하세요.</string>
     <string name="companion_image_too_large">이미지가 너무 큽니다(최대 25 MB).</string>
-    <string name="companion_download_page_title">OwnTV — 백업 다운로드</string>
+    <string name="companion_download_page_title">MeleHub — 백업 다운로드</string>
     <string name="companion_download_heading">백업 다운로드</string>
-    <string name="companion_download_description">TV에서 OwnTV 백업 파일을 준비했습니다. 버튼을 눌러 이 기기에 저장하세요(owntv-backup.own). 안전한 곳에 보관하세요. 나중에 이 파일로 복원할 수 있습니다.</string>
+    <string name="companion_download_description">TV에서 MeleHub 백업 파일을 준비했습니다. 버튼을 눌러 이 기기에 저장하세요(owntv-backup.own). 안전한 곳에 보관하세요. 나중에 이 파일로 복원할 수 있습니다.</string>
     <string name="companion_download_backup">백업 다운로드</string>
     <string name="companion_error_bad_request">잘못된 요청</string>
     <string name="companion_error_body_too_large">요청 본문이 너무 큽니다.</string>
@@ -262,6 +262,6 @@
     <string name="setup_stalker_device_id2_optional">기기 ID2(선택 사항)</string>
     <string name="setup_stalker_signature_optional">서명(선택 사항)</string>
     <string name="companion_error_pair_failed">이 기기와 페어링할 수 없습니다.</string>
-    <string name="local_sync_browser_title">OwnTV 로컬 동기화</string>
-    <string name="local_sync_browser_body">이 주소는 다른 기기의 OwnTV 앱을 위한 것입니다. 그쪽에서 로컬 동기화를 열고 목록에서 이 기기를 선택하세요.</string>
+    <string name="local_sync_browser_title">MeleHub 로컬 동기화</string>
+    <string name="local_sync_browser_body">이 주소는 다른 기기의 MeleHub 앱을 위한 것입니다. 그쪽에서 로컬 동기화를 열고 목록에서 이 기기를 선택하세요.</string>
 </resources>

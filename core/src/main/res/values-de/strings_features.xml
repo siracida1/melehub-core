@@ -128,8 +128,8 @@
     <string name="update_not_enough_space">Nicht genügend freier Speicher für das Update. Gib etwa <xliff:g id="size">%1$s</xliff:g> frei und versuche es erneut.</string>
     <string name="update_damaged_download">Das Update wurde nicht vollständig heruntergeladen. Prüfe deine Verbindung und versuche es erneut.</string>
     <string name="update_install_rejected">Das Installationsprogramm des Systems hat das Update abgelehnt: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> ist bereit (du verwendest v<xliff:g id="current">%2$s</xliff:g>).</string>
-    <string name="recovery_title">OwnTV konnte seine Datenbank nicht öffnen</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> ist bereit (du verwendest v<xliff:g id="current">%2$s</xliff:g>).</string>
+    <string name="recovery_title">MeleHub konnte seine Datenbank nicht öffnen</string>
     <string name="recovery_data_safe_full">Ihre Profile, Wiedergabelisten, Favoriten und Ihr Wiedergabeverlauf wurden NICHT gelöscht — das Upgrade der Datenbank ist fehlgeschlagen, und die Daten befinden sich weiterhin auf diesem Gerät.\n\nBitte melden Sie dies, damit der Fehler behoben werden kann, und fügen Sie die nachstehende Meldung bei.</string>
     <string name="recovery_retry">Erneut versuchen</string>
     <string name="recovery_backup_hint">Wenn du eine Sicherungsdatei hast, kannst du die App zurücksetzen und sie anschließend wiederherstellen. Beim Zurücksetzen werden alle auf diesem Gerät gespeicherten Daten gelöscht.</string>
@@ -219,13 +219,13 @@
     <string name="settings_recording_pre_roll_description">So lange vor der angegebenen Startzeit beginnen, damit auch ein etwas vorlaufender Guide den Anfang erwischt.</string>
     <string name="settings_recording_post_roll">Nach dem Ende weiterlaufen</string>
     <string name="settings_recording_post_roll_description">So lange über die angegebene Endzeit hinaus weiterlaufen, damit eine überziehende Sendung nicht abgeschnitten wird.</string>
-    <string name="settings_recording_timers_inexact">Dieses Gerät erlaubt OwnTV keine exakten Wecker, daher kann eine Aufnahme einige Minuten später beginnen. Aufnahmen starten früher, um das auszugleichen.</string>
+    <string name="settings_recording_timers_inexact">Dieses Gerät erlaubt MeleHub keine exakten Wecker, daher kann eine Aufnahme einige Minuten später beginnen. Aufnahmen starten früher, um das auszugleichen.</string>
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> Minute</item>
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> Minuten</item>
     </plurals>
     <string name="recording_failed_encrypted">Dieser Sender ist verschlüsselt und kann nicht aufgenommen werden</string>
-    <string name="recording_failed_drm">Dieser Sender ist DRM-geschützt und kann daher angesehen, aber nicht aufgenommen werden. Der Schutz stammt von Ihrem Anbieter, nicht von OwnTV.</string>
+    <string name="recording_failed_drm">Dieser Sender ist DRM-geschützt und kann daher angesehen, aber nicht aufgenommen werden. Der Schutz stammt von Ihrem Anbieter, nicht von MeleHub.</string>
     <string name="recording_failed_metered">Nicht über mobile Daten aufgenommen</string>
     <string name="settings_recording_mobile_data">Über mobile Daten aufnehmen</string>
     <string name="settings_recording_mobile_data_description">Aus: eine Aufnahme, die fällig wird, während du nicht im WLAN bist, wird übersprungen statt zu warten — eine Sendung läuft nicht noch einmal.</string>

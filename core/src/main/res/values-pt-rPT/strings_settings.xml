@@ -49,7 +49,7 @@
     <string name="settings_dynamic">Dinâmico</string>
     <string name="settings_http_proxy">Proxy HTTP</string>
     <string name="settings_use_proxy">Utilizar proxy</string>
-    <string name="settings_proxy_description">Encaminhar todo o tráfego e a reprodução do OwnTV através de um proxy HTTP.</string>
+    <string name="settings_proxy_description">Encaminhar todo o tráfego e a reprodução do MeleHub através de um proxy HTTP.</string>
     <string name="settings_host">Anfitrião</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">Porta</string>
@@ -159,7 +159,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> restantes</item>
     </plurals>
     <string name="settings_metadata_active_source">Fonte ativa</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · sem configuração</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · sem configuração</string>
     <string name="settings_metadata_connection">Ligação</string>
     <string name="settings_metadata_remote_advanced">Obter dados avançados do TMDB</string>
     <string name="settings_metadata_remote_advanced_description">Use a sua própria chave de API do TMDB ou um Worker alojado por si em vez do serviço partilhado predefinido.</string>
@@ -170,8 +170,8 @@
     <string name="settings_metadata_server_label">Servidor</string>
     <string name="settings_metadata_refills_label">Renova às</string>
     <string name="settings_metadata_clear_advanced_title">Parar de utilizar a sua chave?</string>
-    <string name="settings_metadata_clear_advanced_message">A sua chave da API do TMDB e o endereço do seu servidor serão eliminados deste dispositivo, e o OwnTV voltará ao serviço partilhado integrado com a sua parte diária.</string>
-    <string name="settings_metadata_fair_share">O serviço de metadados integrado é partilhado por todos os utilizadores do OwnTV, pelo que cada dispositivo recebe a sua própria parte por dia. Se esgotar a sua parte, os cartazes e as descrições ficam em pausa até ser renovada — a informação da sua própria playlist continua a funcionar normalmente. Adicionar a sua própria chave da API do TMDB ou o seu servidor remove o limite: é gratuito e uma chave pessoal praticamente não tem limite.</string>
+    <string name="settings_metadata_clear_advanced_message">A sua chave da API do TMDB e o endereço do seu servidor serão eliminados deste dispositivo, e o MeleHub voltará ao serviço partilhado integrado com a sua parte diária.</string>
+    <string name="settings_metadata_fair_share">O serviço de metadados integrado é partilhado por todos os utilizadores do MeleHub, pelo que cada dispositivo recebe a sua própria parte por dia. Se esgotar a sua parte, os cartazes e as descrições ficam em pausa até ser renovada — a informação da sua própria playlist continua a funcionar normalmente. Adicionar a sua própria chave da API do TMDB ou o seu servidor remove o limite: é gratuito e uma chave pessoal praticamente não tem limite.</string>
     <string name="settings_metadata_limit_reached">A sua parte diária de metadados esgotou — adicione a sua própria chave do TMDB em Definições → Metadados para remover este limite.</string>
     <string name="settings_metadata_language">Idioma dos metadados</string>
     <string name="settings_metadata_language_description">Idioma das sinopses, géneros e títulos do TMDB. Os campos que o TMDB não traduziu permanecem em inglês. Os detalhes ficam em cache por idioma, pelo que voltar atrás é instantâneo.</string>
@@ -317,7 +317,7 @@
     <string name="settings_network_group">Rede</string>
     <string name="settings_app_group">Aplicação</string>
     <string name="settings_app_startup">Arranque da aplicação</string>
-    <string name="settings_app_startup_description">O que o OwnTV abre ao iniciar</string>
+    <string name="settings_app_startup_description">O que o MeleHub abre ao iniciar</string>
     <string name="settings_check_updates">Procurar atualizações</string>
     <string name="settings_check_updates_description">Obter a versão mais recente através do GitHub Releases</string>
     <string name="settings_update_startup">Procurar atualizações ao iniciar</string>
@@ -349,7 +349,7 @@
     <string name="settings_about_version">Versão <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">O seu próprio leitor de IPTV para Android TV — uma aplicação gratuita, de código aberto e exclusivamente de reprodução. Não fornece canais nem conteúdos; cabe-lhe adicionar origens às quais possa aceder legalmente.</string>
     <string name="settings_about_description_full_mobile">O seu próprio leitor de IPTV para Android — uma aplicação gratuita, de código aberto e exclusivamente de reprodução. Não fornece canais nem conteúdos; cabe-lhe adicionar origens às quais possa aceder legalmente.</string>
-    <string name="settings_about_license">© 2026 OwnTV · Licença GPLv3</string>
+    <string name="settings_about_license">© 2026 MeleHub · Licença GPLv3</string>
     <string name="settings_join_telegram">Junte-se a nós no Telegram</string>
     <string name="settings_telegram_qr">Código QR do grupo do Telegram</string>
     <string name="settings_telegram_scan">Digitalize o código QR para aderir através do telemóvel ou abra a ligação acima.</string>
@@ -589,7 +589,7 @@
     <string name="settings_open_subtitles_api_key">Chave de API de aplicação do OpenSubtitles</string>
     <string name="settings_worker_server_url">URL do Worker / servidor</string>
     <string name="settings_shared">Partilhado</string>
-    <string name="settings_open_subtitles_access_priority">Deixe ambos em branco para utilizar o Worker partilhado do OwnTV. Um URL de Worker próprio tem prioridade sobre uma chave de API direta. As sessões da conta continuam específicas de cada perfil.</string>
+    <string name="settings_open_subtitles_access_priority">Deixe ambos em branco para utilizar o Worker partilhado do MeleHub. Um URL de Worker próprio tem prioridade sobre uma chave de API direta. As sessões da conta continuam específicas de cada perfil.</string>
     <string name="settings_remove_custom_access">Remover acesso personalizado</string>
     <string name="settings_audio">Áudio</string>
     <string name="settings_preferred_audio_language">Idioma de áudio preferido</string>
@@ -677,7 +677,7 @@
     <string name="settings_guide_synced">Guia de programação sincronizado</string>
     <string name="settings_guide_sync_failed">Falha ao sincronizar o guia de programação</string>
     <string name="settings_restore_remote_title">Restaurar a partir de outro dispositivo</string>
-    <string name="settings_restore_remote_description">Num telemóvel, tablet ou computador ligado à mesma rede Wi-Fi, leia o código QR (ou abra o URL), introduza este PIN, escolha o ficheiro da cópia de segurança do OwnTV e toque em Enviar para a TV. Depois, escolha aqui o que pretende restaurar.</string>
+    <string name="settings_restore_remote_description">Num telemóvel, tablet ou computador ligado à mesma rede Wi-Fi, leia o código QR (ou abra o URL), introduza este PIN, escolha o ficheiro da cópia de segurança do MeleHub e toque em Enviar para a TV. Depois, escolha aqui o que pretende restaurar.</string>
     <string name="settings_opening_server">A iniciar o servidor…</string>
     <string name="settings_enter_pin_browser">Introduza este PIN no navegador</string>
     <string name="settings_companion_qr">Código QR do URL da página complementar</string>
@@ -705,7 +705,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">Dispositivo</string>
     <string name="settings_catchup_player_ask">Perguntar sempre</string>
-    <string name="settings_catchup_player_internal">Leitor do OwnTV</string>
+    <string name="settings_catchup_player_internal">Leitor do MeleHub</string>
     <string name="settings_catchup_player_external">Leitor externo</string>
     <string name="settings_soon">EM BREVE</string>
     <string name="settings_download_folder_title">Escolher a pasta de transferências</string>
@@ -839,9 +839,9 @@
     <string name="settings_sources_info">Informações</string>
     <string name="settings_sources_retest">Testar de novo</string>
     <string name="settings_sources_probe_title">Testar esta lista?</string>
-    <string name="settings_sources_probe_warning">Muitos fornecedores nunca indicam quantos canais pode ver em simultâneo, por isso o OwnTV descobre abrindo alguns e vendo quais resistem. Tudo o que estiver a ser reproduzido vai parar, e isto pode demorar até dois minutos.</string>
+    <string name="settings_sources_probe_warning">Muitos fornecedores nunca indicam quantos canais pode ver em simultâneo, por isso o MeleHub descobre abrindo alguns e vendo quais resistem. Tudo o que estiver a ser reproduzido vai parar, e isto pode demorar até dois minutos.</string>
     <string name="settings_sources_probe_running">A verificar quantos canais este fornecedor permite… (<xliff:g id="current">%1$d</xliff:g> de <xliff:g id="total">%2$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">O OwnTV não conseguiu apurar quantos canais este fornecedor permite.</string>
+    <string name="settings_sources_probe_unknown">O MeleHub não conseguiu apurar quantos canais este fornecedor permite.</string>
     <string name="settings_sources_probe_skip">Ignorar</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">PREDEFINIDA</string>
@@ -1105,7 +1105,7 @@
     <string name="settings_move_category_action">Mover</string>
     <string name="settings_dns_description">Utilizar um servidor DNS personalizado para resolver domínios</string>
     <string name="settings_dns_custom">DNS personalizado</string>
-    <string name="settings_dns_toggle_description">Resolver todos os domínios do OwnTV através de um servidor DNS personalizado.</string>
+    <string name="settings_dns_toggle_description">Resolver todos os domínios do MeleHub através de um servidor DNS personalizado.</string>
     <string name="settings_dns_use_custom">Utilizar DNS personalizado</string>
     <string name="settings_dns_server_missing">O DNS personalizado está ativado, mas não está configurado nenhum servidor. Introduza o endereço de um servidor e selecione Guardar, ou desative esta opção.</string>
     <string name="settings_dns_server">Servidor DNS</string>
@@ -1152,7 +1152,7 @@
     <string name="settings_live_preroll">Pré-buffer de transmissões em direto</string>
     <string name="settings_live_preroll_description">Guarda esta quantidade de vídeo antes de um canal em direto começar a reproduzir e novamente após um gaguejo. É uma quantidade de vídeo, não uma contagem decrescente. Desligado mantém o início mais rápido possível.</string>
     <string name="settings_live_tune_timeout">Desistir de um canal após</string>
-    <string name="settings_live_tune_timeout_description">Se um canal em direto não mostrar imagem até esse tempo, o OwnTV deixa de tentar e avisa-o, em vez de deixar um ecrã preto enquanto percorre todos os seus reprodutores. «Nunca» continua a tentar, o que num canal que o seu fornecedor removeu pode demorar bastante mais de um minuto. As esperas pedidas pelo fornecedor não são contadas.</string>
+    <string name="settings_live_tune_timeout_description">Se um canal em direto não mostrar imagem até esse tempo, o MeleHub deixa de tentar e avisa-o, em vez de deixar um ecrã preto enquanto percorre todos os seus reprodutores. «Nunca» continua a tentar, o que num canal que o seu fornecedor removeu pode demorar bastante mais de um minuto. As esperas pedidas pelo fornecedor não são contadas.</string>
     <string name="settings_live_preroll_per_playlist">Pré-buffer por lista de reprodução</string>
     <string name="settings_live_preroll_per_playlist_description">Substitua a definição acima para uma lista de reprodução, mantendo as suas outras listas de reprodução rápidas.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1179,7 +1179,7 @@
     <string name="settings_surround_auto_description_mobile">Automático — experimente o surround Dolby/DTS e volte ao estéreo automaticamente se o altifalante, os auscultadores ou o recetor ligado não o reproduzirem. Recomendado.</string>
     <string name="settings_surround_stereo_description">Apenas estéreo — descodifica sempre na aplicação e envia som 2.0 simples. Utilize isto em altifalantes da TV ou numa soundbar estéreo, ou se o áudio estiver atrasado em relação à imagem.</string>
     <string name="settings_surround_stereo_description_mobile">Apenas estéreo — descodifica sempre na aplicação e envia som 2.0 simples. Utilize isto com o altifalante integrado, auscultadores ou uma soundbar estéreo, ou se o áudio estiver atrasado em relação à imagem.</string>
-    <string name="settings_surround_forced_description">Surround — envia Dolby/DTS para um recetor 5.1/7.1 verdadeiro. Se ficar em silêncio ou gaguejar, a OwnTV volta ao estéreo e avisa-o.</string>
+    <string name="settings_surround_forced_description">Surround — envia Dolby/DTS para um recetor 5.1/7.1 verdadeiro. Se ficar em silêncio ou gaguejar, a MeleHub volta ao estéreo e avisa-o.</string>
     <string name="settings_panel_width">Ajuste da largura dos painéis</string>
     <string name="settings_panel_width_description">Redimensione os painéis de categoria, lista e pré-visualização na TV em direto, Filmes e Séries.</string>
     <string name="settings_vod_layout">Esquema de Filmes e Séries</string>
@@ -1221,9 +1221,9 @@
     <string name="settings_panel_width_preview_panel">Painel de <xliff:g id="label">%1$s</xliff:g></string>
     <string name="settings_panel_width_total">Tamanho total</string>
     <string name="settings_panel_width_invalid_total">O tamanho total é <xliff:g id="total">%1$d</xliff:g>%%. Tem de perfazer 100%% — ajuste, por favor.</string>
-    <string name="settings_language_help_translate">Ajude a traduzir a OwnTV para o seu idioma</string>
-    <string name="settings_language_contribution_description">Leia o código QR ou abra a ligação para escolher qualquer idioma disponível e contribua nos seis componentes de tradução da OwnTV.</string>
-    <string name="settings_language_contribution_qr_description">Código QR para a visão geral do projeto de tradução da OwnTV</string>
+    <string name="settings_language_help_translate">Ajude a traduzir a MeleHub para o seu idioma</string>
+    <string name="settings_language_contribution_description">Leia o código QR ou abra a ligação para escolher qualquer idioma disponível e contribua nos seis componentes de tradução da MeleHub.</string>
+    <string name="settings_language_contribution_qr_description">Código QR para a visão geral do projeto de tradução da MeleHub</string>
     <string name="settings_language_contribution_qr_failed">Não foi possível gerar o código QR. Utilize antes a ligação apresentada abaixo.</string>
     <string name="settings_language_contribution_copy">Copiar ligação</string>
     <string name="settings_language_contribution_copied">Ligação copiada</string>
@@ -1232,8 +1232,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">Não recomendado nesta TV: abaixo do Android 12, a taxa não pode ser alterada sem problemas.</string>
     <string name="settings_auto_frame_rate_warning_title">Não recomendado nesta TV</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">Não recomendado neste dispositivo</string>
-    <string name="settings_auto_frame_rate_warning_description">Este dispositivo está a executar Android <xliff:g id="android_version">%1$s</xliff:g>. Abaixo do Android 12, a TV não consegue indicar ao OwnTV as taxas de atualização para as quais pode alternar sem problemas, portanto alterar a taxa pode fazer com que o ecrã fique preto durante um ou dois segundos — por vezes mais do que uma vez durante um programa.\n\nRecomendamos que deixe a Taxa de fotogramas automática desativada aqui. Se a sua TV alternar sem problemas, ative-a e veja: pode voltar a alterá-la a qualquer altura.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">Este dispositivo está a executar Android <xliff:g id="android_version">%1$s</xliff:g>. Abaixo do Android 12, o dispositivo não consegue indicar ao OwnTV as taxas de atualização para as quais pode alternar sem problemas, portanto alterar a taxa pode fazer com que o ecrã fique preto durante um ou dois segundos — por vezes mais do que uma vez durante um programa.\n\nRecomendamos que deixe a Taxa de fotogramas automática desativada aqui. Se o seu ecrã alternar sem problemas, ative-a e veja: pode voltar a alterá-la a qualquer altura.</string>
+    <string name="settings_auto_frame_rate_warning_description">Este dispositivo está a executar Android <xliff:g id="android_version">%1$s</xliff:g>. Abaixo do Android 12, a TV não consegue indicar ao MeleHub as taxas de atualização para as quais pode alternar sem problemas, portanto alterar a taxa pode fazer com que o ecrã fique preto durante um ou dois segundos — por vezes mais do que uma vez durante um programa.\n\nRecomendamos que deixe a Taxa de fotogramas automática desativada aqui. Se a sua TV alternar sem problemas, ative-a e veja: pode voltar a alterá-la a qualquer altura.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">Este dispositivo está a executar Android <xliff:g id="android_version">%1$s</xliff:g>. Abaixo do Android 12, o dispositivo não consegue indicar ao MeleHub as taxas de atualização para as quais pode alternar sem problemas, portanto alterar a taxa pode fazer com que o ecrã fique preto durante um ou dois segundos — por vezes mais do que uma vez durante um programa.\n\nRecomendamos que deixe a Taxa de fotogramas automática desativada aqui. Se o seu ecrã alternar sem problemas, ative-a e veja: pode voltar a alterá-la a qualquer altura.</string>
     <string name="settings_auto_frame_rate_keep_off">Manter desativada</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">Ativar na mesma</string>
     <string name="settings_language_request_workflow">Queres adicionar um idioma que não está listado? Abre primeiro um pedido de idioma. Um mantenedor irá registá-lo e preparar os ficheiros de tradução base; assim que aparecer no Hosted Weblate, podes começar a contribuir.</string>
@@ -1435,7 +1435,7 @@
     <string name="local_sync_received_items">Itens recebidos: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">Os seus dados foram enviados</string>
     <string name="local_sync_failed">A sincronização falhou</string>
-    <string name="local_sync_error_unreachable">Não foi possível contactar este dispositivo. Nele, abra OwnTV → Definições → Dados → Sincronização local e ligue o Modo de sincronização. Ambos têm de estar na mesma rede Wi-Fi.</string>
+    <string name="local_sync_error_unreachable">Não foi possível contactar este dispositivo. Nele, abra MeleHub → Definições → Dados → Sincronização local e ligue o Modo de sincronização. Ambos têm de estar na mesma rede Wi-Fi.</string>
     <string name="local_sync_error_unauthorized">O outro dispositivo recusou. O PIN pode estar errado ou pode ter esquecido este dispositivo.</string>
     <string name="local_sync_error_bad_payload">Não foi possível ler o que chegou. Se usou uma palavra-passe, verifique se é a mesma nos dois dispositivos.</string>
     <string name="local_sync_error_unknown">Algo correu mal. Tente novamente.</string>
@@ -1476,7 +1476,7 @@
     <string name="settings_multiview_keep_two">Manter 2</string>
     <string name="settings_multiview_use_anyway">Usar mesmo assim</string>
     <string name="settings_app_icon">Ícone da aplicação</string>
-    <string name="settings_app_icon_summary">Cor do ícone e do logótipo do OwnTV</string>
+    <string name="settings_app_icon_summary">Cor do ícone e do logótipo do MeleHub</string>
     <string name="app_icon_petrol">Petróleo</string>
     <string name="app_icon_sunflower">Girassol</string>
     <string name="app_icon_cobalt">Cobalto</string>
@@ -1485,7 +1485,7 @@
     <string name="app_icon_eggshell">Casca de ovo</string>
     <string name="app_icon_olive">Oliva</string>
     <string name="app_icon_olive_cream">Oliva sobre creme</string>
-    <string name="app_icon_restart_title">Reiniciar o OwnTV?</string>
-    <string name="app_icon_restart_message">Escolheu um novo ícone e logótipo. Serão aplicados quando o OwnTV reiniciar.</string>
+    <string name="app_icon_restart_title">Reiniciar o MeleHub?</string>
+    <string name="app_icon_restart_message">Escolheu um novo ícone e logótipo. Serão aplicados quando o MeleHub reiniciar.</string>
     <string name="app_icon_restart_now">Reiniciar agora</string>
 </resources>

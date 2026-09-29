@@ -124,8 +124,8 @@
     <string name="update_not_enough_space">存储空间不足，无法更新。请释放约 <xliff:g id="size">%1$s</xliff:g> 后重试。</string>
     <string name="update_damaged_download">更新未完整下载。请检查网络连接后重试。</string>
     <string name="update_install_rejected">系统安装程序拒绝了此更新：<xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g> 已准备就绪（当前版本为 v<xliff:g id="current">%2$s</xliff:g>）。</string>
-    <string name="recovery_title">OwnTV 无法打开其数据库</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g> 已准备就绪（当前版本为 v<xliff:g id="current">%2$s</xliff:g>）。</string>
+    <string name="recovery_title">MeleHub 无法打开其数据库</string>
     <string name="recovery_data_safe_full">您的用户档案、播放列表、收藏夹和观看记录并未被删除——这是数据库升级失败，数据仍保存在此设备上。\n\n请报告此问题，以便修复，并附上下方的消息。</string>
     <string name="recovery_retry">重试</string>
     <string name="recovery_backup_hint">如果您有备份文件，可以重置应用，然后再从备份恢复。重置会删除存储在此设备上的所有内容。</string>
@@ -211,12 +211,12 @@
     <string name="settings_recording_pre_roll_description">在指定开始时间之前这么久开始，这样即使指南略微提前也不会错过开头。</string>
     <string name="settings_recording_post_roll">结束后继续</string>
     <string name="settings_recording_post_roll_description">在指定结束时间之后继续这么久，这样超时的节目不会被截断。</string>
-    <string name="settings_recording_timers_inexact">本设备不允许 OwnTV 设置精确闹钟，因此录制可能会晚几分钟开始。录制会提前启动以作弥补。</string>
+    <string name="settings_recording_timers_inexact">本设备不允许 MeleHub 设置精确闹钟，因此录制可能会晚几分钟开始。录制会提前启动以作弥补。</string>
     <plurals name="recording_minutes">
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> 分钟</item>
     </plurals>
     <string name="recording_failed_encrypted">该频道已加密，无法录制</string>
-    <string name="recording_failed_drm">此频道受 DRM 保护，可以观看但无法录制。该保护来自您的服务商，而非 OwnTV。</string>
+    <string name="recording_failed_drm">此频道受 DRM 保护，可以观看但无法录制。该保护来自您的服务商，而非 MeleHub。</string>
     <string name="recording_failed_metered">未通过移动数据录制</string>
     <string name="settings_recording_mobile_data">使用移动数据录制</string>
     <string name="settings_recording_mobile_data_description">关闭后，不在 Wi-Fi 下到点的录制会被跳过而不是等待——直播节目不会重来。</string>

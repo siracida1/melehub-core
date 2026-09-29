@@ -38,7 +38,7 @@
     <string name="content_genre_scifi">Ficção científica</string>
     <string name="content_genre_series">Séries</string>
     <string name="content_genre_sport">Desporto</string>
-    <string name="content_exit_owntv">Sair da OwnTV?</string>
+    <string name="content_exit_owntv">Sair da MeleHub?</string>
     <string name="content_exit_confirmation">Tem a certeza de que pretende fechar a aplicação?</string>
     <string name="content_restore_incomplete_title">Um restauro não foi concluído</string>
     <string name="content_restore_incomplete_message">A aplicação fechou enquanto restaurava <xliff:g id="description">%1$s</xliff:g>, pelo que parte do conteúdo poderá estar em falta. Nada foi eliminado — execute novamente o mesmo restauro em Definições → Cópia de segurança e restauro para repor o restante.</string>
@@ -229,7 +229,7 @@
     <string name="content_storage_choose_folder">Escolher outra pasta…</string>
     <string name="content_storage_chosen_folder">Pasta escolhida</string>
     <string name="content_storage_folder_lost">Essa pasta já não está disponível. Escolha-a novamente ou selecione outra.</string>
-    <string name="content_storage_folder_fallback">A sua pasta de transferências não está disponível de momento, por isso as transferências estão a ser guardadas na pasta do OwnTV até ela voltar.</string>
+    <string name="content_storage_folder_fallback">A sua pasta de transferências não está disponível de momento, por isso as transferências estão a ser guardadas na pasta do MeleHub até ela voltar.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> transferidos</string>
     <string name="content_downloads_failure_message">A transferência falhou — não foi possível aceder à origem. Prima Tentar novamente.</string>
     <string name="content_downloads_queued">Em fila…</string>
@@ -340,7 +340,7 @@
     <string name="content_epg_favourite">Adicionar aos favoritos</string>
     <string name="content_epg_unfavourite">Remover dos favoritos</string>
     <string name="content_epg_player_choice_description">Defina uma escolha permanente em Definições › Programas em diferido.</string>
-    <string name="content_epg_own_player">Leitor OwnTV</string>
+    <string name="content_epg_own_player">Leitor MeleHub</string>
     <string name="content_epg_external_player">Leitor externo</string>
     <string name="content_epg_time_offset">Desvio de tempo do EPG</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>m</string>

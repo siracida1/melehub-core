@@ -42,7 +42,7 @@
     <string name="content_genre_scifi">Фантастика</string>
     <string name="content_genre_series">Сериалы</string>
     <string name="content_genre_sport">Спорт</string>
-    <string name="content_exit_owntv">Выйти из OwnTV?</string>
+    <string name="content_exit_owntv">Выйти из MeleHub?</string>
     <string name="content_exit_confirmation">Закрыть приложение?</string>
     <string name="content_restore_incomplete_title">Восстановление не завершено</string>
     <string name="content_restore_incomplete_message">Приложение закрылось во время восстановления <xliff:g id="description">%1$s</xliff:g>, поэтому часть данных могла не восстановиться. Ничего не было удалено — снова запустите то же восстановление в разделе «Настройки → Резервное копирование и восстановление», чтобы восстановить остальное.</string>
@@ -236,7 +236,7 @@
     <string name="content_storage_choose_folder">Выбрать другую папку…</string>
     <string name="content_storage_chosen_folder">Выбранная папка</string>
     <string name="content_storage_folder_lost">Эта папка больше недоступна. Выберите её снова или укажите другую.</string>
-    <string name="content_storage_folder_fallback">Папка загрузок сейчас недоступна, поэтому загрузки сохраняются в собственную папку OwnTV, пока она не вернётся.</string>
+    <string name="content_storage_folder_fallback">Папка загрузок сейчас недоступна, поэтому загрузки сохраняются в собственную папку MeleHub, пока она не вернётся.</string>
     <string name="content_downloads_completed">Скачано <xliff:g id="size">%1$s</xliff:g></string>
     <string name="content_downloads_failure_message">Ошибка загрузки — не удалось подключиться к источнику. Нажмите «Повторить».</string>
     <string name="content_downloads_queued">В очереди…</string>
@@ -354,7 +354,7 @@
     <string name="content_epg_favourite">В избранное</string>
     <string name="content_epg_unfavourite">Удалить из избранного</string>
     <string name="content_epg_player_choice_description">Выберите постоянный вариант в разделе «Настройки › Архив».</string>
-    <string name="content_epg_own_player">Плеер OwnTV</string>
+    <string name="content_epg_own_player">Плеер MeleHub</string>
     <string name="content_epg_external_player">Внешний плеер</string>
     <string name="content_epg_time_offset">Смещение времени EPG</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>мин</string>

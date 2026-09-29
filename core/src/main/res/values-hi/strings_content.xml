@@ -34,7 +34,7 @@
     <string name="content_genre_scifi">विज्ञान-कथा</string>
     <string name="content_genre_series">सीरीज़</string>
     <string name="content_genre_sport">खेल</string>
-    <string name="content_exit_owntv">OwnTV से बाहर निकलें?</string>
+    <string name="content_exit_owntv">MeleHub से बाहर निकलें?</string>
     <string name="content_exit_confirmation">क्या आप वाकई ऐप बंद करना चाहते हैं?</string>
     <string name="content_restore_incomplete_title">रीस्टोर पूरा नहीं हुआ</string>
     <string name="content_restore_incomplete_message"><xliff:g id="description">%1$s</xliff:g> को रीस्टोर करते समय ऐप बंद हो गया, इसलिए इसका कुछ हिस्सा गायब हो सकता है। कुछ भी हटाया नहीं गया — बाकी हिस्सा पूरा करने के लिए सेटिंग → बैकअप और रीस्टोर से वही रीस्टोर फिर से चलाएँ।</string>
@@ -222,7 +222,7 @@
     <string name="content_storage_choose_folder">दूसरा फ़ोल्डर चुनें…</string>
     <string name="content_storage_chosen_folder">चुना गया फ़ोल्डर</string>
     <string name="content_storage_folder_lost">वह फ़ोल्डर अब उपलब्ध नहीं है. उसे दोबारा चुनें या कोई दूसरा चुनें.</string>
-    <string name="content_storage_folder_fallback">आपका डाउनलोड फ़ोल्डर अभी उपलब्ध नहीं है, इसलिए उसके वापस आने तक डाउनलोड OwnTV के अपने फ़ोल्डर में सहेजे जा रहे हैं।</string>
+    <string name="content_storage_folder_fallback">आपका डाउनलोड फ़ोल्डर अभी उपलब्ध नहीं है, इसलिए उसके वापस आने तक डाउनलोड MeleHub के अपने फ़ोल्डर में सहेजे जा रहे हैं।</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> डाउनलोड किया गया</string>
     <string name="content_downloads_failure_message">डाउनलोड विफल हुआ — स्रोत तक नहीं पहुँचा जा सका। फिर से कोशिश करें पर टैप करें।</string>
     <string name="content_downloads_queued">कतार में…</string>
@@ -326,7 +326,7 @@
     <string name="content_epg_favourite">पसंदीदा बनाएँ</string>
     <string name="content_epg_unfavourite">पसंदीदा से हटाएँ</string>
     <string name="content_epg_player_choice_description">सेटिंग › कैच-अप में स्थायी विकल्प सेट करें।</string>
-    <string name="content_epg_own_player">OwnTV प्लेयर</string>
+    <string name="content_epg_own_player">MeleHub प्लेयर</string>
     <string name="content_epg_external_player">बाहरी प्लेयर</string>
     <string name="content_epg_time_offset">EPG समय ऑफ़सेट</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g> मिनट</string>

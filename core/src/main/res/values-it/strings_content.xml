@@ -38,7 +38,7 @@
     <string name="content_genre_scifi">Fantascienza</string>
     <string name="content_genre_series">Serie</string>
     <string name="content_genre_sport">Sport</string>
-    <string name="content_exit_owntv">Uscire da OwnTV?</string>
+    <string name="content_exit_owntv">Uscire da MeleHub?</string>
     <string name="content_exit_confirmation">Vuoi davvero chiudere l\'app?</string>
     <string name="content_restore_incomplete_title">Un ripristino non è stato completato</string>
     <string name="content_restore_incomplete_message">L\'app si è chiusa durante il ripristino di <xliff:g id="description">%1$s</xliff:g>, quindi alcuni dati potrebbero mancare. Non è stato eliminato nulla — esegui di nuovo lo stesso ripristino da Impostazioni → Backup e ripristino per completare il resto.</string>
@@ -229,7 +229,7 @@
     <string name="content_storage_choose_folder">Scegli un’altra cartella…</string>
     <string name="content_storage_chosen_folder">Cartella scelta</string>
     <string name="content_storage_folder_lost">Quella cartella non è più disponibile. Scegliela di nuovo o selezionane un’altra.</string>
-    <string name="content_storage_folder_fallback">La cartella dei download non è disponibile al momento, quindi i download vengono salvati nella cartella di OwnTV finché non torna disponibile.</string>
+    <string name="content_storage_folder_fallback">La cartella dei download non è disponibile al momento, quindi i download vengono salvati nella cartella di MeleHub finché non torna disponibile.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> scaricati</string>
     <string name="content_downloads_failure_message">Download non riuscito — impossibile raggiungere la fonte. Tocca Riprova.</string>
     <string name="content_downloads_queued">In coda…</string>
@@ -340,7 +340,7 @@
     <string name="content_epg_favourite">Aggiungi ai preferiti</string>
     <string name="content_epg_unfavourite">Rimuovi dai preferiti</string>
     <string name="content_epg_player_choice_description">Imposta una scelta permanente in Impostazioni › Visione in differita.</string>
-    <string name="content_epg_own_player">Player OwnTV</string>
+    <string name="content_epg_own_player">Player MeleHub</string>
     <string name="content_epg_external_player">Player esterno</string>
     <string name="content_epg_time_offset">Offset orario EPG</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>min</string>

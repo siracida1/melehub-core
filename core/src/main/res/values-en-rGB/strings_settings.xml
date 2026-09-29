@@ -110,7 +110,7 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="local_sync_received_items">Items received: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">Your data was sent</string>
     <string name="local_sync_failed">Sync failed</string>
-    <string name="local_sync_error_unreachable">This device could not be reached. On it, open OwnTV → Settings → Data → Local sync and turn Sync mode on. Both devices must be on the same Wi-Fi.</string>
+    <string name="local_sync_error_unreachable">This device could not be reached. On it, open MeleHub → Settings → Data → Local sync and turn Sync mode on. Both devices must be on the same Wi-Fi.</string>
     <string name="local_sync_error_unauthorized">The other device refused. The PIN may be wrong, or it may have forgotten this device.</string>
     <string name="local_sync_error_bad_payload">What arrived could not be read. If you used a password, check it is the same on both devices.</string>
     <string name="local_sync_error_unknown">Something went wrong. Try again.</string>
@@ -124,7 +124,7 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="local_sync_device_with_code"><xliff:g id="name">%1$s</xliff:g> (<xliff:g id="code">%2$s</xliff:g>)</string>
     <string name="more_spine_about_summary">Version and licence</string>
     <string name="settings_app_icon">App icon</string>
-    <string name="settings_app_icon_summary">Colour of the OwnTV icon and logo</string>
+    <string name="settings_app_icon_summary">Colour of the MeleHub icon and logo</string>
     <string name="app_icon_petrol">Petrol</string>
     <string name="app_icon_sunflower">Sunflower</string>
     <string name="app_icon_cobalt">Cobalt</string>
@@ -133,8 +133,8 @@ Resync and remove missing titles also allows removing titles the provider no lon
     <string name="app_icon_eggshell">Eggshell</string>
     <string name="app_icon_olive">Olive</string>
     <string name="app_icon_olive_cream">Olive on Cream</string>
-    <string name="app_icon_restart_title">Restart OwnTV?</string>
-    <string name="app_icon_restart_message">You chose a new icon and logo. They take effect after OwnTV restarts.</string>
+    <string name="app_icon_restart_title">Restart MeleHub?</string>
+    <string name="app_icon_restart_message">You chose a new icon and logo. They take effect after MeleHub restarts.</string>
     <string name="app_icon_restart_now">Restart now</string>
     <string name="settings_audio_passthrough_description">On: Dolby and DTS go undecoded to the TV, soundbar or receiver when it says it can play them (ExoPlayer). Off: the app decodes them, still as surround where Surround sound allows. mpv always decodes. Not used while Night mode or Volume levelling is on.</string>
     <string name="settings_audio_passthrough_description_mobile">On: Dolby and DTS go undecoded to a connected TV or receiver when it says it can play them (ExoPlayer). Off: the app decodes them, still as surround where Surround sound allows. mpv always decodes. Not used while Night mode or Volume levelling is on.</string>

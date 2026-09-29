@@ -34,7 +34,7 @@
     <string name="content_genre_scifi">Science fiction</string>
     <string name="content_genre_series">Serier</string>
     <string name="content_genre_sport">Sport</string>
-    <string name="content_exit_owntv">Avslutt OwnTV?</string>
+    <string name="content_exit_owntv">Avslutt MeleHub?</string>
     <string name="content_exit_confirmation">Er du sikker på at du vil lukke appen?</string>
     <string name="content_restore_incomplete_title">En gjenoppretting ble ikke fullført</string>
     <string name="content_restore_incomplete_message">Appen ble lukket under gjenopprettingen av <xliff:g id="description">%1$s</xliff:g>, så noe av dette kan mangle. Ingenting ble slettet — kjør den samme gjenopprettingen på nytt fra Innstillinger → Sikkerhetskopi og gjenoppretting for å hente inn resten.</string>
@@ -222,7 +222,7 @@
     <string name="content_storage_choose_folder">Velg en annen mappe…</string>
     <string name="content_storage_chosen_folder">Valgt mappe</string>
     <string name="content_storage_folder_lost">Den mappen er ikke lenger tilgjengelig. Velg den på nytt, eller velg en annen.</string>
-    <string name="content_storage_folder_fallback">Nedlastingsmappen er ikke tilgjengelig akkurat nå, så nedlastinger lagres i OwnTVs egen mappe til den er tilbake.</string>
+    <string name="content_storage_folder_fallback">Nedlastingsmappen er ikke tilgjengelig akkurat nå, så nedlastinger lagres i MeleHubs egen mappe til den er tilbake.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> lastet ned</string>
     <string name="content_downloads_failure_message">Nedlastingen mislyktes — kunne ikke nå kilden. Trykk på Prøv igjen.</string>
     <string name="content_downloads_queued">I kø…</string>
@@ -326,7 +326,7 @@
     <string name="content_epg_favourite">Legg til som favoritt</string>
     <string name="content_epg_unfavourite">Fjern som favoritt</string>
     <string name="content_epg_player_choice_description">Angi et permanent valg under Innstillinger › Arkiv.</string>
-    <string name="content_epg_own_player">OwnTV-avspiller</string>
+    <string name="content_epg_own_player">MeleHub-avspiller</string>
     <string name="content_epg_external_player">Ekstern avspiller</string>
     <string name="content_epg_time_offset">EPG-tidsforskyvning</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>min</string>

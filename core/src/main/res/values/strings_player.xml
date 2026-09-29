@@ -494,7 +494,7 @@
     <string name="player_stream_live_buffer">Live buffer</string>
     <!-- Translators: The TV or receiver decodes the compressed audio stream. -->
     <string name="player_stream_audio_passthrough">passthrough (TV/receiver decodes)</string>
-    <!-- Translators: OwnTV decodes audio before sending it to the output device. -->
+    <!-- Translators: MeleHub decodes audio before sending it to the output device. -->
     <string name="player_stream_audio_decoded_in_app">decoded in app</string>
     <!-- Translators: PCM audio-output description. "channels" is a localized channel layout such as stereo or 5.1. -->
     <string name="player_stream_audio_pcm"><xliff:g id="channels">%1$s</xliff:g> PCM</string>
@@ -569,7 +569,7 @@
     <!-- Translators: Shown when a recording is refused because the last connection is kept for watching. -->
     <string name="multiview_refused_reserved">One connection is kept free so you can keep watching. Change that in Settings to record on every connection.</string>
     <!-- Translators: Shown when the playlist never said how many streams it allows. -->
-    <string name="multiview_unknown_connections">OwnTV could not tell how many streams this playlist allows. If a tile fails, that is why.</string>
+    <string name="multiview_unknown_connections">MeleHub could not tell how many streams this playlist allows. If a tile fails, that is why.</string>
     <!-- Translators: Shown on a tile the device has no video decoder left for. -->
     <string name="multiview_decoder_exhausted">This TV can\'t decode another channel at the same time.</string>
     <!-- Translators: Phone/tablet wording of multiview_decoder_exhausted. -->

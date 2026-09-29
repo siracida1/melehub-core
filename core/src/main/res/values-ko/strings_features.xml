@@ -124,8 +124,8 @@
     <string name="update_not_enough_space">업데이트를 저장할 공간이 부족합니다. 약 <xliff:g id="size">%1$s</xliff:g>를 확보한 후 다시 시도하세요.</string>
     <string name="update_damaged_download">업데이트가 완전히 다운로드되지 않았습니다. 연결을 확인한 후 다시 시도하세요.</string>
     <string name="update_install_rejected">시스템 설치 프로그램이 업데이트를 거부했습니다: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">OwnTV v<xliff:g id="available">%1$s</xliff:g>을 설치할 준비가 되었습니다(현재 v<xliff:g id="current">%2$s</xliff:g>).</string>
-    <string name="recovery_title">OwnTV에서 데이터베이스를 열 수 없습니다</string>
+    <string name="update_ready">MeleHub v<xliff:g id="available">%1$s</xliff:g>을 설치할 준비가 되었습니다(현재 v<xliff:g id="current">%2$s</xliff:g>).</string>
+    <string name="recovery_title">MeleHub에서 데이터베이스를 열 수 없습니다</string>
     <string name="recovery_data_safe_full">프로필, 플레이리스트, 즐겨찾기 및 시청 기록은 삭제되지 않았습니다 — 이는 데이터베이스 업그레이드 실패이며 데이터는 여전히 이 기기에 있습니다.\n\n문제를 해결할 수 있도록 이를 신고하고 아래 메시지를 포함해 주세요.</string>
     <string name="recovery_retry">다시 시도</string>
     <string name="recovery_backup_hint">백업 파일이 있다면 앱을 초기화한 후 복원할 수 있습니다. 초기화하면 이 기기에 저장된 모든 항목이 삭제됩니다.</string>
@@ -211,12 +211,12 @@
     <string name="settings_recording_pre_roll_description">표시된 시작 시각보다 이만큼 먼저 시작해, 편성표가 조금 빨라도 시작 부분을 놓치지 않습니다.</string>
     <string name="settings_recording_post_roll">종료 후에도 계속</string>
     <string name="settings_recording_post_roll_description">표시된 종료 시각보다 이만큼 더 계속해, 늘어진 방송이 잘리지 않도록 합니다.</string>
-    <string name="settings_recording_timers_inexact">이 기기는 OwnTV가 정확한 알람을 설정하도록 허용하지 않아 녹화가 몇 분 늦게 시작될 수 있습니다. 이를 보완하려고 더 일찍 시작합니다.</string>
+    <string name="settings_recording_timers_inexact">이 기기는 MeleHub가 정확한 알람을 설정하도록 허용하지 않아 녹화가 몇 분 늦게 시작될 수 있습니다. 이를 보완하려고 더 일찍 시작합니다.</string>
     <plurals name="recording_minutes">
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g>분</item>
     </plurals>
     <string name="recording_failed_encrypted">이 채널은 암호화되어 있어 녹화할 수 없습니다</string>
-    <string name="recording_failed_drm">이 채널은 DRM으로 보호되어 있어 시청은 가능하지만 녹화할 수 없습니다. 이 보호는 OwnTV가 아니라 제공업체에서 적용한 것입니다.</string>
+    <string name="recording_failed_drm">이 채널은 DRM으로 보호되어 있어 시청은 가능하지만 녹화할 수 없습니다. 이 보호는 MeleHub가 아니라 제공업체에서 적용한 것입니다.</string>
     <string name="recording_failed_metered">모바일 데이터로 녹화하지 않음</string>
     <string name="settings_recording_mobile_data">모바일 데이터로 녹화</string>
     <string name="settings_recording_mobile_data_description">끄면 Wi-Fi가 아닐 때 시작될 녹화는 기다리지 않고 건너뜁니다. 생방송은 다시 오지 않습니다.</string>

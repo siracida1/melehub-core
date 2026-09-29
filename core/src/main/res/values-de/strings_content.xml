@@ -34,7 +34,7 @@
     <string name="content_genre_scifi">Science-Fiction</string>
     <string name="content_genre_series">Serien</string>
     <string name="content_genre_sport">Sport</string>
-    <string name="content_exit_owntv">OwnTV beenden?</string>
+    <string name="content_exit_owntv">MeleHub beenden?</string>
     <string name="content_exit_confirmation">Möchtest du die App wirklich schließen?</string>
     <string name="content_restore_incomplete_title">Eine Wiederherstellung wurde nicht abgeschlossen</string>
     <string name="content_restore_incomplete_message">Die App wurde geschlossen, während <xliff:g id="description">%1$s</xliff:g> wiederhergestellt wurde, daher fehlt möglicherweise ein Teil davon. Nichts wurde gelöscht — führen Sie dieselbe Wiederherstellung über Einstellungen → Sicherung &amp; Wiederherstellen erneut aus, um den Rest zu ergänzen.</string>
@@ -222,7 +222,7 @@
     <string name="content_storage_choose_folder">Anderen Ordner wählen…</string>
     <string name="content_storage_chosen_folder">Gewählter Ordner</string>
     <string name="content_storage_folder_lost">Dieser Ordner ist nicht mehr verfügbar. Wähle ihn erneut oder wähle einen anderen.</string>
-    <string name="content_storage_folder_fallback">Dein Download-Ordner ist gerade nicht verfügbar. Downloads werden deshalb im eigenen Ordner von OwnTV gespeichert, bis er wieder da ist.</string>
+    <string name="content_storage_folder_fallback">Dein Download-Ordner ist gerade nicht verfügbar. Downloads werden deshalb im eigenen Ordner von MeleHub gespeichert, bis er wieder da ist.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> heruntergeladen</string>
     <string name="content_downloads_failure_message">Download fehlgeschlagen — die Quelle war nicht erreichbar. Wähle Erneut versuchen.</string>
     <string name="content_downloads_queued">In Warteschlange…</string>
@@ -326,7 +326,7 @@
     <string name="content_epg_favourite">Favorit</string>
     <string name="content_epg_unfavourite">Aus Favoriten entfernen</string>
     <string name="content_epg_player_choice_description">Lege unter Einstellungen › Catch-up eine dauerhafte Auswahl fest.</string>
-    <string name="content_epg_own_player">OwnTV-Player</string>
+    <string name="content_epg_own_player">MeleHub-Player</string>
     <string name="content_epg_external_player">Externer Player</string>
     <string name="content_epg_time_offset">EPG-Zeitversatz</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>m</string>

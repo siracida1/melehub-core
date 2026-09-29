@@ -128,8 +128,8 @@
     <string name="update_not_enough_space">Nincs elég szabad hely a frissítéshez. Szabadíts fel körülbelül <xliff:g id="size">%1$s</xliff:g> helyet, és próbáld újra.</string>
     <string name="update_damaged_download">A frissítés nem töltődött le teljesen. Ellenőrizd a kapcsolatot, és próbáld újra.</string>
     <string name="update_install_rejected">A rendszer telepítője elutasította a frissítést: <xliff:g id="reason">%1$s</xliff:g></string>
-    <string name="update_ready">Az OwnTV v<xliff:g id="available">%1$s</xliff:g> készen áll (jelenleg a v<xliff:g id="current">%2$s</xliff:g> fut).</string>
-    <string name="recovery_title">Az OwnTV nem tudta megnyitni az adatbázisát</string>
+    <string name="update_ready">Az MeleHub v<xliff:g id="available">%1$s</xliff:g> készen áll (jelenleg a v<xliff:g id="current">%2$s</xliff:g> fut).</string>
+    <string name="recovery_title">Az MeleHub nem tudta megnyitni az adatbázisát</string>
     <string name="recovery_data_safe_full">A profiljaid, lejátszási listáid, kedvenceid és előzményeid NEM törlődtek — az adatbázis frissítése hiúsult meg, az adatok továbbra is ezen az eszközön vannak.\n\nKérjük, jelentsd ezt, hogy javíthassuk a hibát, és csatold az alábbi üzenetet.</string>
     <string name="recovery_retry">Újra</string>
     <string name="recovery_backup_hint">Ha van biztonsági mentésed, visszaállíthatod az alkalmazást alaphelyzetbe, majd visszatöltheted a mentést. A visszaállítás minden, ezen az eszközön tárolt adatot töröl.</string>
@@ -219,13 +219,13 @@
     <string name="settings_recording_pre_roll_description">Ennyivel a megadott kezdés előtt induljon, hogy egy kissé siető műsorújság se vágja le az elejét.</string>
     <string name="settings_recording_post_roll">Folytatás a vége után</string>
     <string name="settings_recording_post_roll_description">Ennyivel a megadott befejezés után folytassa, hogy egy elhúzódó műsor ne szakadjon félbe.</string>
-    <string name="settings_recording_timers_inexact">Ez az eszköz nem engedi az OwnTV-nek a pontos ébresztők beállítását, ezért egy felvétel néhány perccel később indulhat. A felvételek emiatt korábban kezdődnek.</string>
+    <string name="settings_recording_timers_inexact">Ez az eszköz nem engedi az MeleHub-nek a pontos ébresztők beállítását, ezért egy felvétel néhány perccel később indulhat. A felvételek emiatt korábban kezdődnek.</string>
     <plurals name="recording_minutes">
         <item quantity="one"><xliff:g id="count">%1$d</xliff:g> perc</item>
         <item quantity="other"><xliff:g id="count">%1$d</xliff:g> perc</item>
     </plurals>
     <string name="recording_failed_encrypted">Ez a csatorna titkosított, nem rögzíthető</string>
-    <string name="recording_failed_drm">Ez a csatorna DRM-védett, ezért megnézhető, de nem rögzíthető. A védelmet a szolgáltatója alkalmazza, nem az OwnTV.</string>
+    <string name="recording_failed_drm">Ez a csatorna DRM-védett, ezért megnézhető, de nem rögzíthető. A védelmet a szolgáltatója alkalmazza, nem az MeleHub.</string>
     <string name="recording_failed_metered">Nem készült felvétel mobiladaton</string>
     <string name="settings_recording_mobile_data">Felvétel mobiladaton</string>
     <string name="settings_recording_mobile_data_description">Kikapcsolva: a Wi-Fi-n kívülre eső felvétel kimarad ahelyett, hogy várna — egy élő műsor nem jön vissza.</string>

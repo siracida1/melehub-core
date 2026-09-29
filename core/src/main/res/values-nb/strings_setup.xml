@@ -33,16 +33,16 @@
     <string name="setup_display_size_description">Velg størrelsen på grensesnittet og teksten. Du kan endre begge senere i Innstillinger.</string>
     <string name="setup_display_size_preview">Hvis du leser dette uten anstrengelse fra plassen din, er størrelsen riktig.</string>
     <string name="setup_before_you_start">Før du begynner</string>
-    <string name="setup_disclaimer">OwnTV er bare en medieavspiller. Appen inneholder ingen kanaler, spillelister eller noe innhold. Du er selv ansvarlig for å legge til egne Xtream-, M3U- eller Stalker-kilder som du har lovlig tilgang til.</string>
+    <string name="setup_disclaimer">MeleHub er bare en medieavspiller. Appen inneholder ingen kanaler, spillelister eller noe innhold. Du er selv ansvarlig for å legge til egne Xtream-, M3U- eller Stalker-kilder som du har lovlig tilgang til.</string>
     <string name="setup_i_understand">Jeg forstår</string>
-    <string name="setup_set_up_owntv">Konfigurer OwnTV</string>
+    <string name="setup_set_up_owntv">Konfigurer MeleHub</string>
     <string name="setup_setup_choice_description">Start fra bunnen av, eller hent tilbake profiler, spillelister og favoritter fra en sikkerhetskopifil eller en annen enhet.</string>
     <string name="setup_new_profile">Ny profil</string>
     <string name="setup_create_profile_add_sources">Opprett en profil og legg til kilder</string>
     <string name="setup_restore_backup">Gjenopprett sikkerhetskopi</string>
     <string name="setup_import_profiles_playlists">Importer profiler og spillelister fra en fil</string>
     <string name="setup_sync_device">Fra en annen enhet</string>
-    <string name="setup_sync_device_description">Kopier alt fra den andre OwnTV-enheten din over Wi-Fi</string>
+    <string name="setup_sync_device_description">Kopier alt fra den andre MeleHub-enheten din over Wi-Fi</string>
     <string name="setup_add_playlist">Legg til en spilleliste</string>
     <string name="setup_add_playlist_description">Legg til en kilde for denne profilen, eller konfigurer en senere.</string>
     <string name="setup_new">Ny</string>
@@ -107,7 +107,7 @@
     <string name="setup_edit_source">Rediger kilde</string>
     <string name="setup_add_your_source">Legg til kilden din</string>
     <string name="setup_edit_source_description">Oppdater opplysningene for denne kilden, eller endre innstillingen for automatisk oppdatering.</string>
-    <string name="setup_byo_source_description">OwnTV er en avspiller – bruk din egen Xtream-, M3U- eller Stalker-kilde.</string>
+    <string name="setup_byo_source_description">MeleHub er en avspiller – bruk din egen Xtream-, M3U- eller Stalker-kilde.</string>
     <string name="setup_xtream">Xtream</string>
     <string name="setup_m3u">M3U / M3U8</string>
     <string name="setup_stalker_mac">Stalker (MAC)</string>
@@ -167,7 +167,7 @@
     <string name="setup_mag254">MAG254</string>
     <string name="setup_mag270">MAG270</string>
     <string name="setup_mag420">MAG420</string>
-    <string name="companion_pin_page_title">OwnTV – skriv inn PIN-kode</string>
+    <string name="companion_pin_page_title">MeleHub – skriv inn PIN-kode</string>
     <string name="companion_pin_heading">Skriv inn PIN-koden</string>
     <string name="companion_pin_description">Skriv inn den sekssifrede PIN-koden som vises på TV-en, for å fortsette.</string>
     <string name="companion_pin_placeholder">••••••</string>
@@ -189,14 +189,14 @@
     <string name="companion_open_subtitles_description">Logg inn på OpenSubtitles for TV-en din. Legg bare inn egne API-opplysninger nedenfor hvis du har dem.</string>
     <string name="companion_service_config_sent">Tilkoblingsopplysningene venter nå på TV-en din. Se gjennom og lagre dem der.</string>
     <string name="companion_service_config_again">Send andre tilkoblingsopplysninger</string>
-    <string name="companion_add_page_title">OwnTV – legg til kilde</string>
+    <string name="companion_add_page_title">MeleHub – legg til kilde</string>
     <string name="companion_add_heading">Legg til en kilde</string>
     <string name="companion_add_description">Fyll inn opplysningene for én kilde og trykk på Send. Den vises på TV-en — ta frem fjernkontrollen og trykk på Importer der når du er klar.</string>
     <string name="companion_default_playlist">Standardspilleliste</string>
     <string name="companion_send_to_tv">Send til TV</string>
     <string name="companion_sync_xtream_hint">Hva som skal synkroniseres – Nå importerer først, Senere synkroniserer i bakgrunnen, og Av blir aldri hentet.</string>
     <string name="companion_sync_stalker_hint">Hva som skal synkroniseres – Direkte-TV er som standard satt til Nå, mens filmer/serier er satt til Senere (Stalker VOD er tregt).</string>
-    <string name="companion_saved_page_title">OwnTV – sendt</string>
+    <string name="companion_saved_page_title">MeleHub – sendt</string>
     <string name="companion_saved_heading">Sendt til TV-en ✓</string>
     <string name="companion_saved_source_body"><xliff:g id="name">%1$s</xliff:g> er nå på skjermbildet «Legg til kilde» på TV-en. Kontroller opplysningene der, og trykk på Importer med fjernkontrollen.</string>
     <string name="companion_saved_send_another">Send en annen kilde</string>
@@ -204,9 +204,9 @@
     <string name="companion_saved_backup_link">Send en annen fil</string>
     <string name="companion_saved_image_body">Bildet er nå TV-ens bakgrunnsbilde.</string>
     <string name="companion_saved_image_link">Send et annet bilde</string>
-    <string name="companion_backup_page_title">OwnTV – gjenopprett sikkerhetskopi</string>
+    <string name="companion_backup_page_title">MeleHub – gjenopprett sikkerhetskopi</string>
     <string name="companion_backup_heading">Gjenopprett en sikkerhetskopi</string>
-    <string name="companion_backup_description">Velg en OwnTV-sikkerhetskopifil (.own eller en eldre .json), og trykk på Send. Den overføres til TV-en – ta fjernkontrollen og velg hva som skal gjenopprettes der.</string>
+    <string name="companion_backup_description">Velg en MeleHub-sikkerhetskopifil (.own eller en eldre .json), og trykk på Send. Den overføres til TV-en – ta fjernkontrollen og velg hva som skal gjenopprettes der.</string>
     <string name="companion_backup_file">Sikkerhetskopifil</string>
     <string name="companion_choose_backup">Velg en sikkerhetskopifil først.</string>
     <string name="companion_playlist_file">Eller last opp en spillelistefil</string>
@@ -215,15 +215,15 @@
     <string name="companion_upload_failed">Opplastingen mislyktes (HTTP <xliff:g id="status">%1$d</xliff:g>). Kontroller PIN-koden og prøv igjen.</string>
     <string name="companion_could_not_reach">Kunne ikke nå TV-en. Hold deg på samme Wi-Fi og prøv igjen.</string>
     <string name="companion_could_not_read">Kunne ikke lese filen.</string>
-    <string name="companion_image_page_title">OwnTV – bakgrunnsbilde</string>
+    <string name="companion_image_page_title">MeleHub – bakgrunnsbilde</string>
     <string name="companion_image_heading">Send et bakgrunnsbilde</string>
     <string name="companion_image_description">Velg et bilde (JPG, PNG eller WebP), og trykk på Send. Det blir bakgrunnsbildet bak TV-grensesnittet.</string>
     <string name="companion_image_file">Bildefil</string>
     <string name="companion_choose_image">Velg et bilde først.</string>
     <string name="companion_image_too_large">Bildet er for stort (maks. 25 MB).</string>
-    <string name="companion_download_page_title">OwnTV – last ned sikkerhetskopi</string>
+    <string name="companion_download_page_title">MeleHub – last ned sikkerhetskopi</string>
     <string name="companion_download_heading">Last ned sikkerhetskopien din</string>
-    <string name="companion_download_description">TV-en har klargjort en OwnTV-sikkerhetskopifil. Trykk på knappen for å lagre den på denne enheten (owntv-backup.own). Oppbevar den på et trygt sted — du kan gjenopprette fra den senere.</string>
+    <string name="companion_download_description">TV-en har klargjort en MeleHub-sikkerhetskopifil. Trykk på knappen for å lagre den på denne enheten (owntv-backup.own). Oppbevar den på et trygt sted — du kan gjenopprette fra den senere.</string>
     <string name="companion_download_backup">Last ned sikkerhetskopi</string>
     <string name="companion_error_bad_request">Ugyldig forespørsel</string>
     <string name="companion_error_body_too_large">Forespørselsinnholdet er for stort.</string>
@@ -265,6 +265,6 @@
     <string name="setup_stalker_device_id2_optional">Enhets-ID2 (valgfritt)</string>
     <string name="setup_stalker_signature_optional">Signatur (valgfritt)</string>
     <string name="companion_error_pair_failed">Kunne ikke pare med denne enheten.</string>
-    <string name="local_sync_browser_title">OwnTV lokal synkronisering</string>
-    <string name="local_sync_browser_body">Denne adressen er for OwnTV-appen på den andre enheten. Åpne Lokal synkronisering der og velg denne enheten fra listen.</string>
+    <string name="local_sync_browser_title">MeleHub lokal synkronisering</string>
+    <string name="local_sync_browser_body">Denne adressen er for MeleHub-appen på den andre enheten. Åpne Lokal synkronisering der og velg denne enheten fra listen.</string>
 </resources>

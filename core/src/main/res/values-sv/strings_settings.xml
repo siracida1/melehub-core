@@ -49,7 +49,7 @@
     <string name="settings_dynamic">Dynamisk</string>
     <string name="settings_http_proxy">HTTP-proxy</string>
     <string name="settings_use_proxy">Använd proxy</string>
-    <string name="settings_proxy_description">Skicka all trafik och uppspelning från OwnTV via en HTTP-proxy.</string>
+    <string name="settings_proxy_description">Skicka all trafik och uppspelning från MeleHub via en HTTP-proxy.</string>
     <string name="settings_host">Värd</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">Port</string>
@@ -158,7 +158,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> kvar</item>
     </plurals>
     <string name="settings_metadata_active_source">Aktiv källa</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · ingen konfiguration</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · ingen konfiguration</string>
     <string name="settings_metadata_connection">Anslutning</string>
     <string name="settings_metadata_remote_advanced">Hämta avancerade TMDB-uppgifter</string>
     <string name="settings_metadata_remote_advanced_description">Använd din egen TMDB-API-nyckel eller en egen Worker i stället för den delade standardtjänsten.</string>
@@ -169,8 +169,8 @@
     <string name="settings_metadata_server_label">Server</string>
     <string name="settings_metadata_refills_label">Fylls på</string>
     <string name="settings_metadata_clear_advanced_title">Sluta använda din egen nyckel?</string>
-    <string name="settings_metadata_clear_advanced_message">Din TMDB API-nyckel och adressen till din egen server tas bort från den här enheten, och OwnTV går tillbaka till den inbyggda delade tjänsten med dess dagliga andel.</string>
-    <string name="settings_metadata_fair_share">Den inbyggda metadatatjänsten delas av alla som använder OwnTV, så varje enhet får sin egen andel varje dag. Om du gör slut på din andel pausas omslag och beskrivningar tills den fylls på igen — informationen från din egen spellista fungerar som vanligt. Att lägga till en egen TMDB API-nyckel eller server tar bort gränsen: det är gratis, och en personlig nyckel har praktiskt taget ingen gräns.</string>
+    <string name="settings_metadata_clear_advanced_message">Din TMDB API-nyckel och adressen till din egen server tas bort från den här enheten, och MeleHub går tillbaka till den inbyggda delade tjänsten med dess dagliga andel.</string>
+    <string name="settings_metadata_fair_share">Den inbyggda metadatatjänsten delas av alla som använder MeleHub, så varje enhet får sin egen andel varje dag. Om du gör slut på din andel pausas omslag och beskrivningar tills den fylls på igen — informationen från din egen spellista fungerar som vanligt. Att lägga till en egen TMDB API-nyckel eller server tar bort gränsen: det är gratis, och en personlig nyckel har praktiskt taget ingen gräns.</string>
     <string name="settings_metadata_limit_reached">Din dagliga metadataandel är slut — lägg till en egen TMDB-nyckel under Inställningar → Metadata för att ta bort gränsen.</string>
     <string name="settings_metadata_language">Metadataspråk</string>
     <string name="settings_metadata_language_description">Språk för handling, genrer och titlar från TMDB. Fält som TMDB inte har översatt förblir på engelska. Detaljer cachas per språk, så att byta tillbaka går direkt.</string>
@@ -315,7 +315,7 @@
     <string name="settings_network_group">Nätverk</string>
     <string name="settings_app_group">App</string>
     <string name="settings_app_startup">Appstart</string>
-    <string name="settings_app_startup_description">Vad OwnTV öppnar vid start</string>
+    <string name="settings_app_startup_description">Vad MeleHub öppnar vid start</string>
     <string name="settings_check_updates">Sök efter uppdateringar</string>
     <string name="settings_check_updates_description">Hämta den senaste versionen från GitHub Releases</string>
     <string name="settings_update_startup">Sök efter uppdateringar vid start</string>
@@ -347,7 +347,7 @@
     <string name="settings_about_version">Version <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">Din egen IPTV-spelare för Android TV — en kostnadsfri app med öppen källkod som endast fungerar som spelare. Den tillhandahåller inga kanaler eller något innehåll. Du använder dina egna källor som du har laglig åtkomst till.</string>
     <string name="settings_about_description_full_mobile">Din egen IPTV-spelare för Android — en kostnadsfri app med öppen källkod som endast fungerar som spelare. Den tillhandahåller inga kanaler eller något innehåll. Du använder dina egna källor som du har laglig åtkomst till.</string>
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3-licens</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3-licens</string>
     <string name="settings_join_telegram">Gå med i vår grupp på Telegram</string>
     <string name="settings_telegram_qr">QR-kod till Telegram-gruppen</string>
     <string name="settings_telegram_scan">Skanna QR-koden för att gå med från telefonen eller öppna länken ovan.</string>
@@ -587,7 +587,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles applikations-API-nyckel</string>
     <string name="settings_worker_server_url">Worker-/server-URL</string>
     <string name="settings_shared">Delad</string>
-    <string name="settings_open_subtitles_access_priority">Lämna båda tomma för att använda OwnTV:s delade Worker. En egen Worker-URL har företräde framför en direkt API-nyckel. Kontosessioner är fortfarande profilspecifika.</string>
+    <string name="settings_open_subtitles_access_priority">Lämna båda tomma för att använda MeleHub:s delade Worker. En egen Worker-URL har företräde framför en direkt API-nyckel. Kontosessioner är fortfarande profilspecifika.</string>
     <string name="settings_remove_custom_access">Ta bort anpassad åtkomst</string>
     <string name="settings_audio">Ljud</string>
     <string name="settings_preferred_audio_language">Föredraget ljudspråk</string>
@@ -674,7 +674,7 @@
     <string name="settings_guide_synced">Programguiden har synkroniserats</string>
     <string name="settings_guide_sync_failed">Det gick inte att synkronisera programguiden</string>
     <string name="settings_restore_remote_title">Återställ från en annan enhet</string>
-    <string name="settings_restore_remote_description">Skanna QR-koden på en telefon, surfplatta eller dator som är ansluten till samma Wi-Fi (eller öppna webbadressen), ange denna PIN, välj din OwnTV-säkerhetskopia och tryck på Skicka till tv:n. Därefter väljer du här vad som ska återställas.</string>
+    <string name="settings_restore_remote_description">Skanna QR-koden på en telefon, surfplatta eller dator som är ansluten till samma Wi-Fi (eller öppna webbadressen), ange denna PIN, välj din MeleHub-säkerhetskopia och tryck på Skicka till tv:n. Därefter väljer du här vad som ska återställas.</string>
     <string name="settings_opening_server">Öppnar servern…</string>
     <string name="settings_enter_pin_browser">Ange denna PIN i webbläsaren</string>
     <string name="settings_companion_qr">QR-kod för komplementets webbadress</string>
@@ -701,7 +701,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">Enhet</string>
     <string name="settings_catchup_player_ask">Fråga alltid</string>
-    <string name="settings_catchup_player_internal">OwnTV-spelare</string>
+    <string name="settings_catchup_player_internal">MeleHub-spelare</string>
     <string name="settings_catchup_player_external">Extern spelare</string>
     <string name="settings_soon">SNART</string>
     <string name="settings_download_folder_title">Välj nedladdningsmapp</string>
@@ -833,9 +833,9 @@
     <string name="settings_sources_info">Info</string>
     <string name="settings_sources_retest">Testa igen</string>
     <string name="settings_sources_probe_title">Testa den här spellistan?</string>
-    <string name="settings_sources_probe_warning">Många leverantörer talar aldrig om hur många kanaler du får titta på samtidigt, så OwnTV tar reda på det genom att öppna några och se vilka som håller. Allt som spelas upp nu stoppas, och det här kan ta upp till två minuter.</string>
+    <string name="settings_sources_probe_warning">Många leverantörer talar aldrig om hur många kanaler du får titta på samtidigt, så MeleHub tar reda på det genom att öppna några och se vilka som håller. Allt som spelas upp nu stoppas, och det här kan ta upp till två minuter.</string>
     <string name="settings_sources_probe_running">Kontrollerar hur många kanaler den här leverantören tillåter… (<xliff:g id="current">%1$d</xliff:g> av <xliff:g id="total">%2$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">OwnTV kunde inte ta reda på hur många kanaler den här leverantören tillåter.</string>
+    <string name="settings_sources_probe_unknown">MeleHub kunde inte ta reda på hur många kanaler den här leverantören tillåter.</string>
     <string name="settings_sources_probe_skip">Hoppa över</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">STANDARD</string>
@@ -1086,7 +1086,7 @@
     <string name="settings_move_category_action">Flytta</string>
     <string name="settings_dns_description">Använd en anpassad DNS-server för domänuppslagningar</string>
     <string name="settings_dns_custom">Anpassad DNS</string>
-    <string name="settings_dns_toggle_description">Utför alla domänuppslagningar för OwnTV via en anpassad DNS-server.</string>
+    <string name="settings_dns_toggle_description">Utför alla domänuppslagningar för MeleHub via en anpassad DNS-server.</string>
     <string name="settings_dns_use_custom">Använd anpassad DNS</string>
     <string name="settings_dns_server_missing">Anpassad DNS är aktiverad, men ingen server är konfigurerad. Ange en serveradress och välj Spara, eller stäng av inställningen.</string>
     <string name="settings_dns_server">DNS-server</string>
@@ -1133,7 +1133,7 @@
     <string name="settings_live_preroll">Förbuffra live-strömmar</string>
     <string name="settings_live_preroll_description">Samla in den här mängden video innan en livekanal börjar spela, och igen efter ett hack. Det är en mängd video, inte en nedräkning. Av ger snabbast möjliga start.</string>
     <string name="settings_live_tune_timeout">Ge upp en kanal efter</string>
-    <string name="settings_live_tune_timeout_description">Om en livekanal inte har visat någon bild inom den här tiden slutar OwnTV att försöka och säger till, i stället för att lämna en svart skärm medan den betar av alla sina spelare. ”Aldrig” fortsätter att försöka, vilket på en kanal som din leverantör har tagit bort kan ta långt över en minut. Väntetider som leverantören själv ber om räknas inte.</string>
+    <string name="settings_live_tune_timeout_description">Om en livekanal inte har visat någon bild inom den här tiden slutar MeleHub att försöka och säger till, i stället för att lämna en svart skärm medan den betar av alla sina spelare. ”Aldrig” fortsätter att försöka, vilket på en kanal som din leverantör har tagit bort kan ta långt över en minut. Väntetider som leverantören själv ber om räknas inte.</string>
     <string name="settings_live_preroll_per_playlist">Förbuffra per spellista</string>
     <string name="settings_live_preroll_per_playlist_description">Åsidosätt inställningen ovan för en spellista samtidigt som dina andra spellistor förblir snabba.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1159,7 +1159,7 @@
     <string name="settings_surround_auto_description_mobile">Auto – prova Dolby/DTS-surround och växla automatiskt tillbaka till stereo om högtalaren, hörlurarna eller den anslutna mottagaren inte spelar det. Rekommenderas.</string>
     <string name="settings_surround_stereo_description">Endast stereo – avkoda alltid i appen och skicka vanligt 2.0-ljud. Använd detta på TV-högtalare eller en stereo-soundbar, eller om ljudet ligger efter bilden.</string>
     <string name="settings_surround_stereo_description_mobile">Endast stereo – avkoda alltid i appen och skicka vanligt 2.0-ljud. Använd detta för den inbyggda högtalaren, hörlurar eller en stereo-soundbar, eller om ljudet ligger efter bilden.</string>
-    <string name="settings_surround_forced_description">Surround – skicka Dolby/DTS till en riktig 5.1/7.1-mottagare. Om det blir tyst eller hackar faller OwnTV ändå tillbaka till stereo och meddelar dig.</string>
+    <string name="settings_surround_forced_description">Surround – skicka Dolby/DTS till en riktig 5.1/7.1-mottagare. Om det blir tyst eller hackar faller MeleHub ändå tillbaka till stereo och meddelar dig.</string>
     <string name="settings_panel_width">Panelbreddsjustering</string>
     <string name="settings_panel_width_description">Ändra storlek på panelerna för kategori, lista och förhandsvisning i Live-TV, Filmer och Serier.</string>
     <string name="settings_vod_layout">Layout för Filmer och Serier</string>
@@ -1201,9 +1201,9 @@
     <string name="settings_panel_width_preview_panel">Panel för <xliff:g id="label">%1$s</xliff:g></string>
     <string name="settings_panel_width_total">Totalstorlek</string>
     <string name="settings_panel_width_invalid_total">Totalstorleken är <xliff:g id="total">%1$d</xliff:g>%%. Den måste vara 100 %% – justera.</string>
-    <string name="settings_language_help_translate">Hjälp till att översätta OwnTV till ditt språk</string>
-    <string name="settings_language_contribution_description">Skanna QR-koden eller öppna länken för att välja valfritt tillgängligt språk och bidra i alla sex OwnTV-översättningskomponenter.</string>
-    <string name="settings_language_contribution_qr_description">QR-kod för översikten av OwnTV:s översättningsprojekt</string>
+    <string name="settings_language_help_translate">Hjälp till att översätta MeleHub till ditt språk</string>
+    <string name="settings_language_contribution_description">Skanna QR-koden eller öppna länken för att välja valfritt tillgängligt språk och bidra i alla sex MeleHub-översättningskomponenter.</string>
+    <string name="settings_language_contribution_qr_description">QR-kod för översikten av MeleHub:s översättningsprojekt</string>
     <string name="settings_language_contribution_qr_failed">QR-koden kunde inte genereras. Använd länken nedan istället.</string>
     <string name="settings_language_contribution_copy">Kopiera länk</string>
     <string name="settings_language_contribution_copied">Länken kopierad</string>
@@ -1212,8 +1212,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">Rekommenderas inte på den här TV:n: på Android-versioner lägre än 12 kan bildfrekvensen inte ändras smidigt.</string>
     <string name="settings_auto_frame_rate_warning_title">Rekommenderas inte på den här TV:n</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">Rekommenderas inte på den här enheten</string>
-    <string name="settings_auto_frame_rate_warning_description">Den här enheten kör Android <xliff:g id="android_version">%1$s</xliff:g>. På Android-versioner lägre än 12 kan TV:n inte tala om för OwnTV vilka uppdateringsfrekvenser den kan växla till smidigt, så kan en ändring av bildfrekvensen göra att skärmen blir svart i en eller två sekunder — ibland mer än en gång under ett program.\n\nVi rekommenderar att du låter automatisk bildfrekvens vara av här. Om din TV växlar utan problem kan du slå på den och se: du kan när som helst ändra tillbaka.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">Den här enheten kör Android <xliff:g id="android_version">%1$s</xliff:g>. På Android-versioner lägre än 12 kan enheten inte tala om för OwnTV vilka uppdateringsfrekvenser den kan växla till smidigt, så kan en ändring av bildfrekvensen göra att skärmen blir svart i en eller två sekunder — ibland mer än en gång under ett program.\n\nVi rekommenderar att du låter automatisk bildfrekvens vara av här. Om din skärm växlar utan problem kan du slå på den och se: du kan när som helst ändra tillbaka.</string>
+    <string name="settings_auto_frame_rate_warning_description">Den här enheten kör Android <xliff:g id="android_version">%1$s</xliff:g>. På Android-versioner lägre än 12 kan TV:n inte tala om för MeleHub vilka uppdateringsfrekvenser den kan växla till smidigt, så kan en ändring av bildfrekvensen göra att skärmen blir svart i en eller två sekunder — ibland mer än en gång under ett program.\n\nVi rekommenderar att du låter automatisk bildfrekvens vara av här. Om din TV växlar utan problem kan du slå på den och se: du kan när som helst ändra tillbaka.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">Den här enheten kör Android <xliff:g id="android_version">%1$s</xliff:g>. På Android-versioner lägre än 12 kan enheten inte tala om för MeleHub vilka uppdateringsfrekvenser den kan växla till smidigt, så kan en ändring av bildfrekvensen göra att skärmen blir svart i en eller två sekunder — ibland mer än en gång under ett program.\n\nVi rekommenderar att du låter automatisk bildfrekvens vara av här. Om din skärm växlar utan problem kan du slå på den och se: du kan när som helst ändra tillbaka.</string>
     <string name="settings_auto_frame_rate_keep_off">Behåll av</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">Slå på ändå</string>
     <string name="settings_language_request_workflow">Vill du lägga till ett språk som inte är listat? Öppna en språkförfrågan först. En underhållare registrerar det och förbereder basöversättningsfilerna; när det dyker upp på Hosted Weblate kan du börja bidra.</string>
@@ -1412,7 +1412,7 @@
     <string name="local_sync_received_items">Mottagna objekt: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">Dina data skickades</string>
     <string name="local_sync_failed">Synkroniseringen misslyckades</string>
-    <string name="local_sync_error_unreachable">Enheten gick inte att nå. Öppna OwnTV → Inställningar → Data → Lokal synkronisering på den och slå på Synkroniseringsläge. Båda enheterna måste vara på samma Wi-Fi.</string>
+    <string name="local_sync_error_unreachable">Enheten gick inte att nå. Öppna MeleHub → Inställningar → Data → Lokal synkronisering på den och slå på Synkroniseringsläge. Båda enheterna måste vara på samma Wi-Fi.</string>
     <string name="local_sync_error_unauthorized">Den andra enheten nekade. PIN-koden kan vara fel, eller så har den glömt den här enheten.</string>
     <string name="local_sync_error_bad_payload">Det som kom fram gick inte att läsa. Om du använde ett lösenord, kontrollera att det är samma på båda enheterna.</string>
     <string name="local_sync_error_unknown">Något gick fel. Försök igen.</string>
@@ -1453,7 +1453,7 @@
     <string name="settings_multiview_keep_two">Behåll 2</string>
     <string name="settings_multiview_use_anyway">Använd ändå</string>
     <string name="settings_app_icon">Appikon</string>
-    <string name="settings_app_icon_summary">Färg på OwnTV:s ikon och logotyp</string>
+    <string name="settings_app_icon_summary">Färg på MeleHub:s ikon och logotyp</string>
     <string name="app_icon_petrol">Petrol</string>
     <string name="app_icon_sunflower">Solros</string>
     <string name="app_icon_cobalt">Kobolt</string>
@@ -1462,7 +1462,7 @@
     <string name="app_icon_eggshell">Äggskal</string>
     <string name="app_icon_olive">Oliv</string>
     <string name="app_icon_olive_cream">Oliv på gräddvitt</string>
-    <string name="app_icon_restart_title">Starta om OwnTV?</string>
-    <string name="app_icon_restart_message">Du har valt en ny ikon och logotyp. De börjar gälla när OwnTV startas om.</string>
+    <string name="app_icon_restart_title">Starta om MeleHub?</string>
+    <string name="app_icon_restart_message">Du har valt en ny ikon och logotyp. De börjar gälla när MeleHub startas om.</string>
     <string name="app_icon_restart_now">Starta om nu</string>
 </resources>

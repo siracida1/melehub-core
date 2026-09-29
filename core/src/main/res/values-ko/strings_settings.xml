@@ -49,7 +49,7 @@
     <string name="settings_dynamic">동적</string>
     <string name="settings_http_proxy">HTTP 프록시</string>
     <string name="settings_use_proxy">프록시 사용</string>
-    <string name="settings_proxy_description">모든 OwnTV 트래픽과 재생 데이터를 HTTP 프록시를 통해 전송합니다.</string>
+    <string name="settings_proxy_description">모든 MeleHub 트래픽과 재생 데이터를 HTTP 프록시를 통해 전송합니다.</string>
     <string name="settings_host">호스트</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">포트</string>
@@ -157,7 +157,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> 남음</item>
     </plurals>
     <string name="settings_metadata_active_source">사용 중인 소스</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · 설정 불필요</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · 설정 불필요</string>
     <string name="settings_metadata_connection">연결</string>
     <string name="settings_metadata_remote_advanced">고급 TMDB 정보 가져오기</string>
     <string name="settings_metadata_remote_advanced_description">공용 기본 서비스 대신 직접 발급받은 TMDB API 키나 자체 호스팅한 Worker를 사용합니다.</string>
@@ -168,8 +168,8 @@
     <string name="settings_metadata_server_label">서버</string>
     <string name="settings_metadata_refills_label">충전 시각</string>
     <string name="settings_metadata_clear_advanced_title">개인 키 사용을 중지할까요?</string>
-    <string name="settings_metadata_clear_advanced_message">TMDB API 키와 개인 서버 주소가 이 기기에서 삭제되고, OwnTV는 하루 사용량이 있는 내장 공유 서비스로 돌아갑니다.</string>
-    <string name="settings_metadata_fair_share">내장 메타데이터 서비스는 OwnTV를 사용하는 모든 사용자가 함께 쓰기 때문에 기기마다 하루 사용량이 정해져 있습니다. 사용량을 모두 쓰면 포스터와 설명은 충전될 때까지 일시 중지됩니다. 재생목록 자체의 정보는 평소대로 표시됩니다. 개인 TMDB API 키나 서버를 추가하면 이 제한이 사라집니다. 무료이며 개인 키에는 사실상 제한이 없습니다.</string>
+    <string name="settings_metadata_clear_advanced_message">TMDB API 키와 개인 서버 주소가 이 기기에서 삭제되고, MeleHub는 하루 사용량이 있는 내장 공유 서비스로 돌아갑니다.</string>
+    <string name="settings_metadata_fair_share">내장 메타데이터 서비스는 MeleHub를 사용하는 모든 사용자가 함께 쓰기 때문에 기기마다 하루 사용량이 정해져 있습니다. 사용량을 모두 쓰면 포스터와 설명은 충전될 때까지 일시 중지됩니다. 재생목록 자체의 정보는 평소대로 표시됩니다. 개인 TMDB API 키나 서버를 추가하면 이 제한이 사라집니다. 무료이며 개인 키에는 사실상 제한이 없습니다.</string>
     <string name="settings_metadata_limit_reached">오늘의 메타데이터 사용량을 모두 사용했습니다. 설정 → 메타데이터에서 개인 TMDB 키를 추가하면 이 제한이 사라집니다.</string>
     <string name="settings_metadata_language">메타데이터 언어</string>
     <string name="settings_metadata_language_description">TMDB에서 가져오는 줄거리, 장르, 제목의 언어입니다. TMDB가 번역하지 않은 항목은 영어로 표시됩니다. 세부 정보는 언어별로 캐시되므로 되돌리면 바로 표시됩니다.</string>
@@ -313,7 +313,7 @@
     <string name="settings_network_group">네트워크</string>
     <string name="settings_app_group">앱</string>
     <string name="settings_app_startup">앱 시작 화면</string>
-    <string name="settings_app_startup_description">OwnTV를 시작할 때 열리는 화면</string>
+    <string name="settings_app_startup_description">MeleHub를 시작할 때 열리는 화면</string>
     <string name="settings_check_updates">업데이트 확인</string>
     <string name="settings_check_updates_description">GitHub Releases에서 최신 버전을 가져옵니다</string>
     <string name="settings_update_startup">시작할 때 업데이트 확인</string>
@@ -345,7 +345,7 @@
     <string name="settings_about_version">버전 <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">Android TV용 나만의 IPTV 플레이어로, 무료 오픈 소스이며 재생 기능만 제공하는 앱입니다. 채널이나 콘텐츠는 제공하지 않으며, 사용자가 합법적으로 이용할 수 있는 소스를 직접 추가해야 합니다.</string>
     <string name="settings_about_description_full_mobile">Android용 나만의 IPTV 플레이어로, 무료 오픈 소스이며 재생 기능만 제공하는 앱입니다. 채널이나 콘텐츠는 제공하지 않으며, 사용자가 합법적으로 이용할 수 있는 소스를 직접 추가해야 합니다.</string>
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3 라이선스</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3 라이선스</string>
     <string name="settings_join_telegram">Telegram 커뮤니티 참여</string>
     <string name="settings_telegram_qr">Telegram 그룹 QR 코드</string>
     <string name="settings_telegram_scan">휴대전화로 QR 코드를 스캔하여 참여하거나 위 링크를 여세요.</string>
@@ -585,7 +585,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles 애플리케이션 API 키</string>
     <string name="settings_worker_server_url">Worker/서버 URL</string>
     <string name="settings_shared">공용</string>
-    <string name="settings_open_subtitles_access_priority">둘 다 비워 두면 OwnTV의 공용 Worker를 사용합니다. 사용자 지정 Worker URL이 직접 입력한 API 키보다 우선합니다. 계정 세션은 프로필별로 유지됩니다.</string>
+    <string name="settings_open_subtitles_access_priority">둘 다 비워 두면 MeleHub의 공용 Worker를 사용합니다. 사용자 지정 Worker URL이 직접 입력한 API 키보다 우선합니다. 계정 세션은 프로필별로 유지됩니다.</string>
     <string name="settings_remove_custom_access">사용자 지정 액세스 제거</string>
     <string name="settings_audio">오디오</string>
     <string name="settings_preferred_audio_language">선호 오디오 언어</string>
@@ -671,7 +671,7 @@
     <string name="settings_guide_synced">TV 편성표가 동기화됨</string>
     <string name="settings_guide_sync_failed">TV 편성표 동기화 실패</string>
     <string name="settings_restore_remote_title">다른 기기에서 복원</string>
-    <string name="settings_restore_remote_description">동일한 Wi-Fi에 연결된 휴대전화, 태블릿 또는 컴퓨터에서 QR을 스캔하거나 URL을 열고 이 PIN을 입력한 다음, OwnTV 백업 파일을 선택하고 TV로 보내기를 누르세요. 그런 다음 여기에서 복원할 항목을 선택합니다.</string>
+    <string name="settings_restore_remote_description">동일한 Wi-Fi에 연결된 휴대전화, 태블릿 또는 컴퓨터에서 QR을 스캔하거나 URL을 열고 이 PIN을 입력한 다음, MeleHub 백업 파일을 선택하고 TV로 보내기를 누르세요. 그런 다음 여기에서 복원할 항목을 선택합니다.</string>
     <string name="settings_opening_server">서버 여는 중…</string>
     <string name="settings_enter_pin_browser">브라우저에 이 PIN을 입력하세요</string>
     <string name="settings_companion_qr">연동 URL의 QR 코드</string>
@@ -697,7 +697,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">기기</string>
     <string name="settings_catchup_player_ask">항상 묻기</string>
-    <string name="settings_catchup_player_internal">OwnTV 플레이어</string>
+    <string name="settings_catchup_player_internal">MeleHub 플레이어</string>
     <string name="settings_catchup_player_external">외부 플레이어</string>
     <string name="settings_soon">출시 예정</string>
     <string name="settings_download_folder_title">다운로드 폴더 선택</string>
@@ -827,9 +827,9 @@
     <string name="settings_sources_info">정보</string>
     <string name="settings_sources_retest">다시 테스트</string>
     <string name="settings_sources_probe_title">이 재생목록을 테스트할까요?</string>
-    <string name="settings_sources_probe_warning">동시에 시청할 수 있는 채널 수를 알려 주지 않는 공급자가 많습니다. 그래서 OwnTV는 몇 개를 직접 열어 어느 것이 유지되는지 확인합니다. 지금 재생 중인 항목은 모두 멈추며, 최대 2분이 걸릴 수 있습니다.</string>
+    <string name="settings_sources_probe_warning">동시에 시청할 수 있는 채널 수를 알려 주지 않는 공급자가 많습니다. 그래서 MeleHub는 몇 개를 직접 열어 어느 것이 유지되는지 확인합니다. 지금 재생 중인 항목은 모두 멈추며, 최대 2분이 걸릴 수 있습니다.</string>
     <string name="settings_sources_probe_running">이 공급자가 허용하는 채널 수를 확인하는 중…(<xliff:g id="current">%1$d</xliff:g>/<xliff:g id="total">%2$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">이 공급자가 허용하는 채널 수를 OwnTV가 알아내지 못했습니다.</string>
+    <string name="settings_sources_probe_unknown">이 공급자가 허용하는 채널 수를 MeleHub가 알아내지 못했습니다.</string>
     <string name="settings_sources_probe_skip">건너뛰기</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">기본값</string>
@@ -1067,7 +1067,7 @@
     <string name="settings_move_category_action">이동</string>
     <string name="settings_dns_description">도메인 조회에 사용자 지정 DNS 서버 사용</string>
     <string name="settings_dns_custom">사용자 지정 DNS</string>
-    <string name="settings_dns_toggle_description">모든 OwnTV 도메인 조회에 사용자 지정 DNS 서버를 사용합니다.</string>
+    <string name="settings_dns_toggle_description">모든 MeleHub 도메인 조회에 사용자 지정 DNS 서버를 사용합니다.</string>
     <string name="settings_dns_use_custom">사용자 지정 DNS 사용</string>
     <string name="settings_dns_server_missing">사용자 지정 DNS가 활성화되어 있지만 서버가 설정되지 않았습니다. 서버 주소를 입력하고 저장을 선택하거나 이 기능을 끄세요.</string>
     <string name="settings_dns_server">DNS 서버</string>
@@ -1114,7 +1114,7 @@
     <string name="settings_live_preroll">실시간 스트림 미리 버퍼링</string>
     <string name="settings_live_preroll_description">실시간 채널이 재생을 시작하기 전에 이만큼의 영상을 모으고, 끊긴 후에도 다시 모읍니다. 이는 영상 분량이지 카운트다운이 아닙니다. 끄면 가장 빨리 시작할 수 있습니다.</string>
     <string name="settings_live_tune_timeout">채널 시도를 포기할 시간</string>
-    <string name="settings_live_tune_timeout_description">이 시간까지 실시간 채널에 화면이 나오지 않으면, OwnTV가 가진 재생기를 하나씩 시도하며 검은 화면을 두는 대신 시도를 멈추고 알려 줍니다. ‘안 함’은 계속 시도하므로, 제공업체가 삭제한 채널에서는 1분을 훌쩍 넘길 수 있습니다. 제공업체가 요청한 대기 시간은 포함되지 않습니다.</string>
+    <string name="settings_live_tune_timeout_description">이 시간까지 실시간 채널에 화면이 나오지 않으면, MeleHub가 가진 재생기를 하나씩 시도하며 검은 화면을 두는 대신 시도를 멈추고 알려 줍니다. ‘안 함’은 계속 시도하므로, 제공업체가 삭제한 채널에서는 1분을 훌쩍 넘길 수 있습니다. 제공업체가 요청한 대기 시간은 포함되지 않습니다.</string>
     <string name="settings_live_preroll_per_playlist">재생목록별 미리 버퍼링</string>
     <string name="settings_live_preroll_per_playlist_description">한 재생목록에 대해서만 위 설정을 재정의하고, 다른 재생목록은 빠르게 유지합니다.</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1139,7 +1139,7 @@
     <string name="settings_surround_auto_description_mobile">자동 — Dolby/DTS 서라운드를 시도하고, 스피커, 헤드폰 또는 연결된 리시버가 재생하지 못하면 자동으로 스테레오로 전환합니다. 권장합니다.</string>
     <string name="settings_surround_stereo_description">스테레오만 — 항상 앱에서 디코딩하고 일반 2.0 사운드를 보냅니다. TV 스피커나 스테레오 사운드바에서 사용하거나, 오디오가 화면보다 늦어질 때 사용하세요.</string>
     <string name="settings_surround_stereo_description_mobile">스테레오만 — 항상 앱에서 디코딩하고 일반 2.0 사운드를 보냅니다. 내장 스피커, 헤드폰 또는 스테레오 사운드바에서 사용하거나, 오디오가 화면보다 늦어질 때 사용하세요.</string>
-    <string name="settings_surround_forced_description">서라운드 — Dolby/DTS를 실제 5.1/7.1 리시버로 보냅니다. 소리가 나지 않거나 끊기면 OwnTV가 그래도 스테레오로 전환하고 알려 줍니다.</string>
+    <string name="settings_surround_forced_description">서라운드 — Dolby/DTS를 실제 5.1/7.1 리시버로 보냅니다. 소리가 나지 않거나 끊기면 MeleHub가 그래도 스테레오로 전환하고 알려 줍니다.</string>
     <string name="settings_panel_width">패널 너비 조정</string>
     <string name="settings_panel_width_description">실시간 TV, 영화 및 시리즈에서 카테고리, 목록, 미리보기 패널의 크기를 조정합니다.</string>
     <string name="settings_vod_layout">영화 및 시리즈 레이아웃</string>
@@ -1181,9 +1181,9 @@
     <string name="settings_panel_width_preview_panel"><xliff:g id="label">%1$s</xliff:g> 패널</string>
     <string name="settings_panel_width_total">전체 크기</string>
     <string name="settings_panel_width_invalid_total">전체 크기가 <xliff:g id="total">%1$d</xliff:g>%%입니다. 100%%가 되어야 하므로 조정해 주세요.</string>
-    <string name="settings_language_help_translate">OwnTV를 여러분의 언어로 번역하는 데 도움을 주세요</string>
-    <string name="settings_language_contribution_description">QR 코드를 스캔하거나 링크를 열어 사용 가능한 언어를 선택하고 OwnTV 번역 구성 요소 6개 전체에 기여할 수 있습니다.</string>
-    <string name="settings_language_contribution_qr_description">OwnTV 번역 프로젝트 개요 QR 코드</string>
+    <string name="settings_language_help_translate">MeleHub를 여러분의 언어로 번역하는 데 도움을 주세요</string>
+    <string name="settings_language_contribution_description">QR 코드를 스캔하거나 링크를 열어 사용 가능한 언어를 선택하고 MeleHub 번역 구성 요소 6개 전체에 기여할 수 있습니다.</string>
+    <string name="settings_language_contribution_qr_description">MeleHub 번역 프로젝트 개요 QR 코드</string>
     <string name="settings_language_contribution_qr_failed">QR 코드를 생성할 수 없습니다. 대신 아래에 표시된 링크를 사용하세요.</string>
     <string name="settings_language_contribution_copy">링크 복사</string>
     <string name="settings_language_contribution_copied">링크가 복사되었습니다</string>
@@ -1192,8 +1192,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">이 TV에서는 권장되지 않음: Android 12 미만에서는 프레임 레이트를 부드럽게 변경할 수 없습니다.</string>
     <string name="settings_auto_frame_rate_warning_title">이 TV에서는 권장되지 않음</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">이 기기에서는 권장되지 않음</string>
-    <string name="settings_auto_frame_rate_warning_description">이 기기는 Android <xliff:g id="android_version">%1$s</xliff:g>을 실행 중입니다. Android 12 미만에서는 TV가 OwnTV에 매끄럽게 전환할 수 있는 주사율을 알려줄 수 없으므로, 프레임 레이트를 변경하면 화면이 1~2초간 꺼질 수 있습니다. 때로는 프로그램 중에 두 번 이상 꺼질 수도 있습니다.\n\n여기서는 자동 프레임 레이트를 끈 상태로 두는 것을 권장합니다. TV가 깔끔하게 전환된다면 켜서 확인해 보세요. 언제든 다시 끌 수 있습니다.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">이 기기는 Android <xliff:g id="android_version">%1$s</xliff:g>을 실행 중입니다. Android 12 미만에서는 기기가 OwnTV에 매끄럽게 전환할 수 있는 주사율을 알려줄 수 없으므로, 프레임 레이트를 변경하면 화면이 1~2초간 꺼질 수 있습니다. 때로는 프로그램 중에 두 번 이상 꺼질 수도 있습니다.\n\n여기서는 자동 프레임 레이트를 끈 상태로 두는 것을 권장합니다. 화면이 깔끔하게 전환된다면 켜서 확인해 보세요. 언제든 다시 끌 수 있습니다.</string>
+    <string name="settings_auto_frame_rate_warning_description">이 기기는 Android <xliff:g id="android_version">%1$s</xliff:g>을 실행 중입니다. Android 12 미만에서는 TV가 MeleHub에 매끄럽게 전환할 수 있는 주사율을 알려줄 수 없으므로, 프레임 레이트를 변경하면 화면이 1~2초간 꺼질 수 있습니다. 때로는 프로그램 중에 두 번 이상 꺼질 수도 있습니다.\n\n여기서는 자동 프레임 레이트를 끈 상태로 두는 것을 권장합니다. TV가 깔끔하게 전환된다면 켜서 확인해 보세요. 언제든 다시 끌 수 있습니다.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">이 기기는 Android <xliff:g id="android_version">%1$s</xliff:g>을 실행 중입니다. Android 12 미만에서는 기기가 MeleHub에 매끄럽게 전환할 수 있는 주사율을 알려줄 수 없으므로, 프레임 레이트를 변경하면 화면이 1~2초간 꺼질 수 있습니다. 때로는 프로그램 중에 두 번 이상 꺼질 수도 있습니다.\n\n여기서는 자동 프레임 레이트를 끈 상태로 두는 것을 권장합니다. 화면이 깔끔하게 전환된다면 켜서 확인해 보세요. 언제든 다시 끌 수 있습니다.</string>
     <string name="settings_auto_frame_rate_keep_off">끈 상태 유지</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">그래도 켜기</string>
     <string name="settings_language_request_workflow">목록에 없는 언어를 추가하고 싶으신가요? 먼저 언어 요청을 제출하세요. 관리자가 해당 언어를 등록하고 기본 번역 파일을 준비합니다. Hosted Weblate에 표시되면 번역에 참여할 수 있습니다.</string>
@@ -1389,7 +1389,7 @@
     <string name="local_sync_received_items">받은 항목: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">데이터를 보냈습니다</string>
     <string name="local_sync_failed">동기화 실패</string>
-    <string name="local_sync_error_unreachable">이 기기에 연결할 수 없습니다. 그 기기에서 OwnTV → 설정 → 데이터 → 로컬 동기화를 열고 동기화 모드를 켜세요. 두 기기가 같은 Wi‑Fi에 있어야 합니다.</string>
+    <string name="local_sync_error_unreachable">이 기기에 연결할 수 없습니다. 그 기기에서 MeleHub → 설정 → 데이터 → 로컬 동기화를 열고 동기화 모드를 켜세요. 두 기기가 같은 Wi‑Fi에 있어야 합니다.</string>
     <string name="local_sync_error_unauthorized">다른 기기가 거부했습니다. PIN이 틀렸거나 이 기기를 삭제했을 수 있습니다.</string>
     <string name="local_sync_error_bad_payload">받은 내용을 읽을 수 없습니다. 비밀번호를 사용했다면 두 기기에서 같은지 확인하세요.</string>
     <string name="local_sync_error_unknown">문제가 발생했습니다. 다시 시도하세요.</string>
@@ -1430,7 +1430,7 @@
     <string name="settings_multiview_keep_two">2개 유지</string>
     <string name="settings_multiview_use_anyway">그래도 사용</string>
     <string name="settings_app_icon">앱 아이콘</string>
-    <string name="settings_app_icon_summary">OwnTV 아이콘 및 로고 색상</string>
+    <string name="settings_app_icon_summary">MeleHub 아이콘 및 로고 색상</string>
     <string name="app_icon_petrol">페트롤</string>
     <string name="app_icon_sunflower">해바라기</string>
     <string name="app_icon_cobalt">코발트</string>
@@ -1439,7 +1439,7 @@
     <string name="app_icon_eggshell">에그셸</string>
     <string name="app_icon_olive">올리브</string>
     <string name="app_icon_olive_cream">크림 위 올리브</string>
-    <string name="app_icon_restart_title">OwnTV를 다시 시작할까요?</string>
-    <string name="app_icon_restart_message">새 아이콘과 로고를 선택했습니다. OwnTV를 다시 시작하면 적용됩니다.</string>
+    <string name="app_icon_restart_title">MeleHub를 다시 시작할까요?</string>
+    <string name="app_icon_restart_message">새 아이콘과 로고를 선택했습니다. MeleHub를 다시 시작하면 적용됩니다.</string>
     <string name="app_icon_restart_now">지금 다시 시작</string>
 </resources>

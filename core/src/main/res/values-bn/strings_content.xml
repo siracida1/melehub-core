@@ -34,7 +34,7 @@
     <string name="content_genre_scifi">বৈজ্ঞানিক কল্পকাহিনি</string>
     <string name="content_genre_series">সিরিজ</string>
     <string name="content_genre_sport">খেলাধুলা</string>
-    <string name="content_exit_owntv">OwnTV থেকে বের হবেন?</string>
+    <string name="content_exit_owntv">MeleHub থেকে বের হবেন?</string>
     <string name="content_exit_confirmation">আপনি কি অ্যাপটি বন্ধ করার বিষয়ে নিশ্চিত?</string>
     <string name="content_restore_incomplete_title">একটি পুনরুদ্ধার শেষ হয়নি</string>
     <string name="content_restore_incomplete_message"><xliff:g id="description">%1$s</xliff:g> পুনরুদ্ধারের সময় অ্যাপটি বন্ধ হয়ে গিয়েছিল, তাই এর কিছু অংশ অনুপস্থিত থাকতে পারে। কিছুই মুছে ফেলা হয়নি — বাকি অংশ পূরণ করতে সেটিংস → ব্যাকআপ ও পুনরুদ্ধার থেকে একই পুনরুদ্ধার আবার চালান।</string>
@@ -222,7 +222,7 @@
     <string name="content_storage_choose_folder">অন্য ফোল্ডার বেছে নিন…</string>
     <string name="content_storage_chosen_folder">বেছে নেওয়া ফোল্ডার</string>
     <string name="content_storage_folder_lost">সেই ফোল্ডারটি আর পাওয়া যাচ্ছে না। এটি আবার বেছে নিন, বা অন্য একটি বেছে নিন।</string>
-    <string name="content_storage_folder_fallback">আপনার ডাউনলোড ফোল্ডার এখন উপলব্ধ নেই, তাই সেটি ফিরে না আসা পর্যন্ত ডাউনলোডগুলো OwnTV-এর নিজস্ব ফোল্ডারে সংরক্ষিত হচ্ছে।</string>
+    <string name="content_storage_folder_fallback">আপনার ডাউনলোড ফোল্ডার এখন উপলব্ধ নেই, তাই সেটি ফিরে না আসা পর্যন্ত ডাউনলোডগুলো MeleHub-এর নিজস্ব ফোল্ডারে সংরক্ষিত হচ্ছে।</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> ডাউনলোড হয়েছে</string>
     <string name="content_downloads_failure_message">ডাউনলোড ব্যর্থ হয়েছে — উৎসে পৌঁছানো যায়নি। আবার চেষ্টা করুন-এ ট্যাপ করুন।</string>
     <string name="content_downloads_queued">সারিতে আছে…</string>
@@ -326,7 +326,7 @@
     <string name="content_epg_favourite">পছন্দের করুন</string>
     <string name="content_epg_unfavourite">পছন্দেরগুলো থেকে সরান</string>
     <string name="content_epg_player_choice_description">সেটিংস › ক্যাচ-আপ-এ একটি স্থায়ী পছন্দ সেট করুন।</string>
-    <string name="content_epg_own_player">OwnTV প্লেয়ার</string>
+    <string name="content_epg_own_player">MeleHub প্লেয়ার</string>
     <string name="content_epg_external_player">বাহ্যিক প্লেয়ার</string>
     <string name="content_epg_time_offset">ইপিজি সময় অফসেট</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g>মি.</string>

@@ -34,7 +34,7 @@
     <string name="content_genre_scifi">Bilim Kurgu</string>
     <string name="content_genre_series">Diziler</string>
     <string name="content_genre_sport">Spor</string>
-    <string name="content_exit_owntv">OwnTV\'den çıkılsın mı?</string>
+    <string name="content_exit_owntv">MeleHub\'den çıkılsın mı?</string>
     <string name="content_exit_confirmation">Uygulamayı kapatmak istediğinizden emin misiniz?</string>
     <string name="content_restore_incomplete_title">Bir geri yükleme tamamlanmadı</string>
     <string name="content_restore_incomplete_message">Uygulama <xliff:g id="description">%1$s</xliff:g> geri yüklenirken kapandı, bu nedenle bazı veriler eksik olabilir. Hiçbir şey silinmedi — kalanları tamamlamak için Ayarlar → Yedekleme ve Geri Yükleme bölümünden aynı geri yüklemeyi yeniden çalıştırın.</string>
@@ -222,7 +222,7 @@
     <string name="content_storage_choose_folder">Başka bir klasör seç…</string>
     <string name="content_storage_chosen_folder">Seçilen klasör</string>
     <string name="content_storage_folder_lost">Bu klasör artık kullanılamıyor. Yeniden seçin ya da başka bir klasör seçin.</string>
-    <string name="content_storage_folder_fallback">İndirme klasörünüz şu anda kullanılamıyor; geri gelene kadar indirmeler OwnTV\'nin kendi klasörüne kaydediliyor.</string>
+    <string name="content_storage_folder_fallback">İndirme klasörünüz şu anda kullanılamıyor; geri gelene kadar indirmeler MeleHub\'nin kendi klasörüne kaydediliyor.</string>
     <string name="content_downloads_completed"><xliff:g id="size">%1$s</xliff:g> indirildi</string>
     <string name="content_downloads_failure_message">İndirme başarısız oldu — kaynağa ulaşılamadı. Yeniden Dene\'ye dokunun.</string>
     <string name="content_downloads_queued">Kuyrukta…</string>
@@ -326,7 +326,7 @@
     <string name="content_epg_favourite">Favoriye ekle</string>
     <string name="content_epg_unfavourite">Favorilerden kaldır</string>
     <string name="content_epg_player_choice_description">Ayarlar › Geri izleme bölümünden kalıcı bir seçim yapın.</string>
-    <string name="content_epg_own_player">OwnTV oynatıcısı</string>
+    <string name="content_epg_own_player">MeleHub oynatıcısı</string>
     <string name="content_epg_external_player">Harici oynatıcı</string>
     <string name="content_epg_time_offset">EPG zaman farkı</string>
     <string name="content_epg_shift_minutes"><xliff:g id="sign">%1$s</xliff:g><xliff:g id="minutes">%2$s</xliff:g> dk</string>

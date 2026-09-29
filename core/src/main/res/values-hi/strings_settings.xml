@@ -49,7 +49,7 @@
     <string name="settings_dynamic">डायनेमिक</string>
     <string name="settings_http_proxy">HTTP प्रॉक्सी</string>
     <string name="settings_use_proxy">प्रॉक्सी का उपयोग करें</string>
-    <string name="settings_proxy_description">OwnTV का पूरा ट्रैफ़िक और प्लेबैक HTTP प्रॉक्सी के माध्यम से भेजें।</string>
+    <string name="settings_proxy_description">MeleHub का पूरा ट्रैफ़िक और प्लेबैक HTTP प्रॉक्सी के माध्यम से भेजें।</string>
     <string name="settings_host">होस्ट</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">पोर्ट</string>
@@ -158,7 +158,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> शेष</item>
     </plurals>
     <string name="settings_metadata_active_source">सक्रिय स्रोत</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · कोई सेटअप नहीं</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · कोई सेटअप नहीं</string>
     <string name="settings_metadata_connection">कनेक्शन</string>
     <string name="settings_metadata_remote_advanced">उन्नत TMDB जानकारी लें</string>
     <string name="settings_metadata_remote_advanced_description">साझा डिफ़ॉल्ट के बजाय अपनी TMDB API कुंजी या स्वयं होस्ट किया गया Worker इस्तेमाल करें।</string>
@@ -169,8 +169,8 @@
     <string name="settings_metadata_server_label">सर्वर</string>
     <string name="settings_metadata_refills_label">फिर से भरेगा</string>
     <string name="settings_metadata_clear_advanced_title">अपनी कुंजी का उपयोग बंद करें?</string>
-    <string name="settings_metadata_clear_advanced_message">आपकी TMDB API कुंजी और आपके सर्वर का पता इस डिवाइस से हटा दिया जाएगा, और OwnTV अपने दैनिक हिस्से वाली अंतर्निहित साझा सेवा पर लौट आएगा।</string>
-    <string name="settings_metadata_fair_share">अंतर्निहित मेटाडेटा सेवा OwnTV का उपयोग करने वाले सभी लोगों के बीच साझा है, इसलिए हर डिवाइस को हर दिन अपना हिस्सा मिलता है। हिस्सा खत्म होने पर पोस्टर और विवरण तब तक रुक जाते हैं जब तक वह फिर से न भर जाए — आपकी अपनी प्लेलिस्ट की जानकारी सामान्य रूप से काम करती रहती है। अपनी TMDB API कुंजी या सर्वर जोड़ने पर यह सीमा हट जाती है: यह मुफ़्त है, और निजी कुंजी पर व्यावहारिक रूप से कोई सीमा नहीं है।</string>
+    <string name="settings_metadata_clear_advanced_message">आपकी TMDB API कुंजी और आपके सर्वर का पता इस डिवाइस से हटा दिया जाएगा, और MeleHub अपने दैनिक हिस्से वाली अंतर्निहित साझा सेवा पर लौट आएगा।</string>
+    <string name="settings_metadata_fair_share">अंतर्निहित मेटाडेटा सेवा MeleHub का उपयोग करने वाले सभी लोगों के बीच साझा है, इसलिए हर डिवाइस को हर दिन अपना हिस्सा मिलता है। हिस्सा खत्म होने पर पोस्टर और विवरण तब तक रुक जाते हैं जब तक वह फिर से न भर जाए — आपकी अपनी प्लेलिस्ट की जानकारी सामान्य रूप से काम करती रहती है। अपनी TMDB API कुंजी या सर्वर जोड़ने पर यह सीमा हट जाती है: यह मुफ़्त है, और निजी कुंजी पर व्यावहारिक रूप से कोई सीमा नहीं है।</string>
     <string name="settings_metadata_limit_reached">आज का मेटाडेटा हिस्सा खत्म हो गया — यह सीमा हटाने के लिए सेटिंग्स → मेटाडेटा में अपनी TMDB कुंजी जोड़ें।</string>
     <string name="settings_metadata_language">मेटाडेटा की भाषा</string>
     <string name="settings_metadata_language_description">TMDB से आने वाले कथानक, शैली और शीर्षक की भाषा। जिन फ़ील्ड का TMDB ने अनुवाद नहीं किया है वे अंग्रेज़ी में रहेंगे। विवरण हर भाषा के लिए अलग कैश होते हैं, इसलिए वापस बदलना तुरंत होता है।</string>
@@ -315,7 +315,7 @@
     <string name="settings_network_group">नेटवर्क</string>
     <string name="settings_app_group">ऐप</string>
     <string name="settings_app_startup">ऐप शुरू होने पर</string>
-    <string name="settings_app_startup_description">शुरू होने पर OwnTV क्या खोलेगा</string>
+    <string name="settings_app_startup_description">शुरू होने पर MeleHub क्या खोलेगा</string>
     <string name="settings_check_updates">अपडेट जाँचें</string>
     <string name="settings_check_updates_description">GitHub Releases से नवीनतम संस्करण प्राप्त करें</string>
     <string name="settings_update_startup">शुरू होने पर अपडेट जाँचें</string>
@@ -347,7 +347,7 @@
     <string name="settings_about_version">संस्करण <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings_about_description_full">Android TV के लिए आपका अपना IPTV प्लेयर — एक निःशुल्क, ओपन-सोर्स और केवल प्लेयर वाला ऐप। यह कोई चैनल या सामग्री उपलब्ध नहीं कराता; आप अपने कानूनी रूप से सुलभ स्रोत स्वयं जोड़ते हैं।</string>
     <string name="settings_about_description_full_mobile">Android के लिए आपका अपना IPTV प्लेयर — एक निःशुल्क, ओपन-सोर्स और केवल प्लेयर वाला ऐप। यह कोई चैनल या सामग्री उपलब्ध नहीं कराता; आप अपने कानूनी रूप से सुलभ स्रोत स्वयं जोड़ते हैं।</string>
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3 लाइसेंस</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3 लाइसेंस</string>
     <string name="settings_join_telegram">Telegram पर हमसे जुड़ें</string>
     <string name="settings_telegram_qr">Telegram समूह का QR कोड</string>
     <string name="settings_telegram_scan">फ़ोन से जुड़ने के लिए QR स्कैन करें या ऊपर दिया गया लिंक खोलें।</string>
@@ -587,7 +587,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles ऐप्लिकेशन API कुंजी</string>
     <string name="settings_worker_server_url">Worker / सर्वर URL</string>
     <string name="settings_shared">साझा</string>
-    <string name="settings_open_subtitles_access_priority">OwnTV की साझा Worker सेवा उपयोग करने के लिए दोनों खाली छोड़ें। कस्टम Worker URL को सीधी API कुंजी पर प्राथमिकता मिलती है। खाता सत्र हर प्रोफ़ाइल के लिए अलग रहते हैं।</string>
+    <string name="settings_open_subtitles_access_priority">MeleHub की साझा Worker सेवा उपयोग करने के लिए दोनों खाली छोड़ें। कस्टम Worker URL को सीधी API कुंजी पर प्राथमिकता मिलती है। खाता सत्र हर प्रोफ़ाइल के लिए अलग रहते हैं।</string>
     <string name="settings_remove_custom_access">कस्टम एक्सेस हटाएँ</string>
     <string name="settings_audio">ऑडियो</string>
     <string name="settings_preferred_audio_language">पसंदीदा ऑडियो भाषा</string>
@@ -674,7 +674,7 @@
     <string name="settings_guide_synced">टीवी गाइड सिंक हो गया</string>
     <string name="settings_guide_sync_failed">टीवी गाइड सिंक नहीं हो सका</string>
     <string name="settings_restore_remote_title">किसी दूसरे डिवाइस से रीस्टोर करें</string>
-    <string name="settings_restore_remote_description">उसी Wi-Fi से जुड़े फ़ोन, टैबलेट या कंप्यूटर पर QR स्कैन करें (या URL खोलें), यह PIN दर्ज करें, अपनी OwnTV बैकअप फ़ाइल चुनें और टीवी पर भेजें पर टैप करें। फिर यहाँ चुनें कि क्या रीस्टोर करना है।</string>
+    <string name="settings_restore_remote_description">उसी Wi-Fi से जुड़े फ़ोन, टैबलेट या कंप्यूटर पर QR स्कैन करें (या URL खोलें), यह PIN दर्ज करें, अपनी MeleHub बैकअप फ़ाइल चुनें और टीवी पर भेजें पर टैप करें। फिर यहाँ चुनें कि क्या रीस्टोर करना है।</string>
     <string name="settings_opening_server">सर्वर खोला जा रहा है…</string>
     <string name="settings_enter_pin_browser">ब्राउज़र में यह PIN दर्ज करें</string>
     <string name="settings_companion_qr">सहायक URL का QR कोड</string>
@@ -701,7 +701,7 @@
     </plurals>
     <string name="settings_catchup_timezone_device">डिवाइस</string>
     <string name="settings_catchup_player_ask">हमेशा पूछें</string>
-    <string name="settings_catchup_player_internal">OwnTV प्लेयर</string>
+    <string name="settings_catchup_player_internal">MeleHub प्लेयर</string>
     <string name="settings_catchup_player_external">बाहरी प्लेयर</string>
     <string name="settings_soon">जल्द</string>
     <string name="settings_download_folder_title">डाउनलोड फ़ोल्डर चुनें</string>
@@ -833,9 +833,9 @@
     <string name="settings_sources_info">जानकारी</string>
     <string name="settings_sources_retest">फिर से जाँचें</string>
     <string name="settings_sources_probe_title">इस प्लेलिस्ट की जाँच करें?</string>
-    <string name="settings_sources_probe_warning">कई प्रदाता कभी नहीं बताते कि आप एक साथ कितने चैनल देख सकते हैं, इसलिए OwnTV कुछ चैनल खोलकर और यह देखकर पता लगाता है कि कौन से चलते रहते हैं। अभी जो कुछ चल रहा है वह रुक जाएगा, और इसमें दो मिनट तक लग सकते हैं।</string>
+    <string name="settings_sources_probe_warning">कई प्रदाता कभी नहीं बताते कि आप एक साथ कितने चैनल देख सकते हैं, इसलिए MeleHub कुछ चैनल खोलकर और यह देखकर पता लगाता है कि कौन से चलते रहते हैं। अभी जो कुछ चल रहा है वह रुक जाएगा, और इसमें दो मिनट तक लग सकते हैं।</string>
     <string name="settings_sources_probe_running">जाँचा जा रहा है कि यह प्रदाता कितने चैनलों की अनुमति देता है… (<xliff:g id="total">%2$d</xliff:g> में से <xliff:g id="current">%1$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">OwnTV यह पता नहीं लगा सका कि यह प्रदाता कितने चैनलों की अनुमति देता है।</string>
+    <string name="settings_sources_probe_unknown">MeleHub यह पता नहीं लगा सका कि यह प्रदाता कितने चैनलों की अनुमति देता है।</string>
     <string name="settings_sources_probe_skip">छोड़ें</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">डिफ़ॉल्ट</string>
@@ -1086,7 +1086,7 @@
     <string name="settings_move_category_action">ले जाएँ</string>
     <string name="settings_dns_description">डोमेन लुकअप के लिए कस्टम DNS सर्वर इस्तेमाल करें</string>
     <string name="settings_dns_custom">कस्टम DNS</string>
-    <string name="settings_dns_toggle_description">OwnTV के सभी डोमेन लुकअप कस्टम DNS सर्वर के ज़रिए हल करें।</string>
+    <string name="settings_dns_toggle_description">MeleHub के सभी डोमेन लुकअप कस्टम DNS सर्वर के ज़रिए हल करें।</string>
     <string name="settings_dns_use_custom">कस्टम DNS इस्तेमाल करें</string>
     <string name="settings_dns_server_missing">कस्टम DNS चालू है, लेकिन कोई सर्वर कॉन्फ़िगर नहीं है। सर्वर पता दर्ज करके सहेजें चुनें या इसे बंद करें।</string>
     <string name="settings_dns_server">DNS सर्वर</string>
@@ -1133,7 +1133,7 @@
     <string name="settings_live_preroll">लाइव स्ट्रीम पहले से बफ़र करें</string>
     <string name="settings_live_preroll_description">लाइव चैनल चलना शुरू करने से पहले इतना वीडियो इकट्ठा करें, और अटकने के बाद फिर से। यह वीडियो की मात्रा है, कोई काउंटडाउन नहीं। बंद रखने पर सबसे तेज़ शुरुआत संभव होती है।</string>
     <string name="settings_live_tune_timeout">चैनल छोड़ने का समय</string>
-    <string name="settings_live_tune_timeout_description">अगर इस समय तक किसी लाइव चैनल पर तस्वीर नहीं आई, तो OwnTV कोशिश करना बंद कर देगा और आपको बता देगा — अपने सारे प्लेयर एक-एक करके आज़माते हुए काली स्क्रीन छोड़ने के बजाय। “कभी नहीं” चुनने पर कोशिश चलती रहती है, और आपके प्रदाता द्वारा हटाए गए चैनल पर इसमें एक मिनट से भी ज़्यादा लग सकता है। प्रदाता खुद जो इंतज़ार माँगता है, वह इसमें नहीं गिना जाता।</string>
+    <string name="settings_live_tune_timeout_description">अगर इस समय तक किसी लाइव चैनल पर तस्वीर नहीं आई, तो MeleHub कोशिश करना बंद कर देगा और आपको बता देगा — अपने सारे प्लेयर एक-एक करके आज़माते हुए काली स्क्रीन छोड़ने के बजाय। “कभी नहीं” चुनने पर कोशिश चलती रहती है, और आपके प्रदाता द्वारा हटाए गए चैनल पर इसमें एक मिनट से भी ज़्यादा लग सकता है। प्रदाता खुद जो इंतज़ार माँगता है, वह इसमें नहीं गिना जाता।</string>
     <string name="settings_live_preroll_per_playlist">प्रति प्लेलिस्ट पहले से बफ़र करें</string>
     <string name="settings_live_preroll_per_playlist_description">ऊपर वाली सेटिंग को एक प्लेलिस्ट के लिए अलग से सेट करें, जबकि बाकी प्लेलिस्ट तेज़ बनी रहें।</string>
     <!-- Translators: Title of the per-playlist Live TV engine override row. -->
@@ -1159,7 +1159,7 @@
     <string name="settings_surround_auto_description_mobile">ऑटो — Dolby/DTS सराउंड आज़माता है, और अगर स्पीकर, हेडफ़ोन या जुड़ा हुआ रिसीवर उसे नहीं चला पाता तो अपने आप स्टीरियो पर लौट आता है। अनुशंसित।</string>
     <string name="settings_surround_stereo_description">केवल स्टीरियो — हमेशा ऐप में डिकोड करता है और सादा 2.0 ऑडियो भेजता है। इसे टीवी स्पीकर या स्टीरियो साउंडबार पर इस्तेमाल करें, या अगर ऑडियो वीडियो से पीछे रह जाता है।</string>
     <string name="settings_surround_stereo_description_mobile">केवल स्टीरियो — हमेशा ऐप में डिकोड करता है और सादा 2.0 ऑडियो भेजता है। इसे बिल्ट-इन स्पीकर, हेडफ़ोन या स्टीरियो साउंडबार के लिए इस्तेमाल करें, या अगर ऑडियो वीडियो से पीछे रह जाता है।</string>
-    <string name="settings_surround_forced_description">सराउंड — Dolby/DTS को असली 5.1/7.1 रिसीवर पर भेजता है। अगर आवाज़ बंद हो जाए या अटक जाए, तो OwnTV फिर भी स्टीरियो पर लौट आता है और आपको बता देता है।</string>
+    <string name="settings_surround_forced_description">सराउंड — Dolby/DTS को असली 5.1/7.1 रिसीवर पर भेजता है। अगर आवाज़ बंद हो जाए या अटक जाए, तो MeleHub फिर भी स्टीरियो पर लौट आता है और आपको बता देता है।</string>
     <string name="settings_panel_width">पैनल चौड़ाई समायोजन</string>
     <string name="settings_panel_width_description">लाइव टीवी, फ़िल्मों और सीरीज़ में श्रेणी, सूची और पूर्वावलोकन पैनल का आकार बदलें।</string>
     <string name="settings_vod_layout">फ़िल्में और सीरीज़ का लेआउट</string>
@@ -1201,9 +1201,9 @@
     <string name="settings_panel_width_preview_panel"><xliff:g id="label">%1$s</xliff:g> पैनल</string>
     <string name="settings_panel_width_total">कुल आकार</string>
     <string name="settings_panel_width_invalid_total">कुल आकार <xliff:g id="total">%1$d</xliff:g>%% है। इसे 100%% होना चाहिए — कृपया समायोजित करें।</string>
-    <string name="settings_language_help_translate">OwnTV को अपनी भाषा में अनुवाद करने में मदद करें</string>
-    <string name="settings_language_contribution_description">QR कोड स्कैन करें या लिंक खोलकर किसी भी उपलब्ध भाषा को चुनें और OwnTV के सभी छह अनुवाद घटकों में योगदान दें।</string>
-    <string name="settings_language_contribution_qr_description">OwnTV अनुवाद परियोजना अवलोकन के लिए QR कोड</string>
+    <string name="settings_language_help_translate">MeleHub को अपनी भाषा में अनुवाद करने में मदद करें</string>
+    <string name="settings_language_contribution_description">QR कोड स्कैन करें या लिंक खोलकर किसी भी उपलब्ध भाषा को चुनें और MeleHub के सभी छह अनुवाद घटकों में योगदान दें।</string>
+    <string name="settings_language_contribution_qr_description">MeleHub अनुवाद परियोजना अवलोकन के लिए QR कोड</string>
     <string name="settings_language_contribution_qr_failed">QR कोड जनरेट नहीं किया जा सका। इसके बजाय नीचे दिखाए गए लिंक का उपयोग करें।</string>
     <string name="settings_language_contribution_copy">लिंक कॉपी करें</string>
     <string name="settings_language_contribution_copied">लिंक कॉपी हो गया</string>
@@ -1212,8 +1212,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">इस टीवी पर अनुशंसित नहीं: Android 12 से नीचे रेट सुचारू रूप से नहीं बदला जा सकता।</string>
     <string name="settings_auto_frame_rate_warning_title">इस टीवी पर अनुशंसित नहीं</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">इस डिवाइस पर अनुशंसित नहीं</string>
-    <string name="settings_auto_frame_rate_warning_description">यह डिवाइस Android <xliff:g id="android_version">%1$s</xliff:g> पर चलता है। Android 12 से नीचे टीवी OwnTV को यह नहीं बता सकता कि वह किन रिफ़्रेश रेटों पर सुचारू रूप से स्विच कर सकता है, इसलिए रेट बदलने पर स्क्रीन एक-दो सेकंड के लिए काली हो सकती है — कभी-कभी कार्यक्रम के दौरान एक से अधिक बार।\n\nहम यहाँ Auto frame rate बंद रखने की अनुशंसा करते हैं। अगर आपका टीवी बिना किसी समस्या के स्विच करता है, तो इसे चालू करके देखें: आप इसे कभी भी वापस बदल सकते हैं।</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">यह डिवाइस Android <xliff:g id="android_version">%1$s</xliff:g> पर चलता है। Android 12 से नीचे डिवाइस OwnTV को यह नहीं बता सकता कि वह किन रिफ़्रेश रेटों पर सुचारू रूप से स्विच कर सकता है, इसलिए रेट बदलने पर स्क्रीन एक-दो सेकंड के लिए काली हो सकती है — कभी-कभी कार्यक्रम के दौरान एक से अधिक बार।\n\nहम यहाँ Auto frame rate बंद रखने की अनुशंसा करते हैं। अगर आपकी स्क्रीन बिना किसी समस्या के स्विच करती है, तो इसे चालू करके देखें: आप इसे कभी भी वापस बदल सकते हैं।</string>
+    <string name="settings_auto_frame_rate_warning_description">यह डिवाइस Android <xliff:g id="android_version">%1$s</xliff:g> पर चलता है। Android 12 से नीचे टीवी MeleHub को यह नहीं बता सकता कि वह किन रिफ़्रेश रेटों पर सुचारू रूप से स्विच कर सकता है, इसलिए रेट बदलने पर स्क्रीन एक-दो सेकंड के लिए काली हो सकती है — कभी-कभी कार्यक्रम के दौरान एक से अधिक बार।\n\nहम यहाँ Auto frame rate बंद रखने की अनुशंसा करते हैं। अगर आपका टीवी बिना किसी समस्या के स्विच करता है, तो इसे चालू करके देखें: आप इसे कभी भी वापस बदल सकते हैं।</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">यह डिवाइस Android <xliff:g id="android_version">%1$s</xliff:g> पर चलता है। Android 12 से नीचे डिवाइस MeleHub को यह नहीं बता सकता कि वह किन रिफ़्रेश रेटों पर सुचारू रूप से स्विच कर सकता है, इसलिए रेट बदलने पर स्क्रीन एक-दो सेकंड के लिए काली हो सकती है — कभी-कभी कार्यक्रम के दौरान एक से अधिक बार।\n\nहम यहाँ Auto frame rate बंद रखने की अनुशंसा करते हैं। अगर आपकी स्क्रीन बिना किसी समस्या के स्विच करती है, तो इसे चालू करके देखें: आप इसे कभी भी वापस बदल सकते हैं।</string>
     <string name="settings_auto_frame_rate_keep_off">बंद रखें</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">फिर भी चालू करें</string>
     <string name="settings_language_request_workflow">क्या आप कोई ऐसी भाषा जोड़ना चाहते हैं जो सूचीबद्ध नहीं है? पहले भाषा अनुरोध खोलें। एक मेंटेनर इसे पंजीकृत करेगा और आधार अनुवाद फ़ाइलें तैयार करेगा; एक बार यह Hosted Weblate पर दिखाई दे, तो आप योगदान देना शुरू कर सकते हैं।</string>
@@ -1412,7 +1412,7 @@
     <string name="local_sync_received_items">प्राप्त आइटम: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">आपका डेटा भेज दिया गया</string>
     <string name="local_sync_failed">सिंक विफल</string>
-    <string name="local_sync_error_unreachable">इस डिवाइस तक नहीं पहुँचा जा सका। उस पर OwnTV → सेटिंग्स → डेटा → लोकल सिंक खोलें और सिंक मोड चालू करें। दोनों डिवाइस एक ही वाई-फ़ाई पर होने चाहिए।</string>
+    <string name="local_sync_error_unreachable">इस डिवाइस तक नहीं पहुँचा जा सका। उस पर MeleHub → सेटिंग्स → डेटा → लोकल सिंक खोलें और सिंक मोड चालू करें। दोनों डिवाइस एक ही वाई-फ़ाई पर होने चाहिए।</string>
     <string name="local_sync_error_unauthorized">दूसरे डिवाइस ने मना कर दिया। पिन ग़लत हो सकता है, या उसने इस डिवाइस को भुला दिया है।</string>
     <string name="local_sync_error_bad_payload">जो आया उसे पढ़ा नहीं जा सका। अगर आपने पासवर्ड लगाया है, तो देखें कि वह दोनों डिवाइस पर एक जैसा है।</string>
     <string name="local_sync_error_unknown">कुछ ग़लत हो गया। दोबारा कोशिश करें।</string>
@@ -1453,7 +1453,7 @@
     <string name="settings_multiview_keep_two">2 ही रखें</string>
     <string name="settings_multiview_use_anyway">फिर भी इस्तेमाल करें</string>
     <string name="settings_app_icon">ऐप आइकन</string>
-    <string name="settings_app_icon_summary">OwnTV आइकन और लोगो का रंग</string>
+    <string name="settings_app_icon_summary">MeleHub आइकन और लोगो का रंग</string>
     <string name="app_icon_petrol">पेट्रोल</string>
     <string name="app_icon_sunflower">सूरजमुखी</string>
     <string name="app_icon_cobalt">कोबाल्ट</string>
@@ -1462,7 +1462,7 @@
     <string name="app_icon_eggshell">एगशेल</string>
     <string name="app_icon_olive">ऑलिव</string>
     <string name="app_icon_olive_cream">क्रीम पर ऑलिव</string>
-    <string name="app_icon_restart_title">OwnTV रीस्टार्ट करें?</string>
-    <string name="app_icon_restart_message">आपने नया आइकन और लोगो चुना है। OwnTV रीस्टार्ट होने के बाद ये लागू होंगे।</string>
+    <string name="app_icon_restart_title">MeleHub रीस्टार्ट करें?</string>
+    <string name="app_icon_restart_message">आपने नया आइकन और लोगो चुना है। MeleHub रीस्टार्ट होने के बाद ये लागू होंगे।</string>
     <string name="app_icon_restart_now">अभी रीस्टार्ट करें</string>
 </resources>

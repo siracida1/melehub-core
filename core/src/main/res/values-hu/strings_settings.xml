@@ -48,7 +48,7 @@
     <string name="settings_dynamic">Dinamikus</string>
     <string name="settings_http_proxy">HTTP-proxy</string>
     <string name="settings_use_proxy">Proxy használata</string>
-    <string name="settings_proxy_description">Az OwnTV teljes forgalmát és lejátszását HTTP-proxyn keresztül küldi.</string>
+    <string name="settings_proxy_description">Az MeleHub teljes forgalmát és lejátszását HTTP-proxyn keresztül küldi.</string>
     <string name="settings_host">Kiszolgáló</string>
     <string name="settings_proxy_host_hint">proxy.example.com</string>
     <string name="settings_port">Port</string>
@@ -161,7 +161,7 @@
         <item quantity="other"><xliff:g id="remaining">%1$d</xliff:g> / <xliff:g id="limit">%2$d</xliff:g> maradt</item>
     </plurals>
     <string name="settings_metadata_active_source">Aktív forrás</string>
-    <string name="settings_metadata_shared_worker_description">OwnTV Worker · nincs teendő</string>
+    <string name="settings_metadata_shared_worker_description">MeleHub Worker · nincs teendő</string>
     <string name="settings_metadata_connection">Kapcsolat</string>
     <string name="settings_metadata_remote_advanced">Speciális TMDB-beállítások</string>
     <string name="settings_metadata_remote_advanced_description">Használd a saját TMDB API-kulcsodat vagy saját üzemeltetésű Workeredet a közös alapértelmezett helyett.</string>
@@ -176,7 +176,7 @@
     <string name="settings_open_subtitles_api_key">OpenSubtitles alkalmazás-API-kulcs</string>
     <string name="settings_worker_server_url">Worker / kiszolgáló URL-je</string>
     <string name="settings_shared">Közös</string>
-    <string name="settings_open_subtitles_access_priority">Hagyd mindkettőt üresen az OwnTV közös Workeréhez. Az egyéni Worker URL elsőbbséget élvez a közvetlen API-kulccsal szemben. A fiókmenetek profilonként külön maradnak.</string>
+    <string name="settings_open_subtitles_access_priority">Hagyd mindkettőt üresen az MeleHub közös Workeréhez. Az egyéni Worker URL elsőbbséget élvez a közvetlen API-kulccsal szemben. A fiókmenetek profilonként külön maradnak.</string>
     <string name="settings_remove_custom_access">Egyéni hozzáférés eltávolítása</string>
     <string name="settings_metadata_usage_label">Felhasználás</string>
     <string name="settings_metadata_usage_value" tools:ignore="PluralsCandidate"><xliff:g id="min_used">%1$d</xliff:g>/<xliff:g id="min_total">%2$d</xliff:g> perc · <xliff:g id="hr_used">%3$d</xliff:g>/<xliff:g id="hr_total">%4$d</xliff:g> óra · <xliff:g id="day_used">%5$d</xliff:g>/<xliff:g id="day_total">%6$d</xliff:g> nap</string>
@@ -185,8 +185,8 @@
     <string name="settings_metadata_server_label">Kiszolgáló</string>
     <string name="settings_metadata_refills_label">Feltöltődik ekkor</string>
     <string name="settings_metadata_clear_advanced_title">Ne használjuk tovább a saját kulcsodat?</string>
-    <string name="settings_metadata_clear_advanced_message">A TMDB API-kulcsod és a saját üzemeltetésű kiszolgálód címe törlődik erről az eszközről, és az OwnTV visszatér a beépített közös szolgáltatáshoz és annak napi keretéhez.</string>
-    <string name="settings_metadata_fair_share">A beépített szolgáltatáson mindenki osztozik, aki OwnTV-t használ. Ha bármelyik perces, órás vagy napi keret elfogy, a TMDB-részletek szünetelnek, amíg az adott időszak vissza nem áll; a lejátszási lista adatai továbbra is működnek. A saját kulcsod vagy Workered megszünteti ezt a korlátot.</string>
+    <string name="settings_metadata_clear_advanced_message">A TMDB API-kulcsod és a saját üzemeltetésű kiszolgálód címe törlődik erről az eszközről, és az MeleHub visszatér a beépített közös szolgáltatáshoz és annak napi keretéhez.</string>
+    <string name="settings_metadata_fair_share">A beépített szolgáltatáson mindenki osztozik, aki MeleHub-t használ. Ha bármelyik perces, órás vagy napi keret elfogy, a TMDB-részletek szünetelnek, amíg az adott időszak vissza nem áll; a lejátszási lista adatai továbbra is működnek. A saját kulcsod vagy Workered megszünteti ezt a korlátot.</string>
     <string name="settings_metadata_limit_reached">A napi metaadat-kereted elfogyott — add meg a saját TMDB-kulcsodat a Beállítások → Metaadatok alatt a korlát megszüntetéséhez.</string>
     <string name="settings_metadata_language">Metaadatok nyelve</string>
     <string name="settings_metadata_language_description">A TMDB-ből érkező tartalomleírások, műfajok és címek nyelve. Amit a TMDB nem fordított le, angolul marad. A részletek nyelvenként gyorsítótárazódnak, így a visszaváltás azonnali.</string>
@@ -338,8 +338,8 @@
     <string name="settings_auto_frame_rate_warning_suffix">Ezen a TV-n nem ajánlott: Android 12 alatt a frekvencia nem váltható zökkenőmentesen.</string>
     <string name="settings_auto_frame_rate_warning_title">Ezen a TV-n nem ajánlott</string>
     <string name="settings_auto_frame_rate_warning_title_mobile">Ezen az eszközön nem ajánlott</string>
-    <string name="settings_auto_frame_rate_warning_description">Ezen az eszközön Android <xliff:g id="android_version">%1$s</xliff:g> fut. Android 12 alatt a TV nem tudja megmondani az OwnTV-nek, mely frissítési frekvenciákra tud zökkenőmentesen váltani, ezért a frekvenciaváltás egy-két másodpercre elsötétítheti a képet — néha egy műsor alatt többször is.\n\nAzt javasoljuk, hagyd itt kikapcsolva az automatikus képkockasebességet. Ha a TV-d tisztán vált, kapcsold be, és próbáld ki: bármikor visszaállíthatod.</string>
-    <string name="settings_auto_frame_rate_warning_description_mobile">Ezen az eszközön Android <xliff:g id="android_version">%1$s</xliff:g> fut. Android 12 alatt az eszköz nem tudja megmondani az OwnTV-nek, mely frissítési frekvenciákra tud zökkenőmentesen váltani, ezért a frekvenciaváltás egy-két másodpercre elsötétítheti a képet — néha egy műsor alatt többször is.\n\nAzt javasoljuk, hagyd itt kikapcsolva az automatikus képkockasebességet. Ha a kijelződ tisztán vált, kapcsold be, és próbáld ki: bármikor visszaállíthatod.</string>
+    <string name="settings_auto_frame_rate_warning_description">Ezen az eszközön Android <xliff:g id="android_version">%1$s</xliff:g> fut. Android 12 alatt a TV nem tudja megmondani az MeleHub-nek, mely frissítési frekvenciákra tud zökkenőmentesen váltani, ezért a frekvenciaváltás egy-két másodpercre elsötétítheti a képet — néha egy műsor alatt többször is.\n\nAzt javasoljuk, hagyd itt kikapcsolva az automatikus képkockasebességet. Ha a TV-d tisztán vált, kapcsold be, és próbáld ki: bármikor visszaállíthatod.</string>
+    <string name="settings_auto_frame_rate_warning_description_mobile">Ezen az eszközön Android <xliff:g id="android_version">%1$s</xliff:g> fut. Android 12 alatt az eszköz nem tudja megmondani az MeleHub-nek, mely frissítési frekvenciákra tud zökkenőmentesen váltani, ezért a frekvenciaváltás egy-két másodpercre elsötétítheti a képet — néha egy műsor alatt többször is.\n\nAzt javasoljuk, hagyd itt kikapcsolva az automatikus képkockasebességet. Ha a kijelződ tisztán vált, kapcsold be, és próbáld ki: bármikor visszaállíthatod.</string>
     <string name="settings_auto_frame_rate_keep_off">Maradjon ki</string>
     <string name="settings_auto_frame_rate_turn_on_anyway">Mégis bekapcsolom</string>
     <string name="settings_surround_sound">Térhatású hang</string>
@@ -378,7 +378,7 @@
     <string name="settings_network_group">Hálózat</string>
     <string name="settings_app_group">Alkalmazás</string>
     <string name="settings_app_startup">Alkalmazás indulása</string>
-    <string name="settings_app_startup_description">Mit nyit meg az OwnTV induláskor</string>
+    <string name="settings_app_startup_description">Mit nyit meg az MeleHub induláskor</string>
     <string name="settings_check_updates">Frissítések keresése</string>
     <string name="settings_check_updates_description">Szerezd meg a legújabb verziót a GitHub Releases oldalról</string>
     <string name="settings_update_startup">Frissítés keresése induláskor</string>
@@ -410,7 +410,7 @@
     <string name="settings_about_version"><xliff:g id="version">%1$s</xliff:g> verzió</string>
     <string name="settings_about_description_full">A saját IPTV-lejátszód Android TV-hez — ingyenes, nyílt forráskódú, kizárólag lejátszó alkalmazás. Nem kínál csatornákat vagy tartalmat; a saját, legálisan elérhető forrásaidat hozod.</string>
     <string name="settings_about_description_full_mobile">A saját IPTV-lejátszód Android-hez — ingyenes, nyílt forráskódú, kizárólag lejátszó alkalmazás. Nem kínál csatornákat vagy tartalmat; a saját, legálisan elérhető forrásaidat hozod.</string>
-    <string name="settings_about_license">© 2026 OwnTV · GPLv3 licenc</string>
+    <string name="settings_about_license">© 2026 MeleHub · GPLv3 licenc</string>
     <string name="settings_join_telegram">Csatlakozz hozzánk a Telegramon</string>
     <string name="settings_telegram_qr">A Telegram-csoport QR-kódja</string>
     <string name="settings_telegram_scan">Olvasd be a QR-kódot a telefonoddal a csatlakozáshoz, vagy nyisd meg a fenti hivatkozást.</string>
@@ -705,7 +705,7 @@ Válaszd a Kiegyensúlyozott beállítást, ha egy csatorna megbízhatatlanná v
     <string name="settings_guide_synced">A műsorújság szinkronizálva</string>
     <string name="settings_guide_sync_failed">A műsorújság szinkronizálása nem sikerült</string>
     <string name="settings_restore_remote_title">Visszaállítás másik eszközről</string>
-    <string name="settings_restore_remote_description">Egy telefonon, táblagépen vagy számítógépen ugyanazon a Wi-Fi-n olvasd be a QR-kódot (vagy nyisd meg az URL-t), add meg ezt a PIN-kódot, válaszd ki az OwnTV-mentésfájlodat, és koppints a Küldés a TV-re gombra. Utána itt választod ki, mit állítson vissza.</string>
+    <string name="settings_restore_remote_description">Egy telefonon, táblagépen vagy számítógépen ugyanazon a Wi-Fi-n olvasd be a QR-kódot (vagy nyisd meg az URL-t), add meg ezt a PIN-kódot, válaszd ki az MeleHub-mentésfájlodat, és koppints a Küldés a TV-re gombra. Utána itt választod ki, mit állítson vissza.</string>
     <string name="settings_opening_server">Kiszolgáló indítása…</string>
     <string name="settings_enter_pin_browser">Írd be ezt a PIN-kódot a böngészőbe</string>
     <string name="settings_companion_qr">QR-kód a kísérő URL-hez</string>
@@ -732,7 +732,7 @@ Válaszd a Kiegyensúlyozott beállítást, ha egy csatorna megbízhatatlanná v
     </plurals>
     <string name="settings_catchup_timezone_device">Eszköz</string>
     <string name="settings_catchup_player_ask">Mindig kérdezzen</string>
-    <string name="settings_catchup_player_internal">OwnTV lejátszó</string>
+    <string name="settings_catchup_player_internal">MeleHub lejátszó</string>
     <string name="settings_catchup_player_external">Külső lejátszó</string>
     <string name="settings_soon">HAMAROSAN</string>
     <string name="settings_download_folder_title">Válaszd ki a letöltési mappát</string>
@@ -872,9 +872,9 @@ Válaszd a Kiegyensúlyozott beállítást, ha egy csatorna megbízhatatlanná v
     <string name="settings_sources_info">Információ</string>
     <string name="settings_sources_retest">Újratesztelés</string>
     <string name="settings_sources_probe_title">Teszteli ezt a lejátszási listát?</string>
-    <string name="settings_sources_probe_warning">Sok szolgáltató soha nem árulja el, hány csatornát nézhet egyszerre, ezért az OwnTV úgy deríti ki, hogy megnyit néhányat, és megnézi, melyik marad életben. Minden, ami most szól, le fog állni, és ez akár két percig is eltarthat.</string>
+    <string name="settings_sources_probe_warning">Sok szolgáltató soha nem árulja el, hány csatornát nézhet egyszerre, ezért az MeleHub úgy deríti ki, hogy megnyit néhányat, és megnézi, melyik marad életben. Minden, ami most szól, le fog állni, és ez akár két percig is eltarthat.</string>
     <string name="settings_sources_probe_running">Annak ellenőrzése, hány csatornát enged ez a szolgáltató… (<xliff:g id="current">%1$d</xliff:g>/<xliff:g id="total">%2$d</xliff:g>)</string>
-    <string name="settings_sources_probe_unknown">Az OwnTV nem tudta megállapítani, hány csatornát enged ez a szolgáltató.</string>
+    <string name="settings_sources_probe_unknown">Az MeleHub nem tudta megállapítani, hány csatornát enged ez a szolgáltató.</string>
     <string name="settings_sources_probe_skip">Kihagyás</string>
     <string name="settings_sources_auto_refresh">⟳ <xliff:g id="mode">%1$s</xliff:g></string>
     <string name="settings_sources_default">ALAPÉRTELMEZETT</string>
@@ -1133,7 +1133,7 @@ Az Újraszinkronizálás és a hiányzó címek eltávolítása azt is lehetőv�
 
     <string name="settings_dns_description">Egyéni DNS-kiszolgáló használata a domainek feloldásához</string>
     <string name="settings_dns_custom">Egyéni DNS</string>
-    <string name="settings_dns_toggle_description">Az OwnTV összes domainfeloldása egyéni DNS-kiszolgálón keresztül történjen.</string>
+    <string name="settings_dns_toggle_description">Az MeleHub összes domainfeloldása egyéni DNS-kiszolgálón keresztül történjen.</string>
     <string name="settings_dns_use_custom">Egyéni DNS használata</string>
     <string name="settings_dns_server_missing">Az egyéni DNS be van kapcsolva, de nincs beállítva kiszolgáló. Adj meg egy kiszolgálócímet és válaszd a Mentést, vagy kapcsold ki ezt.</string>
     <string name="settings_dns_server">DNS-kiszolgáló</string>
@@ -1181,7 +1181,7 @@ Az Újraszinkronizálás és a hiányzó címek eltávolítása azt is lehetőv�
     <string name="settings_live_preroll">Élő adatfolyamok előpufferelése</string>
     <string name="settings_live_preroll_description">Ennyi videót gyűjtsön össze, mielőtt egy élő csatorna elindul, és minden akadozás után újra. Ez videómennyiség, nem visszaszámlálás. A Ki tartja a lehető leggyorsabb indulást, és a legtöbb szolgáltatóhoz ez a helyes. Csak akkor emeld, ha a lejátszás ténylegesen akadozik: sok szolgáltató csak néhány másodperccel az élő adás előtt tesz közzé, és ha többet kérsz, mint amennyit küldenek, az ronthat az akadozáson.</string>
     <string name="settings_live_tune_timeout">Csatorna feladása ennyi után</string>
-    <string name="settings_live_tune_timeout_description">Ha egy élő csatorna eddig sem mutatott képet, az OwnTV abbahagyja a próbálkozást és szól, ahelyett hogy fekete képernyőt hagyna, miközben végigmegy az összes lejátszóján. A Soha tovább próbálkozik, ami jóval egy percnél is tovább tarthat egy olyan csatornánál, amit a szolgáltatód eltávolított. A szolgáltatód által kért várakozások nem számítanak bele.</string>
+    <string name="settings_live_tune_timeout_description">Ha egy élő csatorna eddig sem mutatott képet, az MeleHub abbahagyja a próbálkozást és szól, ahelyett hogy fekete képernyőt hagyna, miközben végigmegy az összes lejátszóján. A Soha tovább próbálkozik, ami jóval egy percnél is tovább tarthat egy olyan csatornánál, amit a szolgáltatód eltávolított. A szolgáltatód által kért várakozások nem számítanak bele.</string>
     <string name="settings_live_preroll_per_playlist">Előpufferelés lejátszási listánként</string>
     <string name="settings_live_preroll_per_playlist_description">A fenti beállítás felülírása egyetlen lejátszási listára, hogy a többi gyors maradjon.</string>
     <string name="settings_live_engine_per_playlist">Élő TV lejátszó lejátszási listánként</string>
@@ -1203,7 +1203,7 @@ Az Újraszinkronizálás és a hiányzó címek eltávolítása azt is lehetőv�
     <string name="settings_surround_auto_description_mobile">Automatikus — próbálja meg a Dolby/DTS térhangzást, és váltson vissza automatikusan sztereóra, ha a hangszóró, a fejhallgató vagy a csatlakoztatott vevő nem játssza le. Ajánlott.</string>
     <string name="settings_surround_stereo_description">Csak sztereó — mindig az alkalmazásban dekódoljon, és sima 2.0 hangot küldjön. Ezt használd TV-hangszórón vagy sztereó hangprojektoron, illetve ha a hang lemarad a képhez képest.</string>
     <string name="settings_surround_stereo_description_mobile">Csak sztereó — mindig az alkalmazásban dekódoljon, és sima 2.0 hangot küldjön. Ezt használd a beépített hangszóróhoz, fejhallgatóhoz vagy sztereó hangprojektorhoz, illetve ha a hang lemarad a képhez képest.</string>
-    <string name="settings_surround_forced_description">Térhangzás — Dolby/DTS küldése valódi 5.1/7.1 erősítőnek. Ha elnémul vagy akadozik, az OwnTV akkor is sztereóra vált, és szól róla.</string>
+    <string name="settings_surround_forced_description">Térhangzás — Dolby/DTS küldése valódi 5.1/7.1 erősítőnek. Ha elnémul vagy akadozik, az MeleHub akkor is sztereóra vált, és szól róla.</string>
     <string name="settings_panel_width">Panelszélesség beállítása</string>
     <string name="settings_panel_width_description">A kategória-, lista- és előnézeti panelek átméretezése az Élő TV-ben, a Filmekben és a Sorozatokban.</string>
     <string name="settings_vod_layout">Filmek és Sorozatok elrendezése</string>
@@ -1256,11 +1256,11 @@ Az Újraszinkronizálás és a hiányzó címek eltávolítása azt is lehetőv�
     <string name="settings_panel_width_disable_preview_description">Az élő előnézeti videó jelenleg be van kapcsolva. Az Előnézeti panel elrejtése kikapcsolja a videót, és nem lehet újra bekapcsolni, amíg nem adsz az Előnézeti panelnek szélességet a Panelszélesség beállításánál.</string>
     <string name="settings_live_preview_panel_hidden_title">Az élő előnézeti videó nem érhető el</string>
     <string name="settings_live_preview_panel_hidden_description">Az Élő TV előnézeti panelje rejtve van. Adj neki 0%% feletti szélességet a Panelszélesség beállításánál, mielőtt bekapcsolod az előnézeti videót.</string>
-    <string name="settings_language_help_translate">Segíts lefordítani az OwnTV-t a nyelvedre</string>
-    <string name="settings_language_contribution_description">Olvasd be a QR-kódot vagy nyisd meg a hivatkozást, hogy bármelyik elérhető nyelvet válaszd, és mind a hat OwnTV-fordítási komponenshez hozzájárulj.</string>
+    <string name="settings_language_help_translate">Segíts lefordítani az MeleHub-t a nyelvedre</string>
+    <string name="settings_language_contribution_description">Olvasd be a QR-kódot vagy nyisd meg a hivatkozást, hogy bármelyik elérhető nyelvet válaszd, és mind a hat MeleHub-fordítási komponenshez hozzájárulj.</string>
     <string name="settings_language_request_workflow">Olyan nyelvet szeretnél hozzáadni, ami nem szerepel a listán? Először nyiss egy nyelvkérelmet. Egy karbantartó regisztrálja, és előkészíti az alapfordítási fájlokat; amint megjelenik a Hosted Weblate-en, elkezdhetsz hozzájárulni.</string>
     <string name="settings_language_request_new">Új nyelv kérése</string>
-    <string name="settings_language_contribution_qr_description">QR-kód az OwnTV-fordítási projekt áttekintéséhez</string>
+    <string name="settings_language_contribution_qr_description">QR-kód az MeleHub-fordítási projekt áttekintéséhez</string>
     <string name="settings_language_contribution_qr_failed">A QR-kódot nem sikerült létrehozni. Használd helyette az alább látható hivatkozást.</string>
     <string name="settings_language_contribution_copy">Hivatkozás másolása</string>
     <string name="settings_language_contribution_copied">Hivatkozás másolva</string>
@@ -1281,7 +1281,7 @@ Az Újraszinkronizálás és a hiányzó címek eltávolítása azt is lehetőv�
     <string name="settings_glass_highlight_description">A fókuszált üveg fényének és peremének beállítása.</string>
     <string name="settings_glass_live_preview">Élő előnézet</string>
     <string name="settings_glass_screen_description">Hangold az áttetsző felületeket, és lásd azonnal minden változást.</string>
-    <string name="settings_glass_master_description">Áttetsző, mattított felületek használata az egész OwnTV-ben.</string>
+    <string name="settings_glass_master_description">Áttetsző, mattított felületek használata az egész MeleHub-ben.</string>
     <string name="settings_glass_background_image">Háttérkép</string>
     <string name="settings_glass_surface_transparency_title">Felület átlátszósága</string>
     <string name="settings_glass_background_blur_title">Háttér elmosása</string>
@@ -1397,7 +1397,7 @@ Az Újraszinkronizálás és a hiányzó címek eltávolítása azt is lehetőv�
     <string name="local_sync_received_items">Fogadott elemek: <xliff:g id="count">%1$d</xliff:g></string>
     <string name="local_sync_sent">Az adatai elküldve</string>
     <string name="local_sync_failed">A szinkronizálás sikertelen</string>
-    <string name="local_sync_error_unreachable">Ez az eszköz nem érhető el. Nyissa meg rajta az OwnTV → Beállítások → Adatok → Helyi szinkronizálás menüpontot, és kapcsolja be a Szinkronizálási módot. Mindkét eszköznek ugyanazon a Wi-Fi-n kell lennie.</string>
+    <string name="local_sync_error_unreachable">Ez az eszköz nem érhető el. Nyissa meg rajta az MeleHub → Beállítások → Adatok → Helyi szinkronizálás menüpontot, és kapcsolja be a Szinkronizálási módot. Mindkét eszköznek ugyanazon a Wi-Fi-n kell lennie.</string>
     <string name="local_sync_error_unauthorized">A másik eszköz elutasította. Lehet, hogy a PIN hibás, vagy elfelejtette ezt az eszközt.</string>
     <string name="local_sync_error_bad_payload">A beérkezett adatokat nem sikerült beolvasni. Ha jelszót használt, ellenőrizze, hogy mindkét eszközön ugyanaz-e.</string>
     <string name="local_sync_error_unknown">Valami hiba történt. Próbálja újra.</string>
@@ -1438,7 +1438,7 @@ Az Újraszinkronizálás és a hiányzó címek eltávolítása azt is lehetőv�
     <string name="settings_multiview_keep_two">Maradjon 2</string>
     <string name="settings_multiview_use_anyway">Mégis ennyi legyen</string>
     <string name="settings_app_icon">Alkalmazásikon</string>
-    <string name="settings_app_icon_summary">Az OwnTV ikonjának és logójának színe</string>
+    <string name="settings_app_icon_summary">Az MeleHub ikonjának és logójának színe</string>
     <string name="app_icon_petrol">Petrolkék</string>
     <string name="app_icon_sunflower">Napraforgó</string>
     <string name="app_icon_cobalt">Kobalt</string>
@@ -1447,7 +1447,7 @@ Az Újraszinkronizálás és a hiányzó címek eltávolítása azt is lehetőv�
     <string name="app_icon_eggshell">Tojáshéj</string>
     <string name="app_icon_olive">Olívazöld</string>
     <string name="app_icon_olive_cream">Olívazöld krémen</string>
-    <string name="app_icon_restart_title">Újraindítja az OwnTV-t?</string>
-    <string name="app_icon_restart_message">Új ikont és logót választott. Az OwnTV újraindítása után lépnek életbe.</string>
+    <string name="app_icon_restart_title">Újraindítja az MeleHub-t?</string>
+    <string name="app_icon_restart_message">Új ikont és logót választott. Az MeleHub újraindítása után lépnek életbe.</string>
     <string name="app_icon_restart_now">Újraindítás most</string>
 </resources>
