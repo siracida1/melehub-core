@@ -57,6 +57,9 @@ class LocaleStore internal constructor(
         // hand-edited migration; getString itself throws ClassCastException in that case. A corrupt
         // locale must never take down Application.attachBaseContext, so treat every read failure as
         // the system-default selection.
+        // MeleHub: first run (nothing stored yet) defaults to Latin-American Spanish; picking
+        // "System default" later still stores "" and follows the device.
+        if (!runCatching { preferences.contains(KEY_UI_LANGUAGE) }.getOrDefault(true)) return "es-US"
         val stored = runCatching { preferences.getString(KEY_UI_LANGUAGE, "") }.getOrNull()
         return normalize(stored) ?: AppLocale.SYSTEM_DEFAULT_TAG
     }
